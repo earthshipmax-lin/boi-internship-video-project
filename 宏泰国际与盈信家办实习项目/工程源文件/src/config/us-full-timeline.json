@@ -1,0 +1,702 @@
+{
+  "fps": 30,
+  "duration": 60,
+  "frames": 1800,
+  "scenes": [
+    {
+      "id": "S0",
+      "duration": 2.960583333333333,
+      "source": "vo/us-v1/full/S0.wav",
+      "playbackRate": 1,
+      "text": "Most people never get a real shot at this business.",
+      "synthesisText": "Most people never get a real shot at this business.",
+      "words": [
+        {
+          "word": "Most",
+          "start": 0.0,
+          "end": 0.36
+        },
+        {
+          "word": " people",
+          "start": 0.36,
+          "end": 0.74
+        },
+        {
+          "word": " never",
+          "start": 0.74,
+          "end": 1.02
+        },
+        {
+          "word": " get",
+          "start": 1.02,
+          "end": 1.2
+        },
+        {
+          "word": " a",
+          "start": 1.2,
+          "end": 1.46
+        },
+        {
+          "word": " real",
+          "start": 1.46,
+          "end": 1.68
+        },
+        {
+          "word": " shot",
+          "start": 1.68,
+          "end": 1.92
+        },
+        {
+          "word": " at",
+          "start": 1.92,
+          "end": 2.12
+        },
+        {
+          "word": " this",
+          "start": 2.12,
+          "end": 2.28
+        },
+        {
+          "word": " business",
+          "start": 2.28,
+          "end": 2.62
+        },
+        {
+          "word": ".",
+          "start": 2.62,
+          "end": 2.94
+        }
+      ],
+      "sourceSha256": "4c3cb2648232f0feeb5767e9662e66d2ef98015c6790f78498e386c692390c06",
+      "reused": false,
+      "startFrame": 0,
+      "endFrame": 120,
+      "voiceStartFrame": 6
+    },
+    {
+      "id": "S1",
+      "duration": 6.423729166666667,
+      "source": "vo/us-v1/full/S1.wav",
+      "playbackRate": 1,
+      "text": "We're Blue Oak International. A US practice built by people with experience across the industry.",
+      "synthesisText": "We're Blue Oak International.<#0.4#> A US practice built by people with experience across the industry.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": " Blue",
+          "start": 0.4,
+          "end": 0.6
+        },
+        {
+          "word": " Oak",
+          "start": 0.6,
+          "end": 0.9
+        },
+        {
+          "word": " International",
+          "start": 0.9,
+          "end": 1.54
+        },
+        {
+          "word": ".",
+          "start": 1.54,
+          "end": 2.62
+        },
+        {
+          "word": " A",
+          "start": 2.62,
+          "end": 2.78
+        },
+        {
+          "word": " US",
+          "start": 2.78,
+          "end": 3.08
+        },
+        {
+          "word": " practice",
+          "start": 3.08,
+          "end": 3.46
+        },
+        {
+          "word": " built",
+          "start": 3.46,
+          "end": 3.78
+        },
+        {
+          "word": " by",
+          "start": 3.78,
+          "end": 4.0
+        },
+        {
+          "word": " people",
+          "start": 4.0,
+          "end": 4.3
+        },
+        {
+          "word": " with",
+          "start": 4.3,
+          "end": 4.64
+        },
+        {
+          "word": " experience",
+          "start": 4.64,
+          "end": 5.1
+        },
+        {
+          "word": " across",
+          "start": 5.1,
+          "end": 5.52
+        },
+        {
+          "word": " the",
+          "start": 5.52,
+          "end": 5.8
+        },
+        {
+          "word": " industry",
+          "start": 5.8,
+          "end": 6.18
+        },
+        {
+          "word": ".",
+          "start": 6.18,
+          "end": 6.4
+        }
+      ],
+      "sourceSha256": "dbd4d7d93b54fe01f4bbb4f874f4157eb052b53bc2563c483066f215b92d4320",
+      "reused": false,
+      "startFrame": 120,
+      "endFrame": 338,
+      "voiceStartFrame": 144
+    },
+    {
+      "id": "S2",
+      "duration": 6.819041666666666,
+      "source": "vo/us-v1/full/S2.wav",
+      "playbackRate": 1,
+      "text": "Meet the people behind our US team. Their experience spans insurance, banking, and engineering.",
+      "synthesisText": "Meet the people behind our US team.<#0.4#> Their experience spans insurance, banking, and engineering.",
+      "words": [
+        {
+          "word": "Meet",
+          "start": 0.0,
+          "end": 0.38
+        },
+        {
+          "word": " the",
+          "start": 0.38,
+          "end": 0.52
+        },
+        {
+          "word": " people",
+          "start": 0.52,
+          "end": 0.78
+        },
+        {
+          "word": " behind",
+          "start": 0.78,
+          "end": 1.16
+        },
+        {
+          "word": " our",
+          "start": 1.16,
+          "end": 1.48
+        },
+        {
+          "word": " US",
+          "start": 1.48,
+          "end": 1.76
+        },
+        {
+          "word": " team",
+          "start": 1.76,
+          "end": 2.4
+        },
+        {
+          "word": ".",
+          "start": 2.4,
+          "end": 3.18
+        },
+        {
+          "word": " Their",
+          "start": 3.18,
+          "end": 3.32
+        },
+        {
+          "word": " experience",
+          "start": 3.32,
+          "end": 3.8
+        },
+        {
+          "word": " spans",
+          "start": 3.8,
+          "end": 4.16
+        },
+        {
+          "word": " insurance",
+          "start": 4.16,
+          "end": 4.8
+        },
+        {
+          "word": ",",
+          "start": 4.8,
+          "end": 5.22
+        },
+        {
+          "word": " banking",
+          "start": 5.22,
+          "end": 5.56
+        },
+        {
+          "word": ",",
+          "start": 5.56,
+          "end": 5.96
+        },
+        {
+          "word": " and",
+          "start": 5.96,
+          "end": 6.14
+        },
+        {
+          "word": " engineering",
+          "start": 6.14,
+          "end": 6.52
+        },
+        {
+          "word": ".",
+          "start": 6.52,
+          "end": 6.78
+        }
+      ],
+      "sourceSha256": "f5cc437a7e8df43682d95abedd62c58c6267f186692e2c7d02916b303f5e5845",
+      "reused": true,
+      "startFrame": 338,
+      "endFrame": 578,
+      "voiceStartFrame": 362
+    },
+    {
+      "id": "S3",
+      "duration": 6.563041666666667,
+      "source": "vo/us-v1/full/S3.wav",
+      "playbackRate": 1,
+      "text": "Year one is structured. Licensing, products, and the fundamentals you actually need.",
+      "synthesisText": "Year one is structured.<#0.4#> Licensing, products, and the fundamentals you actually need.",
+      "words": [
+        {
+          "word": "Year",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": " one",
+          "start": 0.48,
+          "end": 0.68
+        },
+        {
+          "word": " is",
+          "start": 0.68,
+          "end": 0.88
+        },
+        {
+          "word": " structured",
+          "start": 0.88,
+          "end": 1.3
+        },
+        {
+          "word": ".",
+          "start": 1.3,
+          "end": 2.44
+        },
+        {
+          "word": " Licensing",
+          "start": 2.44,
+          "end": 2.88
+        },
+        {
+          "word": ",",
+          "start": 2.88,
+          "end": 3.54
+        },
+        {
+          "word": " products",
+          "start": 3.54,
+          "end": 3.92
+        },
+        {
+          "word": ",",
+          "start": 3.92,
+          "end": 4.64
+        },
+        {
+          "word": " and",
+          "start": 4.64,
+          "end": 4.76
+        },
+        {
+          "word": " the",
+          "start": 4.76,
+          "end": 4.9
+        },
+        {
+          "word": " fundamentals",
+          "start": 4.9,
+          "end": 5.36
+        },
+        {
+          "word": " you",
+          "start": 5.36,
+          "end": 5.78
+        },
+        {
+          "word": " actually",
+          "start": 5.78,
+          "end": 6.06
+        },
+        {
+          "word": " need",
+          "start": 6.06,
+          "end": 6.44
+        },
+        {
+          "word": ".",
+          "start": 6.44,
+          "end": 6.54
+        }
+      ],
+      "sourceSha256": "55015e926b4e4096d7ec27338b6ab80de639d73047b48e40c955bc289f106a58",
+      "reused": false,
+      "startFrame": 578,
+      "endFrame": 930,
+      "voiceStartFrame": 602
+    },
+    {
+      "id": "S4",
+      "duration": 5.82,
+      "source": "vo/us-v1/full/S4.wav",
+      "playbackRate": 1,
+      "text": "You're not handed a list and left alone. You work alongside partners who've done this before.",
+      "synthesisText": "You're not handed a list and left alone.<#0.4#> You work alongside partners who've done this before.",
+      "words": [
+        {
+          "word": "You're",
+          "start": 0.0,
+          "end": 0.34
+        },
+        {
+          "word": " not",
+          "start": 0.34,
+          "end": 0.5
+        },
+        {
+          "word": " handed",
+          "start": 0.5,
+          "end": 0.74
+        },
+        {
+          "word": " a",
+          "start": 0.74,
+          "end": 0.98
+        },
+        {
+          "word": " list",
+          "start": 0.98,
+          "end": 1.24
+        },
+        {
+          "word": " and",
+          "start": 1.24,
+          "end": 1.46
+        },
+        {
+          "word": " left",
+          "start": 1.46,
+          "end": 1.64
+        },
+        {
+          "word": " alone",
+          "start": 1.64,
+          "end": 2.18
+        },
+        {
+          "word": ".",
+          "start": 2.18,
+          "end": 3.08
+        },
+        {
+          "word": " You",
+          "start": 3.08,
+          "end": 3.28
+        },
+        {
+          "word": " work",
+          "start": 3.28,
+          "end": 3.46
+        },
+        {
+          "word": " alongside",
+          "start": 3.46,
+          "end": 3.9
+        },
+        {
+          "word": " partners",
+          "start": 3.9,
+          "end": 4.42
+        },
+        {
+          "word": " who've",
+          "start": 4.42,
+          "end": 4.82
+        },
+        {
+          "word": " done",
+          "start": 4.82,
+          "end": 4.9
+        },
+        {
+          "word": " this",
+          "start": 4.9,
+          "end": 5.12
+        },
+        {
+          "word": " before",
+          "start": 5.12,
+          "end": 5.56
+        },
+        {
+          "word": ".",
+          "start": 5.56,
+          "end": 5.8
+        }
+      ],
+      "sourceSha256": "05dc36f6cfd45a2f3a5be38f74fb772b69ba16d5d8797a23386f87b24c039a7f",
+      "reused": false,
+      "startFrame": 930,
+      "endFrame": 1230,
+      "voiceStartFrame": 954
+    },
+    {
+      "id": "S5",
+      "duration": 6.1716875,
+      "source": "vo/us-v1/full/S5.wav",
+      "playbackRate": 1,
+      "text": "It's not passive. The first year is the hardest one. We're direct about that.",
+      "synthesisText": "It's not passive.<#0.4#> The first year is the hardest one.<#0.4#> We're direct about that.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 0.0,
+          "end": 0.44
+        },
+        {
+          "word": " not",
+          "start": 0.44,
+          "end": 0.58
+        },
+        {
+          "word": " passive",
+          "start": 0.58,
+          "end": 1.08
+        },
+        {
+          "word": ".",
+          "start": 1.08,
+          "end": 2.08
+        },
+        {
+          "word": " The",
+          "start": 2.08,
+          "end": 2.24
+        },
+        {
+          "word": " first",
+          "start": 2.24,
+          "end": 2.54
+        },
+        {
+          "word": " year",
+          "start": 2.54,
+          "end": 2.8
+        },
+        {
+          "word": " is",
+          "start": 2.8,
+          "end": 3.14
+        },
+        {
+          "word": " the",
+          "start": 3.14,
+          "end": 3.32
+        },
+        {
+          "word": " hardest",
+          "start": 3.32,
+          "end": 3.5
+        },
+        {
+          "word": " one",
+          "start": 3.5,
+          "end": 4.3
+        },
+        {
+          "word": ".",
+          "start": 4.3,
+          "end": 5.04
+        },
+        {
+          "word": " We're",
+          "start": 5.04,
+          "end": 5.16
+        },
+        {
+          "word": " direct",
+          "start": 5.16,
+          "end": 5.44
+        },
+        {
+          "word": " about",
+          "start": 5.44,
+          "end": 5.74
+        },
+        {
+          "word": " that",
+          "start": 5.74,
+          "end": 6.08
+        },
+        {
+          "word": ".",
+          "start": 6.08,
+          "end": 6.14
+        }
+      ],
+      "sourceSha256": "75ed333e1dae08f2267426fe5b153e8680e7506d12e459420c08b196d6493a6a",
+      "reused": false,
+      "startFrame": 1230,
+      "endFrame": 1470,
+      "voiceStartFrame": 1254
+    },
+    {
+      "id": "S6",
+      "duration": 6.819041666666666,
+      "source": "vo/us-v1/full/S6.wav",
+      "playbackRate": 1,
+      "text": "If you've been thinking about this for a while, this is the conversation to have. Blue Oak International.",
+      "synthesisText": "If you've been thinking about this for a while, this is the conversation to have.<#0.4#> Blue Oak International.",
+      "words": [
+        {
+          "word": "If",
+          "start": 0.0,
+          "end": 0.32
+        },
+        {
+          "word": " you've",
+          "start": 0.32,
+          "end": 0.56
+        },
+        {
+          "word": " been",
+          "start": 0.56,
+          "end": 0.66
+        },
+        {
+          "word": " thinking",
+          "start": 0.66,
+          "end": 0.96
+        },
+        {
+          "word": " about",
+          "start": 0.96,
+          "end": 1.26
+        },
+        {
+          "word": " this",
+          "start": 1.26,
+          "end": 1.52
+        },
+        {
+          "word": " for",
+          "start": 1.52,
+          "end": 1.74
+        },
+        {
+          "word": " a",
+          "start": 1.74,
+          "end": 1.9
+        },
+        {
+          "word": " while",
+          "start": 1.9,
+          "end": 2.2
+        },
+        {
+          "word": ",",
+          "start": 2.2,
+          "end": 2.54
+        },
+        {
+          "word": " this",
+          "start": 2.54,
+          "end": 2.74
+        },
+        {
+          "word": " is",
+          "start": 2.74,
+          "end": 3.18
+        },
+        {
+          "word": " the",
+          "start": 3.18,
+          "end": 3.32
+        },
+        {
+          "word": " conversation",
+          "start": 3.32,
+          "end": 3.82
+        },
+        {
+          "word": " to",
+          "start": 3.82,
+          "end": 4.18
+        },
+        {
+          "word": " have",
+          "start": 4.18,
+          "end": 4.78
+        },
+        {
+          "word": ".",
+          "start": 4.78,
+          "end": 5.46
+        },
+        {
+          "word": " Blue",
+          "start": 5.46,
+          "end": 5.66
+        },
+        {
+          "word": " Oak",
+          "start": 5.66,
+          "end": 5.96
+        },
+        {
+          "word": " International",
+          "start": 5.96,
+          "end": 6.4
+        },
+        {
+          "word": ".",
+          "start": 6.4,
+          "end": 6.78
+        }
+      ],
+      "sourceSha256": "f8648df85ffa2626d5dc74cabcbc15b4bc3a08cb5358d5423b9c54bc8fadbea6",
+      "reused": false,
+      "startFrame": 1470,
+      "endFrame": 1800,
+      "voiceStartFrame": 1494
+    }
+  ]
+}

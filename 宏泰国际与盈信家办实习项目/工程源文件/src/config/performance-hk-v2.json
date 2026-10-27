@@ -1,0 +1,15 @@
+{
+  "direction":"溫和、真誠、有呼吸感；信任段留白，支持段穩定，結尾帶邀請感；所有句子按自然語速，禁止為片長加速",
+  "localVoice":"Sinji",
+  "localBaseRate":130,
+  "onlineVoice":"zh-HK-HiuMaanNeural",
+  "scenes":{
+    "S1":[{"text":"香港，","pauseAfter":0.35,"rate":"-12%","pitch":"-1Hz"},{"text":"已成為全球最大的跨境財富管理中心。","pauseAfter":0.65,"rate":"-12%","pitch":"-1Hz"}],
+    "S2":[{"text":"市場越大，","pauseAfter":0.32,"rate":"-10%","pitch":"-1Hz"},{"text":"客戶越需要一位，","pauseAfter":0.25,"rate":"-12%","pitch":"+0Hz"},{"text":"值得信任的人。","pauseAfter":0.7,"rate":"-18%","pitch":"-2Hz"}],
+    "S3":[{"text":"信任，","pauseAfter":0.45,"rate":"-16%","pitch":"-2Hz"},{"text":"不會一夜之間建立。","pauseAfter":0.5,"rate":"-14%","pitch":"-2Hz"},{"text":"它像橡樹的年輪，","pauseAfter":0.3,"rate":"-12%","pitch":"+0Hz"},{"text":"一圈一圈，","pauseAfter":0.32,"rate":"-18%","pitch":"-1Hz"},{"text":"慢慢長出來。","pauseAfter":0.8,"rate":"-20%","pitch":"-2Hz"}],
+    "S4":[{"text":"在宏泰國際，","pauseAfter":0.3,"rate":"-12%","pitch":"+0Hz"},{"text":"嚴謹的合規、","pauseAfter":0.2,"rate":"-10%","pitch":"+0Hz"},{"text":"資深的導師、","pauseAfter":0.2,"rate":"-10%","pitch":"+0Hz"},{"text":"專業的系統，","pauseAfter":0.35,"rate":"-10%","pitch":"+0Hz"},{"text":"陪你走好每一步。","pauseAfter":0.7,"rate":"-17%","pitch":"-1Hz"}],
+    "S5":[{"text":"立足香港，","pauseAfter":0.35,"rate":"-14%","pitch":"-1Hz"},{"text":"紮根這片土地。","pauseAfter":0.7,"rate":"-16%","pitch":"-2Hz"}],
+    "S6":[{"text":"第一季，","pauseAfter":0.2,"rate":"-12%","pitch":"+0Hz"},{"text":"打好專業根基。","pauseAfter":0.4,"rate":"-14%","pitch":"-1Hz"},{"text":"第二季，","pauseAfter":0.2,"rate":"-12%","pitch":"+0Hz"},{"text":"建立你的客戶網絡。","pauseAfter":0.4,"rate":"-14%","pitch":"-1Hz"},{"text":"第三、四季，","pauseAfter":0.25,"rate":"-12%","pitch":"+0Hz"},{"text":"成為獨當一面的理財顧問。","pauseAfter":0.8,"rate":"-16%","pitch":"-1Hz"}],
+    "S7":[{"text":"你的第一圈年輪，","pauseAfter":0.35,"rate":"-16%","pitch":"+0Hz"},{"text":"由今天開始。","pauseAfter":0.6,"rate":"-18%","pitch":"-1Hz"},{"text":"歡迎加入宏泰大家庭。","pauseAfter":1.0,"rate":"-18%","pitch":"+1Hz"}]
+  }
+}

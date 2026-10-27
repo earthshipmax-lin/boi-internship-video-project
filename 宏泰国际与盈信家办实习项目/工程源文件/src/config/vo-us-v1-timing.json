@@ -1,0 +1,101 @@
+{
+  "A": {
+    "role": "audition_only_not_person_testimonial",
+    "voiceDisplayName": "Deep Storyteller - Magnetic,Smooth,Sophisticated",
+    "nativeLanguageTag": "English / US (General)",
+    "language": "en-US",
+    "duration": 6.768645833333333,
+    "chunks": [
+      {
+        "text": "I came from New York Life.",
+        "start": 0,
+        "end": 1.86
+      },
+      {
+        "text": "Twenty years in this business.",
+        "start": 2.42,
+        "end": 3.92
+      },
+      {
+        "text": "Here's what we actually do for new advisors.",
+        "start": 4.38,
+        "end": 6.26
+      }
+    ],
+    "playbackRate": 1,
+    "synthesisSpeed": 1,
+    "synthesisPitch": 0,
+    "synthesisVolume": 1,
+    "mp3": "qa/us-v1/voice-auditions/A-deep-storyteller.mp3",
+    "wav": "public/vo/us-v1/audition-A.wav",
+    "sourceMp3Sha256": "56aad3ba9773b7af37fcfd3a8c0964b376483f0be7d3a3b7c737eceb82ea0854",
+    "sha256": "ce809847cc2eac4c8f354dcba666de81e4836fb823f5aef5f6c17a9a0f9daf92",
+    "timingSource": "Local Whisper tiny English reference-text forced alignment; approximate, not independently measured error"
+  },
+  "B": {
+    "role": "audition_only_not_person_testimonial",
+    "voiceDisplayName": "Magnetic-voiced Male - Deep,Resonant,Polished",
+    "nativeLanguageTag": "EN-US (General)",
+    "language": "en-US",
+    "duration": 5.748020833333333,
+    "chunks": [
+      {
+        "text": "I came from New York Life.",
+        "start": 0,
+        "end": 1.6
+      },
+      {
+        "text": "Twenty years in this business.",
+        "start": 1.8,
+        "end": 3.16
+      },
+      {
+        "text": "Here's what we actually do for new advisors.",
+        "start": 3.48,
+        "end": 5.34
+      }
+    ],
+    "playbackRate": 1,
+    "synthesisSpeed": 1,
+    "synthesisPitch": 0,
+    "synthesisVolume": 1,
+    "mp3": "qa/us-v1/voice-auditions/B-magnetic-voiced-male.mp3",
+    "wav": "public/vo/us-v1/audition-B.wav",
+    "sourceMp3Sha256": "e9347d8c32f5c24a9f3fc9c7f25c6d4b8864ce34460e622b3fcf7e3fb94320a3",
+    "sha256": "0db6c0e332876347a28b05274822903c0fce9ca0947b46122b90df6d09bd24a1",
+    "timingSource": "Local Whisper tiny English reference-text forced alignment; approximate, not independently measured error"
+  },
+  "C": {
+    "role": "audition_only_not_person_testimonial",
+    "voiceDisplayName": "Trustworthy Man - Warm,Resonant,Earthy",
+    "nativeLanguageTag": "English / EN-US (General) filter",
+    "language": "en-US",
+    "duration": 5.479958333333333,
+    "chunks": [
+      {
+        "text": "I came from New York Life.",
+        "start": 0,
+        "end": 1.5
+      },
+      {
+        "text": "Twenty years in this business.",
+        "start": 1.74,
+        "end": 2.9
+      },
+      {
+        "text": "Here's what we actually do for new advisors.",
+        "start": 3.28,
+        "end": 5.08
+      }
+    ],
+    "playbackRate": 1,
+    "synthesisSpeed": 1,
+    "synthesisPitch": 0,
+    "synthesisVolume": 1,
+    "mp3": "qa/us-v1/voice-auditions/C-trustworthy-man.mp3",
+    "wav": "public/vo/us-v1/audition-C.wav",
+    "sourceMp3Sha256": "e9e2ad25305a25f2cd23ff67af154c690835ae859435eb9f4896bba120b178a2",
+    "sha256": "f6259b78cc84a9d024b3050af392269db08f6a87c04df92e096deae7a677806b",
+    "timingSource": "Local Whisper tiny English reference-text forced alignment; approximate, not independently measured error"
+  }
+}

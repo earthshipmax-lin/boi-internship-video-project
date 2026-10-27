@@ -1,0 +1,944 @@
+{
+  "fps": 30,
+  "duration": 60.0,
+  "frames": 1800,
+  "scenes": [
+    {
+      "id": "S0",
+      "duration": 2.960583333333333,
+      "source": "vo/us-v2/S0.wav",
+      "playbackRate": 1,
+      "text": "Most people never get a real shot at this business.",
+      "synthesisText": "Most people never get a real shot at this business.",
+      "words": [
+        {
+          "word": "Most",
+          "start": 0.0,
+          "end": 0.36
+        },
+        {
+          "word": " people",
+          "start": 0.36,
+          "end": 0.74
+        },
+        {
+          "word": " never",
+          "start": 0.74,
+          "end": 1.02
+        },
+        {
+          "word": " get",
+          "start": 1.02,
+          "end": 1.2
+        },
+        {
+          "word": " a",
+          "start": 1.2,
+          "end": 1.46
+        },
+        {
+          "word": " real",
+          "start": 1.46,
+          "end": 1.68
+        },
+        {
+          "word": " shot",
+          "start": 1.68,
+          "end": 1.92
+        },
+        {
+          "word": " at",
+          "start": 1.92,
+          "end": 2.12
+        },
+        {
+          "word": " this",
+          "start": 2.12,
+          "end": 2.28
+        },
+        {
+          "word": " business",
+          "start": 2.28,
+          "end": 2.62
+        },
+        {
+          "word": ".",
+          "start": 2.62,
+          "end": 2.94
+        }
+      ],
+      "sourceSha256": "4c3cb2648232f0feeb5767e9662e66d2ef98015c6790f78498e386c692390c06",
+      "reused": true,
+      "startFrame": 0,
+      "endFrame": 120,
+      "voiceStartFrame": 6,
+      "reuseFrom": "vo/us-v1/full/S0.wav",
+      "subtitleCues": [
+        {
+          "en": "Most people never get a real shot at this business.",
+          "zh": "大多數人，從未真正得到過踏入這行的機會。",
+          "startWord": 0,
+          "endWord": 10
+        }
+      ]
+    },
+    {
+      "id": "S1",
+      "duration": 7.597145833333333,
+      "source": "vo/us-v2/S1.wav",
+      "playbackRate": 1,
+      "text": "We're Blue Oak International. Group heritage since nineteen ninety-seven. Hong Kong, and the US.",
+      "synthesisText": "We're Blue Oak International.<#0.3#> Group heritage since nineteen ninety-seven.<#0.3#> Hong Kong, and the US.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "word": " Blue",
+          "start": 0.48,
+          "end": 0.64
+        },
+        {
+          "word": " Oak",
+          "start": 0.64,
+          "end": 0.9
+        },
+        {
+          "word": " International",
+          "start": 0.9,
+          "end": 1.54
+        },
+        {
+          "word": ".",
+          "start": 1.54,
+          "end": 2.54
+        },
+        {
+          "word": " Group",
+          "start": 2.54,
+          "end": 2.84
+        },
+        {
+          "word": " heritage",
+          "start": 2.84,
+          "end": 3.26
+        },
+        {
+          "word": " since",
+          "start": 3.26,
+          "end": 3.62
+        },
+        {
+          "word": " nineteen",
+          "start": 3.62,
+          "end": 3.94
+        },
+        {
+          "word": " ninety",
+          "start": 3.94,
+          "end": 4.32
+        },
+        {
+          "word": "-seven",
+          "start": 4.32,
+          "end": 5.1
+        },
+        {
+          "word": ".",
+          "start": 5.1,
+          "end": 5.68
+        },
+        {
+          "word": " Hong",
+          "start": 5.68,
+          "end": 5.86
+        },
+        {
+          "word": " Kong",
+          "start": 5.86,
+          "end": 6.24
+        },
+        {
+          "word": ",",
+          "start": 6.24,
+          "end": 6.66
+        },
+        {
+          "word": " and",
+          "start": 6.66,
+          "end": 6.78
+        },
+        {
+          "word": " the",
+          "start": 6.78,
+          "end": 6.94
+        },
+        {
+          "word": " US",
+          "start": 6.94,
+          "end": 7.36
+        },
+        {
+          "word": ".",
+          "start": 7.36,
+          "end": 7.56
+        }
+      ],
+      "sourceSha256": "e294a63a09020bb18eaebfa039c1fd881556d00a91e7c59ff2cc4e5443ef4b2e",
+      "reused": false,
+      "startFrame": 120,
+      "endFrame": 363,
+      "voiceStartFrame": 126,
+      "subtitleCues": [
+        {
+          "en": "We're Blue Oak International.",
+          "zh": "我們是 Blue Oak International。",
+          "startWord": 0,
+          "endWord": 4
+        },
+        {
+          "en": "Group heritage since nineteen ninety-seven.",
+          "zh": "集團傳承自 1997 年。",
+          "startWord": 5,
+          "endWord": 11
+        },
+        {
+          "en": "Hong Kong, and the US.",
+          "zh": "立足香港，扎根美國。",
+          "startWord": 12,
+          "endWord": 18
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "duration": 6.819041666666666,
+      "source": "vo/us-v2/S2.wav",
+      "playbackRate": 1,
+      "text": "Meet the people behind our US team. Their experience spans insurance, banking, and engineering.",
+      "synthesisText": "Meet the people behind our US team.<#0.4#> Their experience spans insurance, banking, and engineering.",
+      "words": [
+        {
+          "word": "Meet",
+          "start": 0.0,
+          "end": 0.38
+        },
+        {
+          "word": " the",
+          "start": 0.38,
+          "end": 0.52
+        },
+        {
+          "word": " people",
+          "start": 0.52,
+          "end": 0.78
+        },
+        {
+          "word": " behind",
+          "start": 0.78,
+          "end": 1.16
+        },
+        {
+          "word": " our",
+          "start": 1.16,
+          "end": 1.48
+        },
+        {
+          "word": " US",
+          "start": 1.48,
+          "end": 1.76
+        },
+        {
+          "word": " team",
+          "start": 1.76,
+          "end": 2.4
+        },
+        {
+          "word": ".",
+          "start": 2.4,
+          "end": 3.18
+        },
+        {
+          "word": " Their",
+          "start": 3.18,
+          "end": 3.32
+        },
+        {
+          "word": " experience",
+          "start": 3.32,
+          "end": 3.8
+        },
+        {
+          "word": " spans",
+          "start": 3.8,
+          "end": 4.16
+        },
+        {
+          "word": " insurance",
+          "start": 4.16,
+          "end": 4.8
+        },
+        {
+          "word": ",",
+          "start": 4.8,
+          "end": 5.22
+        },
+        {
+          "word": " banking",
+          "start": 5.22,
+          "end": 5.56
+        },
+        {
+          "word": ",",
+          "start": 5.56,
+          "end": 5.96
+        },
+        {
+          "word": " and",
+          "start": 5.96,
+          "end": 6.14
+        },
+        {
+          "word": " engineering",
+          "start": 6.14,
+          "end": 6.52
+        },
+        {
+          "word": ".",
+          "start": 6.52,
+          "end": 6.78
+        }
+      ],
+      "sourceSha256": "f5cc437a7e8df43682d95abedd62c58c6267f186692e2c7d02916b303f5e5845",
+      "reused": true,
+      "startFrame": 363,
+      "endFrame": 603,
+      "voiceStartFrame": 387,
+      "reuseFrom": "vo/us-v1/full/S2.wav",
+      "subtitleCues": [
+        {
+          "en": "Meet the people behind our US team.",
+          "zh": "認識我們美國團隊的核心成員。",
+          "startWord": 0,
+          "endWord": 7
+        },
+        {
+          "en": "Their experience spans insurance, banking, and engineering.",
+          "zh": "他們的經驗橫跨保險、銀行與工程領域。",
+          "startWord": 8,
+          "endWord": 17
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "duration": 8.978708333333334,
+      "source": "vo/us-v2/S3.wav",
+      "playbackRate": 1,
+      "text": "Over ten billion Hong Kong dollars in premium income for insurers. One point five billion in group commission. Three offices.",
+      "synthesisText": "Over ten billion Hong Kong dollars in premium income for insurers.<#0.3#> One point five billion in group commission.<#0.3#> Three offices.",
+      "words": [
+        {
+          "word": "Over",
+          "start": 0.0,
+          "end": 0.58
+        },
+        {
+          "word": " ten",
+          "start": 0.58,
+          "end": 0.86
+        },
+        {
+          "word": " billion",
+          "start": 0.86,
+          "end": 1.26
+        },
+        {
+          "word": " Hong",
+          "start": 1.26,
+          "end": 1.6
+        },
+        {
+          "word": " Kong",
+          "start": 1.6,
+          "end": 1.84
+        },
+        {
+          "word": " dollars",
+          "start": 1.84,
+          "end": 2.18
+        },
+        {
+          "word": " in",
+          "start": 2.18,
+          "end": 2.44
+        },
+        {
+          "word": " premium",
+          "start": 2.44,
+          "end": 2.78
+        },
+        {
+          "word": " income",
+          "start": 2.78,
+          "end": 3.22
+        },
+        {
+          "word": " for",
+          "start": 3.22,
+          "end": 3.48
+        },
+        {
+          "word": " insurers",
+          "start": 3.48,
+          "end": 4.26
+        },
+        {
+          "word": ".",
+          "start": 4.26,
+          "end": 5.06
+        },
+        {
+          "word": " One",
+          "start": 5.06,
+          "end": 5.18
+        },
+        {
+          "word": " point",
+          "start": 5.18,
+          "end": 5.44
+        },
+        {
+          "word": " five",
+          "start": 5.44,
+          "end": 5.74
+        },
+        {
+          "word": " billion",
+          "start": 5.74,
+          "end": 6.12
+        },
+        {
+          "word": " in",
+          "start": 6.12,
+          "end": 6.36
+        },
+        {
+          "word": " group",
+          "start": 6.36,
+          "end": 6.52
+        },
+        {
+          "word": " commission",
+          "start": 6.52,
+          "end": 6.98
+        },
+        {
+          "word": ".",
+          "start": 6.98,
+          "end": 7.96
+        },
+        {
+          "word": " Three",
+          "start": 7.96,
+          "end": 8.16
+        },
+        {
+          "word": " offices",
+          "start": 8.16,
+          "end": 8.52
+        },
+        {
+          "word": ".",
+          "start": 8.52,
+          "end": 8.94
+        }
+      ],
+      "sourceSha256": "1cc4207f76cce131b37ba1fa61a4ed6636c289126688ce156731ed63b93becaf",
+      "reused": false,
+      "startFrame": 603,
+      "endFrame": 907,
+      "voiceStartFrame": 609,
+      "subtitleCues": [
+        {
+          "en": "Over ten billion Hong Kong dollars in premium income for insurers.",
+          "zh": "為保險公司帶來逾 100 億港元保費收入。",
+          "startWord": 0,
+          "endWord": 11
+        },
+        {
+          "en": "One point five billion in group commission.",
+          "zh": "集團佣金收入逾 15 億。",
+          "startWord": 12,
+          "endWord": 19
+        },
+        {
+          "en": "Three offices.",
+          "zh": "三地辦公室。",
+          "startWord": 20,
+          "endWord": 22
+        }
+      ]
+    },
+    {
+      "id": "S4",
+      "duration": 7.202395833333333,
+      "source": "vo/us-v2/S4.wav",
+      "playbackRate": 1,
+      "text": "Our US carrier standard: A or better. Nine states. Century old carriers.",
+      "synthesisText": "Our US carrier standard: A or better.<#0.3#> Nine states.<#0.3#> Century old carriers.",
+      "words": [
+        {
+          "word": "Our",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": " US",
+          "start": 0.4,
+          "end": 0.68
+        },
+        {
+          "word": " carrier",
+          "start": 0.68,
+          "end": 1.0
+        },
+        {
+          "word": " standard",
+          "start": 1.0,
+          "end": 1.52
+        },
+        {
+          "word": ":",
+          "start": 1.52,
+          "end": 1.82
+        },
+        {
+          "word": " A",
+          "start": 1.82,
+          "end": 2.04
+        },
+        {
+          "word": " or",
+          "start": 2.04,
+          "end": 2.36
+        },
+        {
+          "word": " better",
+          "start": 2.36,
+          "end": 2.9
+        },
+        {
+          "word": ".",
+          "start": 2.9,
+          "end": 3.66
+        },
+        {
+          "word": " Nine",
+          "start": 3.66,
+          "end": 4.0
+        },
+        {
+          "word": " states",
+          "start": 4.0,
+          "end": 4.64
+        },
+        {
+          "word": ".",
+          "start": 4.64,
+          "end": 5.62
+        },
+        {
+          "word": " Century",
+          "start": 5.62,
+          "end": 5.88
+        },
+        {
+          "word": " old",
+          "start": 5.88,
+          "end": 6.28
+        },
+        {
+          "word": " carriers",
+          "start": 6.28,
+          "end": 6.68
+        },
+        {
+          "word": ".",
+          "start": 6.68,
+          "end": 7.18
+        }
+      ],
+      "sourceSha256": "1f86abd472c827a5aa7d36a2c5d4ee0fc50e665696ae9bdf7ac667da4bf1e407",
+      "reused": false,
+      "startFrame": 907,
+      "endFrame": 1139,
+      "voiceStartFrame": 913,
+      "subtitleCues": [
+        {
+          "en": "Our US carrier standard: A or better.",
+          "zh": "美國合作保司標準：A.M. Best A 級或以上。",
+          "startWord": 0,
+          "endWord": 8
+        },
+        {
+          "en": "Nine states.",
+          "zh": "覆蓋九大州份。",
+          "startWord": 9,
+          "endWord": 11
+        },
+        {
+          "en": "Century old carriers.",
+          "zh": "百年歷史保司。",
+          "startWord": 12,
+          "endWord": 15
+        }
+      ]
+    },
+    {
+      "id": "S5",
+      "duration": 9.938645833333334,
+      "source": "vo/us-v2/S5.wav",
+      "playbackRate": 1,
+      "text": "Flushing, New York. A Hong Kong broker license. Insurance-service agreements with two banks. Singapore in preparation.",
+      "synthesisText": "Flushing, New York.<#0.3#> A Hong Kong broker license.<#0.3#> Insurance-service agreements with two banks.<#0.3#> Singapore in preparation.",
+      "words": [
+        {
+          "word": "Flushing",
+          "start": 0.0,
+          "end": 0.66
+        },
+        {
+          "word": ",",
+          "start": 0.66,
+          "end": 1.06
+        },
+        {
+          "word": " New",
+          "start": 1.06,
+          "end": 1.18
+        },
+        {
+          "word": " York",
+          "start": 1.18,
+          "end": 1.76
+        },
+        {
+          "word": ".",
+          "start": 1.76,
+          "end": 2.48
+        },
+        {
+          "word": " A",
+          "start": 2.48,
+          "end": 2.58
+        },
+        {
+          "word": " Hong",
+          "start": 2.58,
+          "end": 2.78
+        },
+        {
+          "word": " Kong",
+          "start": 2.78,
+          "end": 3.06
+        },
+        {
+          "word": " broker",
+          "start": 3.06,
+          "end": 3.42
+        },
+        {
+          "word": " license",
+          "start": 3.42,
+          "end": 4.16
+        },
+        {
+          "word": ".",
+          "start": 4.16,
+          "end": 5.24
+        },
+        {
+          "word": " Insurance",
+          "start": 5.24,
+          "end": 5.44
+        },
+        {
+          "word": "-service",
+          "start": 5.44,
+          "end": 5.88
+        },
+        {
+          "word": " agreements",
+          "start": 5.88,
+          "end": 6.2
+        },
+        {
+          "word": " with",
+          "start": 6.2,
+          "end": 6.52
+        },
+        {
+          "word": " two",
+          "start": 6.52,
+          "end": 6.76
+        },
+        {
+          "word": " banks",
+          "start": 6.76,
+          "end": 7.48
+        },
+        {
+          "word": ".",
+          "start": 7.48,
+          "end": 8.26
+        },
+        {
+          "word": " Singapore",
+          "start": 8.26,
+          "end": 8.6
+        },
+        {
+          "word": " in",
+          "start": 8.6,
+          "end": 9.08
+        },
+        {
+          "word": " preparation",
+          "start": 9.08,
+          "end": 9.58
+        },
+        {
+          "word": ".",
+          "start": 9.58,
+          "end": 9.9
+        }
+      ],
+      "sourceSha256": "15ebfc053c0134d5c924d622ae1ff203e9878c4bfce9193b2503f2e1bfd21332",
+      "reused": false,
+      "startFrame": 1139,
+      "endFrame": 1493,
+      "voiceStartFrame": 1145,
+      "subtitleCues": [
+        {
+          "en": "Flushing, New York. A Hong Kong broker license.",
+          "zh": "紐約法拉盛辦公室。香港保險經紀牌照。",
+          "startWord": 0,
+          "endWord": 10
+        },
+        {
+          "en": "Insurance-service agreements with two banks.",
+          "zh": "與兩家銀行簽訂保險服務協議。",
+          "startWord": 11,
+          "endWord": 17
+        },
+        {
+          "en": "Singapore in preparation.",
+          "zh": "新加坡籌備中。",
+          "startWord": 18,
+          "endWord": 21
+        }
+      ]
+    },
+    {
+      "id": "S6",
+      "duration": 2.055,
+      "source": "vo/us-v2/S6.wav",
+      "playbackRate": 1,
+      "text": "The first year is the hardest one.",
+      "synthesisText": "The first year is the hardest one.",
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.28
+        },
+        {
+          "word": " first",
+          "start": 0.28,
+          "end": 0.58
+        },
+        {
+          "word": " year",
+          "start": 0.58,
+          "end": 0.84
+        },
+        {
+          "word": " is",
+          "start": 0.84,
+          "end": 1.14
+        },
+        {
+          "word": " the",
+          "start": 1.14,
+          "end": 1.3
+        },
+        {
+          "word": " hardest",
+          "start": 1.3,
+          "end": 1.56
+        },
+        {
+          "word": " one",
+          "start": 1.56,
+          "end": 2.02
+        },
+        {
+          "word": ".",
+          "start": 2.02,
+          "end": 2.02
+        }
+      ],
+      "sourceSha256": "dbf57eb6e4d02c0b01f95e5caf531d56f2c3d47848e2fcfdafa0a8a56c4e7480",
+      "reused": false,
+      "startFrame": 1493,
+      "endFrame": 1583,
+      "voiceStartFrame": 1499,
+      "subtitleCues": [
+        {
+          "en": "The first year is the hardest one.",
+          "zh": "第一年，是最難的一年。",
+          "startWord": 0,
+          "endWord": 7
+        }
+      ]
+    },
+    {
+      "id": "S7",
+      "duration": 6.819041666666666,
+      "source": "vo/us-v2/S7.wav",
+      "playbackRate": 1,
+      "text": "If you've been thinking about this for a while, this is the conversation to have. Blue Oak International.",
+      "synthesisText": "If you've been thinking about this for a while, this is the conversation to have.<#0.4#> Blue Oak International.",
+      "words": [
+        {
+          "word": "If",
+          "start": 0.0,
+          "end": 0.32
+        },
+        {
+          "word": " you've",
+          "start": 0.32,
+          "end": 0.56
+        },
+        {
+          "word": " been",
+          "start": 0.56,
+          "end": 0.66
+        },
+        {
+          "word": " thinking",
+          "start": 0.66,
+          "end": 0.96
+        },
+        {
+          "word": " about",
+          "start": 0.96,
+          "end": 1.26
+        },
+        {
+          "word": " this",
+          "start": 1.26,
+          "end": 1.52
+        },
+        {
+          "word": " for",
+          "start": 1.52,
+          "end": 1.74
+        },
+        {
+          "word": " a",
+          "start": 1.74,
+          "end": 1.9
+        },
+        {
+          "word": " while",
+          "start": 1.9,
+          "end": 2.2
+        },
+        {
+          "word": ",",
+          "start": 2.2,
+          "end": 2.54
+        },
+        {
+          "word": " this",
+          "start": 2.54,
+          "end": 2.74
+        },
+        {
+          "word": " is",
+          "start": 2.74,
+          "end": 3.18
+        },
+        {
+          "word": " the",
+          "start": 3.18,
+          "end": 3.32
+        },
+        {
+          "word": " conversation",
+          "start": 3.32,
+          "end": 3.82
+        },
+        {
+          "word": " to",
+          "start": 3.82,
+          "end": 4.18
+        },
+        {
+          "word": " have",
+          "start": 4.18,
+          "end": 4.78
+        },
+        {
+          "word": ".",
+          "start": 4.78,
+          "end": 5.46
+        },
+        {
+          "word": " Blue",
+          "start": 5.46,
+          "end": 5.66
+        },
+        {
+          "word": " Oak",
+          "start": 5.66,
+          "end": 5.96
+        },
+        {
+          "word": " International",
+          "start": 5.96,
+          "end": 6.4
+        },
+        {
+          "word": ".",
+          "start": 6.4,
+          "end": 6.78
+        }
+      ],
+      "sourceSha256": "f8648df85ffa2626d5dc74cabcbc15b4bc3a08cb5358d5423b9c54bc8fadbea6",
+      "reused": true,
+      "startFrame": 1583,
+      "endFrame": 1800,
+      "voiceStartFrame": 1586,
+      "reuseFrom": "vo/us-v1/full/S6.wav",
+      "subtitleCues": [
+        {
+          "en": "If you've been thinking about this for a while, this is the conversation to have.",
+          "zh": "如果你已考慮這件事一段時間，這就是那場該談的對話。",
+          "startWord": 0,
+          "endWord": 16
+        },
+        {
+          "en": "Blue Oak International.",
+          "zh": "Blue Oak International。",
+          "startWord": 17,
+          "endWord": 20
+        }
+      ]
+    }
+  ]
+}

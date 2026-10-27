@@ -1,0 +1,27 @@
+{
+  "source": "prototype/logo-reveal/index.html",
+  "treeLeaves": 69,
+  "rings": 6,
+  "wordmarkSource": "prototype/logo-reveal/wordmark-clean.svg",
+  "layout": {
+    "treeWidth": 420,
+    "treeHeight": 384,
+    "wordmarkWidth": 600,
+    "gap": 40,
+    "viewBox": "25 0 120 128"
+  },
+  "timeline": {
+    "baseStart": 1.2,
+    "baseDur": 0.9,
+    "trunkStart": 2,
+    "trunkDur": 1.2,
+    "leavesStart": 3,
+    "ringGap": 0.55,
+    "leafDur": 0.5,
+    "wordStart": 7.4,
+    "wordDur": 1,
+    "outStart": 10.2,
+    "outDur": 1.8,
+    "end": 12
+  }
+}

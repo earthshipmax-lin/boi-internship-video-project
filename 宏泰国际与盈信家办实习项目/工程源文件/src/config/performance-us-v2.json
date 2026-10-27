@@ -1,0 +1,63 @@
+{
+  "provider": "MiniMax website",
+  "model": "speech-2.8-hd",
+  "voiceDisplayName": "Magnetic-voiced Male - Deep,Resonant,Polished",
+  "language": "English",
+  "speed": 1,
+  "pitch": 0,
+  "volume": 1,
+  "userApproval": "B explicitly chosen earlier; user adoptedPrompt15 now",
+  "scenes": {
+    "S1": {
+      "text": "We're Blue Oak International. Group heritage since nineteen ninety-seven. Hong Kong, and the US.",
+      "synthesisText": "We're Blue Oak International.<#0.3#> Group heritage since nineteen ninety-seven.<#0.3#> Hong Kong, and the US.",
+      "subtitleChunks": [
+        "We're Blue Oak International",
+        "Group heritage since nineteen ninety-seven",
+        "Hong Kong, and the US"
+      ],
+      "emotions": "default plain narration; same B parameters"
+    },
+    "S3": {
+      "text": "Over ten billion Hong Kong dollars in premium income for insurers. One point five billion in group commission. Three offices.",
+      "synthesisText": "Over ten billion Hong Kong dollars in premium income for insurers.<#0.3#> One point five billion in group commission.<#0.3#> Three offices.",
+      "subtitleChunks": [
+        "Over ten billion Hong Kong dollars in premium income for insurers",
+        "One point five billion in group commission",
+        "Three offices"
+      ],
+      "emotions": "default plain narration; same B parameters"
+    },
+    "S4": {
+      "text": "Our US carrier standard: A or better. Nine states. Century old carriers.",
+      "synthesisText": "Our US carrier standard: A or better.<#0.3#> Nine states.<#0.3#> Century old carriers.",
+      "subtitleChunks": [
+        "Our US carrier standard: A or better",
+        "Nine states",
+        "Century old carriers"
+      ],
+      "emotions": "default plain narration; same B parameters",
+      "pronunciationNote": "AM Best named on screen; acronym omitted from final voice after two ASR models could not resolve previous acronym cleanly."
+    },
+    "S5": {
+      "text": "Flushing, New York. A Hong Kong broker license. Insurance-service agreements with two banks. Singapore in preparation.",
+      "synthesisText": "Flushing, New York.<#0.3#> A Hong Kong broker license.<#0.3#> Insurance-service agreements with two banks.<#0.3#> Singapore in preparation.",
+      "subtitleChunks": [
+        "Flushing, New York",
+        "A Hong Kong broker license",
+        "Insurance-service agreements with two banks",
+        "Singapore in preparation"
+      ],
+      "emotions": "default plain narration; same B parameters"
+    },
+    "S6": {
+      "text": "The first year is the hardest one.",
+      "synthesisText": "The first year is the hardest one.",
+      "subtitleChunks": [
+        "The first year is the hardest one"
+      ],
+      "emotions": "default plain narration; same B parameters"
+    }
+  },
+  "languageControlNote": "S1/S3/S6 English-detected; final S4/S5 explicitly English after discarded automatic Romanian detection"
+}

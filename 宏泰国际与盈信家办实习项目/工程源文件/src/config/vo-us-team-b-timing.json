@@ -1,0 +1,117 @@
+{
+  "source": "vo/us-v1/team-b/VO-01.wav",
+  "duration": 6.819041666666666,
+  "startFrame": 24,
+  "fps": 30,
+  "playbackRate": 1,
+  "words": [
+    {
+      "word": "Meet",
+      "start": 0.0,
+      "end": 0.38,
+      "probability": 0.2795335594300923
+    },
+    {
+      "word": " the",
+      "start": 0.38,
+      "end": 0.52,
+      "probability": 0.9569788575172424
+    },
+    {
+      "word": " people",
+      "start": 0.52,
+      "end": 0.78,
+      "probability": 0.9790225625038147
+    },
+    {
+      "word": " behind",
+      "start": 0.78,
+      "end": 1.16,
+      "probability": 0.9989421963691711
+    },
+    {
+      "word": " our",
+      "start": 1.16,
+      "end": 1.48,
+      "probability": 0.994178295135498
+    },
+    {
+      "word": " US",
+      "start": 1.48,
+      "end": 1.76,
+      "probability": 0.3104017972946167
+    },
+    {
+      "word": " team",
+      "start": 1.76,
+      "end": 2.4,
+      "probability": 0.9868544340133667
+    },
+    {
+      "word": ".",
+      "start": 2.4,
+      "end": 3.18,
+      "probability": 0.8602514863014221
+    },
+    {
+      "word": " Their",
+      "start": 3.18,
+      "end": 3.32,
+      "probability": 0.7878809571266174
+    },
+    {
+      "word": " experience",
+      "start": 3.32,
+      "end": 3.8,
+      "probability": 0.9666982293128967
+    },
+    {
+      "word": " spans",
+      "start": 3.8,
+      "end": 4.16,
+      "probability": 0.9835367798805237
+    },
+    {
+      "word": " insurance",
+      "start": 4.16,
+      "end": 4.8,
+      "probability": 0.9723761081695557
+    },
+    {
+      "word": ",",
+      "start": 4.8,
+      "end": 5.22,
+      "probability": 0.9525625705718994
+    },
+    {
+      "word": " banking",
+      "start": 5.22,
+      "end": 5.56,
+      "probability": 0.9925931096076965
+    },
+    {
+      "word": ",",
+      "start": 5.56,
+      "end": 5.96,
+      "probability": 0.4665791988372803
+    },
+    {
+      "word": " and",
+      "start": 5.96,
+      "end": 6.14,
+      "probability": 0.9972648620605469
+    },
+    {
+      "word": " engineering",
+      "start": 6.14,
+      "end": 6.52,
+      "probability": 0.9957059025764465
+    },
+    {
+      "word": ".",
+      "start": 6.52,
+      "end": 6.78,
+      "probability": 0.9732168912887573
+    }
+  ]
+}

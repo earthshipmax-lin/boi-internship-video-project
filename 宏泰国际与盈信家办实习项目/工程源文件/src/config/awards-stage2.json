@@ -1,0 +1,218 @@
+{
+  "items": [
+    {
+      "id": "awards-08",
+      "file": "stills/v12/cut/awards-08.png",
+      "original_pixels": [
+        325,
+        440
+      ],
+      "cut_pixels": [
+        333,
+        448
+      ],
+      "source_crop": [
+        0,
+        0,
+        325,
+        440
+      ],
+      "method": "preserved certificate + 4px cream mount, 1px rule",
+      "protected_bright_pixels": 2339,
+      "display_width": 193.2589,
+      "display_height": 260,
+      "width_vs_original": 0.5946,
+      "bottom": 750,
+      "x": 0
+    },
+    {
+      "id": "awards-07",
+      "file": "stills/v12/cut/awards-07.png",
+      "original_pixels": [
+        608,
+        440
+      ],
+      "cut_pixels": [
+        616,
+        448
+      ],
+      "source_crop": [
+        0,
+        0,
+        608,
+        440
+      ],
+      "method": "preserved certificate + 4px cream mount, 1px rule",
+      "protected_bright_pixels": 1915,
+      "display_width": 330.0,
+      "display_height": 240,
+      "width_vs_original": 0.5428,
+      "bottom": 750,
+      "x": 217.2589
+    },
+    {
+      "id": "awards-06",
+      "file": "stills/v12/cut/awards-06.png",
+      "original_pixels": [
+        313,
+        427
+      ],
+      "cut_pixels": [
+        321,
+        435
+      ],
+      "source_crop": [
+        0,
+        0,
+        313,
+        427
+      ],
+      "method": "preserved certificate + 4px cream mount, 1px rule",
+      "protected_bright_pixels": 1539,
+      "display_width": 191.8621,
+      "display_height": 260,
+      "width_vs_original": 0.613,
+      "bottom": 750,
+      "x": 571.2589
+    },
+    {
+      "id": "awards-05",
+      "file": "stills/v12/cut/awards-05.png",
+      "original_pixels": [
+        333,
+        440
+      ],
+      "cut_pixels": [
+        341,
+        448
+      ],
+      "source_crop": [
+        0,
+        0,
+        333,
+        440
+      ],
+      "method": "preserved certificate + 4px cream mount, 1px rule",
+      "protected_bright_pixels": 14008,
+      "display_width": 197.9018,
+      "display_height": 260,
+      "width_vs_original": 0.5943,
+      "bottom": 750,
+      "x": 787.121
+    },
+    {
+      "id": "awards-04",
+      "file": "stills/v12/cut/awards-04.png",
+      "original_pixels": [
+        252,
+        525
+      ],
+      "cut_pixels": [
+        189,
+        510
+      ],
+      "source_crop": [
+        13,
+        12,
+        202,
+        522
+      ],
+      "method": "threshold + protected silhouette, subpixel 1px fringe",
+      "protected_bright_pixels": 1757,
+      "display_width": 111.1765,
+      "display_height": 300,
+      "width_vs_original": 0.4412,
+      "bottom": 750,
+      "x": 1009.0228
+    },
+    {
+      "id": "awards-03",
+      "file": "stills/v12/cut/awards-03.png",
+      "original_pixels": [
+        254,
+        515
+      ],
+      "cut_pixels": [
+        222,
+        509
+      ],
+      "source_crop": [
+        21,
+        2,
+        243,
+        511
+      ],
+      "method": "threshold + protected silhouette, subpixel 1px fringe",
+      "protected_bright_pixels": 890,
+      "display_width": 128.664,
+      "display_height": 295,
+      "width_vs_original": 0.5066,
+      "bottom": 750,
+      "x": 1144.1993
+    },
+    {
+      "id": "awards-02",
+      "file": "stills/v12/cut/awards-02.png",
+      "original_pixels": [
+        187,
+        538
+      ],
+      "cut_pixels": [
+        172,
+        503
+      ],
+      "source_crop": [
+        8,
+        25,
+        180,
+        528
+      ],
+      "method": "threshold + protected silhouette, subpixel 1px fringe",
+      "protected_bright_pixels": 668,
+      "display_width": 99.165,
+      "display_height": 290,
+      "width_vs_original": 0.5303,
+      "bottom": 750,
+      "x": 1296.8633
+    },
+    {
+      "id": "awards-01",
+      "file": "stills/v12/cut/awards-01.png",
+      "original_pixels": [
+        196,
+        531
+      ],
+      "cut_pixels": [
+        193,
+        525
+      ],
+      "source_crop": [
+        3,
+        3,
+        196,
+        528
+      ],
+      "method": "threshold + protected silhouette, subpixel 1px fringe",
+      "protected_bright_pixels": 496,
+      "display_width": 110.2857,
+      "display_height": 300,
+      "width_vs_original": 0.5627,
+      "bottom": 750,
+      "x": 1420.0283
+    }
+  ],
+  "motion": {
+    "window_left": 700,
+    "window_width": 1100,
+    "baseline_y": 750,
+    "row_width": 1530.3139999999999,
+    "travel": 430.31399999999985,
+    "duration": 5.1,
+    "entry_wipe_s": 0.45,
+    "initial_hold_s": 1.35,
+    "final_hold_s": 0.9,
+    "motion_speed_px_s": 150.9873684210526,
+    "previous_speed_px_s": 201.6326530612245,
+    "height_ratio": 1.25
+  }
+}

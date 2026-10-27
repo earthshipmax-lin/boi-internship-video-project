@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "id": "native-a016",
+      "file": "stills/v12/cut/native-a016.png",
+      "source": "qa/v12/stage3/native-source/a-016.png",
+      "source_sha256": "1e34977bafd28fbcc5614c761e9b8d715619674278fe8a689a6fff2a050fe182",
+      "category": "trophy",
+      "source_pixels": [
+        822,
+        1096
+      ],
+      "crop": [
+        221,
+        98,
+        559,
+        1019
+      ],
+      "output_pixels": [
+        338,
+        921
+      ],
+      "scale": 0.6080347448425625,
+      "display_width": 205.51574375678612,
+      "display_height": 560.0,
+      "baseline": 1042,
+      "alpha_source": "a-017.png",
+      "protected_source_rgb": true,
+      "x": 477.99180612263734,
+      "top": 482.0
+    },
+    {
+      "id": "native-a006",
+      "file": "stills/v12/cut/native-a006.png",
+      "source": "qa/v12/stage3/native-source/a-006.png",
+      "source_sha256": "85f3e0ab954b3dd321b77138e77e7665ba081648c0bf6cae7cccab9feb35119b",
+      "category": "trophy",
+      "source_pixels": [
+        512,
+        683
+      ],
+      "crop": [
+        150,
+        23,
+        370,
+        670
+      ],
+      "output_pixels": [
+        220,
+        647
+      ],
+      "scale": 0.865533230293663,
+      "display_width": 190.41731066460588,
+      "display_height": 560.0,
+      "baseline": 1030,
+      "alpha_source": "a-007.png",
+      "protected_source_rgb": true,
+      "x": 723.5075498794234,
+      "top": 470.0
+    },
+    {
+      "id": "native-a008",
+      "file": "stills/v12/cut/native-a008.png",
+      "source": "qa/v12/stage3/native-source/a-008.png",
+      "source_sha256": "db9a48d9784eef9c7db7d9e7c5cfb7aa72b5a0b31b5e087b63dba7015b853400",
+      "category": "trophy",
+      "source_pixels": [
+        410,
+        569
+      ],
+      "crop": [
+        88,
+        0,
+        294,
+        556
+      ],
+      "output_pixels": [
+        206,
+        556
+      ],
+      "scale": 1,
+      "display_width": 206,
+      "display_height": 556,
+      "baseline": 1030,
+      "alpha_source": "a-009.png",
+      "protected_source_rgb": true,
+      "x": 953.9248605440293,
+      "top": 474
+    },
+    {
+      "id": "native-a010",
+      "file": "stills/v12/cut/native-a010.png",
+      "source": "qa/v12/stage3/native-source/a-010.png",
+      "source_sha256": "60e10f6ecabd7ff5fa2564c670f0bea833a5663c40748f2a94588761b3b38c48",
+      "category": "trophy",
+      "source_pixels": [
+        476,
+        634
+      ],
+      "crop": [
+        109,
+        19,
+        358,
+        595
+      ],
+      "output_pixels": [
+        249,
+        576
+      ],
+      "scale": 0.9722222222222222,
+      "display_width": 242.08333333333334,
+      "display_height": 560.0,
+      "baseline": 1030,
+      "alpha_source": "a-011.png",
+      "protected_source_rgb": true,
+      "x": 1199.9248605440293,
+      "top": 470.0
+    },
+    {
+      "id": "native-a004",
+      "file": "stills/v12/docs/native-a004.png",
+      "source": "qa/v12/stage3/native-source/a-004.jpg",
+      "source_sha256": "2363f6573f4b2a4522ee050a586bca87e2e5a758b6990e40bb312e9e208bbda3",
+      "category": "document",
+      "source_pixels": [
+        908,
+        1210
+      ],
+      "crop": [
+        158,
+        32,
+        728,
+        1114
+      ],
+      "border_pixels": 11,
+      "output_pixels": [
+        592,
+        1104
+      ],
+      "scale": 0.21739130434782608,
+      "display_width": 128.69565217391303,
+      "display_height": 240,
+      "top": 300,
+      "orientation_exception": false,
+      "note": "Complete document/frame retained with 2% white breathing space.",
+      "x": 359.4893753806027
+    },
+    {
+      "id": "native-a005",
+      "file": "stills/v12/docs/native-a005.png",
+      "source": "qa/v12/stage3/native-source/a-005.jpg",
+      "source_sha256": "1498583a40884e50f06e065929af5fcddc9ce9cd14468928400787d73892d0cc",
+      "category": "document",
+      "source_pixels": [
+        908,
+        1210
+      ],
+      "crop": [
+        136,
+        34,
+        784,
+        1188
+      ],
+      "border_pixels": 13,
+      "output_pixels": [
+        674,
+        1180
+      ],
+      "scale": 0.2033898305084746,
+      "display_width": 137.08474576271186,
+      "display_height": 240,
+      "top": 300,
+      "orientation_exception": false,
+      "note": "Complete document/frame retained with 2% white breathing space.",
+      "x": 508.1850275545157
+    },
+    {
+      "id": "native-a012",
+      "file": "stills/v12/docs/native-a012.png",
+      "source": "qa/v12/stage3/native-source/a-012.jpg",
+      "source_sha256": "1d8da5a0c6e3edd78c9eaa468ee62dd5db21a0d515fdf9066f1a786503ca7bd6",
+      "category": "document",
+      "source_pixels": [
+        313,
+        455
+      ],
+      "crop": [
+        0,
+        0,
+        313,
+        455
+      ],
+      "border_pixels": 6,
+      "output_pixels": [
+        325,
+        467
+      ],
+      "scale": 0.5139186295503212,
+      "display_width": 167.0235546038544,
+      "display_height": 240,
+      "top": 300,
+      "orientation_exception": false,
+      "note": "Complete document/frame retained with 2% white breathing space.",
+      "x": 665.2697733172276
+    },
+    {
+      "id": "native-a013",
+      "file": "stills/v12/docs/native-a013.png",
+      "source": "qa/v12/stage3/native-source/a-013.png",
+      "source_sha256": "711015db5cc7bf9fc3a633d28f6f69f6594582fb4cccfe266ff3bf9c144f4faa",
+      "category": "document",
+      "source_pixels": [
+        746,
+        995
+      ],
+      "crop": [
+        117,
+        180,
+        606,
+        833
+      ],
+      "border_pixels": 10,
+      "output_pixels": [
+        509,
+        673
+      ],
+      "scale": 0.35661218424962854,
+      "display_width": 181.51560178306093,
+      "display_height": 240,
+      "top": 300,
+      "orientation_exception": false,
+      "note": "Complete document/frame retained with 2% white breathing space.",
+      "x": 852.293327921082
+    },
+    {
+      "id": "native-a014",
+      "file": "stills/v12/docs/native-a014.png",
+      "source": "qa/v12/stage3/native-source/a-014.png",
+      "source_sha256": "014f21ca85ec0bf57b3152a17696e9fe95b99919b7f5da2fb0cc234929278dfe",
+      "category": "document",
+      "source_pixels": [
+        908,
+        1210
+      ],
+      "crop": [
+        238,
+        338,
+        650,
+        912
+      ],
+      "border_pixels": 8,
+      "output_pixels": [
+        428,
+        590
+      ],
+      "scale": 0.4067796610169492,
+      "display_width": 174.10169491525426,
+      "display_height": 240,
+      "top": 300,
+      "orientation_exception": false,
+      "note": "Complete document/frame retained with 2% white breathing space.",
+      "x": 1053.8089297041429
+    },
+    {
+      "id": "native-a015",
+      "file": "stills/v12/docs/native-a015.png",
+      "source": "qa/v12/stage3/native-source/a-015.png",
+      "source_sha256": "8c12443fe7b8f669647a2f14021612e3849055fa9d93db1fa891bc0f3c88f8e4",
+      "category": "document",
+      "source_pixels": [
+        1280,
+        1628
+      ],
+      "crop": [
+        132,
+        438,
+        1144,
+        1208
+      ],
+      "border_pixels": 15,
+      "output_pixels": [
+        1042,
+        800
+      ],
+      "scale": 0.3,
+      "display_width": 312.59999999999997,
+      "display_height": 240,
+      "top": 300,
+      "orientation_exception": true,
+      "note": "Original landscape certificate kept complete; not cropped into a portrait or stretched.",
+      "x": 1247.9106246193971
+    }
+  ],
+  "front_baseline": 1030,
+  "front_gap": 40,
+  "back_top": 300,
+  "back_height": 240,
+  "back_opacity": 0.72,
+  "back_mist_opacity": 0.06,
+  "entry_stagger_frames": 5,
+  "front_entry_seconds": 0.5,
+  "back_delay_seconds": 0.25,
+  "back_entry_seconds": 0.6,
+  "rest_motion": "none",
+  "header_layout": "one line at y174 to avoid logo/subtitle overlap",
+  "caption_layout": "trust captions top-right at y278, clear of all ten assets",
+  "back_group_width": 1201.0212492387946,
+  "back_gap": 20,
+  "blue_whale_depth_offset": 12
+}

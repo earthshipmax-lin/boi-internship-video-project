@@ -1,0 +1,32 @@
+{
+  "scale": 2.9694812207511703,
+  "translateX": 469.68499260029597,
+  "translateY": 393.0605775768969,
+  "legacyVisibleBounds": [
+    463,
+    386,
+    1391,
+    671
+  ],
+  "officialVisibleBounds": [
+    496.076256949722,
+    417.01092836286546,
+    1424.076256949722,
+    643.5957081716731
+  ],
+  "sourceBounds": [
+    8.887500000000001,
+    8.065500000000002,
+    321.4,
+    84.37
+  ],
+  "introFrames": 150,
+  "outroFrames": 196,
+  "outroFrom": 1198,
+  "frames": 1394,
+  "canopyAnchor": {
+    "x": 638.5,
+    "y": 559.5
+  },
+  "placementRule": "Preserve previous visible width and canopy anchor; preserve official source aspect ratio."
+}

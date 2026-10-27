@@ -1,0 +1,202 @@
+[
+  {
+    "id": "hk-01",
+    "file": "logos/mono/hk-01.png",
+    "width": 132.30704682357344,
+    "height": 45.3490584518962,
+    "source": "stills/v12/provider-hk-01.jpg",
+    "boxArea": 6000.0
+  },
+  {
+    "id": "hk-02",
+    "file": "logos/mono/hk-02.png",
+    "width": 91.09859154929576,
+    "height": 55.99999999999999,
+    "source": "stills/v12/provider-hk-02.jpg",
+    "boxArea": 5101.521126760563
+  },
+  {
+    "id": "hk-03",
+    "file": "logos/mono/hk-03.png",
+    "width": 120.84970485189733,
+    "height": 49.648445623868646,
+    "source": "stills/v12/provider-hk-03.jpg",
+    "boxArea": 5999.999999999999
+  },
+  {
+    "id": "hk-04",
+    "file": "logos/mono/hk-04.png",
+    "width": 113.97495892579177,
+    "height": 52.6431424634823,
+    "source": "stills/v12/provider-hk-04.jpg",
+    "boxArea": 5999.999999999999
+  },
+  {
+    "id": "hk-05",
+    "file": "logos/mono/hk-05.png",
+    "width": 220.0,
+    "height": 22.624113475177307,
+    "source": "stills/v12/provider-hk-05.jpg",
+    "boxArea": 4977.3049645390065
+  },
+  {
+    "id": "hk-06",
+    "file": "logos/mono/hk-06.png",
+    "width": 52.888888888888886,
+    "height": 56.0,
+    "source": "stills/v12/provider-hk-06.jpg",
+    "boxArea": 2961.7777777777774
+  },
+  {
+    "id": "hk-08",
+    "file": "logos/mono/hk-08.png",
+    "width": 136.45764784420263,
+    "height": 43.9696865275764,
+    "source": "stills/v12/provider-hk-08.jpg",
+    "boxArea": 6000.000000000002
+  },
+  {
+    "id": "hk-09",
+    "file": "logos/mono/hk-09.png",
+    "width": 55.6056338028169,
+    "height": 55.99999999999999,
+    "source": "stills/v12/provider-hk-09.jpg",
+    "boxArea": 3113.915492957746
+  },
+  {
+    "id": "hk-10",
+    "file": "logos/mono/hk-10.png",
+    "width": 134.16407864998737,
+    "height": 44.721359549995796,
+    "source": "stills/v12/provider-hk-10.jpg",
+    "boxArea": 6000.0
+  },
+  {
+    "id": "hk-11",
+    "file": "logos/mono/hk-11.png",
+    "width": 82.37209302325581,
+    "height": 56.00000000000001,
+    "source": "stills/v12/provider-hk-11.jpg",
+    "boxArea": 4612.837209302326
+  },
+  {
+    "id": "hk-12",
+    "file": "logos/mono/hk-12.png",
+    "width": 50.857142857142854,
+    "height": 56.0,
+    "source": "stills/v12/provider-hk-12.jpg",
+    "boxArea": 2848.0
+  },
+  {
+    "id": "hk-13",
+    "file": "logos/mono/hk-13.png",
+    "width": 114.12445068390225,
+    "height": 52.57418514651677,
+    "source": "stills/v12/provider-hk-13.jpg",
+    "boxArea": 6000.0
+  },
+  {
+    "id": "hk-14",
+    "file": "logos/mono/hk-14.png",
+    "width": 133.93095235978873,
+    "height": 44.799203576793445,
+    "source": "stills/v12/provider-hk-14.jpg",
+    "boxArea": 6000.0
+  },
+  {
+    "id": "hk-15",
+    "file": "logos/mono/hk-15.png",
+    "width": 118.17578957375031,
+    "height": 50.771820705759396,
+    "source": "stills/v12/provider-hk-15.jpg",
+    "boxArea": 6000.000000000001
+  },
+  {
+    "id": "hk-16",
+    "file": "logos/mono/hk-16.png",
+    "width": 150.99668870541498,
+    "height": 39.73597071195131,
+    "source": "stills/v12/provider-hk-16.jpg",
+    "boxArea": 6000.0
+  },
+  {
+    "id": "hk-17",
+    "file": "logos/mono/hk-17.png",
+    "width": 68.98550724637681,
+    "height": 56.0,
+    "source": "stills/v12/provider-hk-17.jpg",
+    "boxArea": 3863.188405797102
+  },
+  {
+    "id": "hk-18",
+    "file": "logos/mono/hk-18.png",
+    "width": 101.5,
+    "height": 56.0,
+    "source": "stills/v12/provider-hk-18.jpg",
+    "boxArea": 5684.0
+  },
+  {
+    "id": "hk-20",
+    "file": "logos/mono/hk-20.png",
+    "width": 155.68186183773358,
+    "height": 38.54013517807085,
+    "source": "stills/v12/provider-hk-20.jpg",
+    "boxArea": 6000.000000000002
+  },
+  {
+    "id": "hk-22",
+    "file": "logos/mono/hk-22.png",
+    "width": 164.92422502470643,
+    "height": 36.38034375544995,
+    "source": "stills/v12/provider-hk-22.jpg",
+    "boxArea": 6000.000000000001
+  },
+  {
+    "id": "hk-24",
+    "file": "logos/mono/hk-24.png",
+    "width": 103.6875,
+    "height": 56.0,
+    "source": "stills/v12/provider-hk-24.jpg",
+    "boxArea": 5806.5
+  },
+  {
+    "id": "hk-25",
+    "file": "logos/mono/hk-25.png",
+    "width": 63.84713375796178,
+    "height": 55.99999999999999,
+    "source": "stills/v12/provider-hk-25.jpg",
+    "boxArea": 3575.43949044586
+  },
+  {
+    "id": "hk-26",
+    "file": "logos/mono/hk-26.png",
+    "width": 37.23857868020305,
+    "height": 56.00000000000001,
+    "source": "stills/v12/provider-hk-26.jpg",
+    "boxArea": 2085.360406091371
+  },
+  {
+    "id": "hk-27",
+    "file": "logos/mono/hk-27.png",
+    "width": 57.45454545454545,
+    "height": 56.0,
+    "source": "stills/v12/provider-hk-27.jpg",
+    "boxArea": 3217.4545454545455
+  },
+  {
+    "id": "bank-minsheng",
+    "file": "logos/mono/bank-minsheng.png",
+    "width": 184.30743546919308,
+    "height": 32.554302460591174,
+    "source": "stills/v12/bank-minsheng.jpg",
+    "boxArea": 6000.000000000001
+  },
+  {
+    "id": "bank-shanghai",
+    "file": "logos/mono/bank-shanghai.png",
+    "width": 179.47291248483566,
+    "height": 33.43122879619488,
+    "source": "stills/v12/bank-shanghai.jpg",
+    "boxArea": 6000.0
+  }
+]

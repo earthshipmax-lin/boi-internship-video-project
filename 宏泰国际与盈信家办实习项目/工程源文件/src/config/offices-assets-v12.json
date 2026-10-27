@@ -1,0 +1,443 @@
+{
+  "version": "v12-offices-native-assets-1",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "source_document": "宏泰国际公司介紹_SC_2026年10月14日.pdf",
+  "source_page_numbering": "1-based PDF page number; source extraction filenames retained",
+  "photo_filter": "contrast(1.06) saturate(.92)",
+  "animation_max_scale": 1.04,
+  "processing": "Eight full native images copied byte-for-byte; Hong Kong lounge extracted only from native collage. No AI generation, retouching, resizing or baked photo filter.",
+  "cities": [
+    {
+      "id": "hk",
+      "name": "香港",
+      "english": "HONG KONG",
+      "address": "尖沙咀 · 新港中心",
+      "images": [
+        {
+          "id": "hk-main",
+          "slot": "main",
+          "file": "stills/v12-offices/hk-main.png",
+          "source": "qa/v11-ref/offices-native/p36-006.png",
+          "source_page": 36,
+          "source_sha256": "94d4aefefb45aab30acea0a049792259d644e66d2f05caf58bab12db96775ec4",
+          "output_sha256": "94d4aefefb45aab30acea0a049792259d644e66d2f05caf58bab12db96775ec4",
+          "source_pixels": [
+            1613,
+            1210
+          ],
+          "crop": [
+            0,
+            0,
+            1613,
+            1210
+          ],
+          "output_pixels": [
+            1613,
+            1210
+          ],
+          "display_pixels": [
+            760,
+            600
+          ],
+          "object_position": "50% 50%",
+          "focus": "Logo wall and reception desk",
+          "cover_scale": 0.49586776859504134,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.5157024793388431,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            40.167,
+            0.0,
+            1572.833,
+            1210.0
+          ],
+          "visible_crop_at_max_scale": [
+            69.641,
+            23.269,
+            1543.359,
+            1186.731
+          ]
+        },
+        {
+          "id": "hk-upper",
+          "slot": "upper",
+          "file": "stills/v12-offices/hk-upper.png",
+          "source": "qa/v11-ref/offices-native/p36-007.png",
+          "source_page": 36,
+          "source_sha256": "c945b66bd52bdf94aeaef2484cabfc9a9fe3a81f4071d15a0de80e0d1d5ae104",
+          "output_sha256": "c945b66bd52bdf94aeaef2484cabfc9a9fe3a81f4071d15a0de80e0d1d5ae104",
+          "source_pixels": [
+            1750,
+            1167
+          ],
+          "crop": [
+            0,
+            0,
+            1750,
+            1167
+          ],
+          "output_pixels": [
+            1750,
+            1167
+          ],
+          "display_pixels": [
+            374,
+            292
+          ],
+          "object_position": "50% 50%",
+          "focus": "Silvercord exterior, tower and pedestrian bridge",
+          "cover_scale": 0.25021422450728364,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.260222793487575,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            127.64,
+            0.0,
+            1622.36,
+            1167.0
+          ],
+          "visible_crop_at_max_scale": [
+            156.385,
+            22.442,
+            1593.615,
+            1144.558
+          ]
+        },
+        {
+          "id": "hk-lower",
+          "slot": "lower",
+          "file": "stills/v12-offices/hk-lower.png",
+          "source": "qa/v11-ref/offices-native/p36-001.png",
+          "source_page": 36,
+          "source_sha256": "4f8a14d716d50c5ff811be03728f6bcbee4c87404d8f0a87cd17a0c0a97ce5a2",
+          "output_sha256": "712bfb638425720729186f222f32b44574ef94b5835fba3602efaa037865d0ae",
+          "source_pixels": [
+            1920,
+            1080
+          ],
+          "crop": [
+            1023,
+            248,
+            1819,
+            678
+          ],
+          "output_pixels": [
+            796,
+            430
+          ],
+          "display_pixels": [
+            374,
+            292
+          ],
+          "object_position": "64% 50%",
+          "focus": "Actual lounge at upper right of native collage: tables, seats and display",
+          "cover_scale": 0.6790697674418604,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.7062325581395349,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            1179.958,
+            248.0,
+            1730.711,
+            678.0
+          ],
+          "visible_crop_at_max_scale": [
+            1190.549,
+            256.269,
+            1720.12,
+            669.731
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sz",
+      "name": "深圳",
+      "english": "SHENZHEN",
+      "address": "南山 · 康泰創新廣場",
+      "images": [
+        {
+          "id": "sz-main",
+          "slot": "main",
+          "file": "stills/v12-offices/sz-main.jpg",
+          "source": "qa/v11-ref/offices-native/p35-013.jpg",
+          "source_page": 35,
+          "source_sha256": "68abcff70a4a81197d7bbfe79230ba22486c314768efd9efde647950a5f3cce1",
+          "output_sha256": "68abcff70a4a81197d7bbfe79230ba22486c314768efd9efde647950a5f3cce1",
+          "source_pixels": [
+            2016,
+            1512
+          ],
+          "crop": [
+            0,
+            0,
+            2016,
+            1512
+          ],
+          "output_pixels": [
+            2016,
+            1512
+          ],
+          "display_pixels": [
+            760,
+            600
+          ],
+          "object_position": "50% 50%",
+          "focus": "Meeting table, city-facing windows and presentation display",
+          "cover_scale": 0.3968253968253968,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.4126984126984127,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            50.4,
+            0.0,
+            1965.6,
+            1512.0
+          ],
+          "visible_crop_at_max_scale": [
+            87.231,
+            29.077,
+            1928.769,
+            1482.923
+          ]
+        },
+        {
+          "id": "sz-upper",
+          "slot": "upper",
+          "file": "stills/v12-offices/sz-upper.jpg",
+          "source": "qa/v11-ref/offices-native/p35-008.jpg",
+          "source_page": 35,
+          "source_sha256": "788b2ab0c2fdc5401320228a6c1a699934b0d32081939a4ae3b88a39361953ab",
+          "output_sha256": "788b2ab0c2fdc5401320228a6c1a699934b0d32081939a4ae3b88a39361953ab",
+          "source_pixels": [
+            1179,
+            884
+          ],
+          "crop": [
+            0,
+            0,
+            1179,
+            884
+          ],
+          "output_pixels": [
+            1179,
+            884
+          ],
+          "display_pixels": [
+            374,
+            292
+          ],
+          "object_position": "50% 50%",
+          "focus": "Office desk and window skyline",
+          "cover_scale": 0.33031674208144796,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.34352941176470586,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            23.377,
+            0.0,
+            1155.623,
+            884.0
+          ],
+          "visible_crop_at_max_scale": [
+            45.151,
+            17.0,
+            1133.849,
+            867.0
+          ]
+        },
+        {
+          "id": "sz-lower",
+          "slot": "lower",
+          "file": "stills/v12-offices/sz-lower.jpg",
+          "source": "qa/v11-ref/offices-native/p35-004.jpg",
+          "source_page": 35,
+          "source_sha256": "d5a6847c63ad1c7cad03f7f1bec50d0d9f4e70a28542312bb2733403a9c125c8",
+          "output_sha256": "d5a6847c63ad1c7cad03f7f1bec50d0d9f4e70a28542312bb2733403a9c125c8",
+          "source_pixels": [
+            768,
+            512
+          ],
+          "crop": [
+            0,
+            0,
+            768,
+            512
+          ],
+          "output_pixels": [
+            768,
+            512
+          ],
+          "display_pixels": [
+            374,
+            292
+          ],
+          "object_position": "50% 50%",
+          "focus": "Lounge chairs, ceiling lights and windows",
+          "cover_scale": 0.5703125,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.593125,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            56.11,
+            0.0,
+            711.89,
+            512.0
+          ],
+          "visible_crop_at_max_scale": [
+            68.721,
+            9.846,
+            699.279,
+            502.154
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ny",
+      "name": "紐約",
+      "english": "NEW YORK",
+      "address": "Flushing · New York",
+      "images": [
+        {
+          "id": "ny-main",
+          "slot": "main",
+          "file": "stills/v12-offices/ny-main.jpg",
+          "source": "qa/v11-ref/offices-native/p34-004.jpg",
+          "source_page": 34,
+          "source_sha256": "3c6b9f45dd97ee8e9bedc6978142b2616c52038021d2c25311d9c07609fdf643",
+          "output_sha256": "3c6b9f45dd97ee8e9bedc6978142b2616c52038021d2c25311d9c07609fdf643",
+          "source_pixels": [
+            851,
+            638
+          ],
+          "crop": [
+            0,
+            0,
+            851,
+            638
+          ],
+          "output_pixels": [
+            851,
+            638
+          ],
+          "display_pixels": [
+            760,
+            600
+          ],
+          "object_position": "43% 50%",
+          "focus": "Blue Oak logo on reception wall and front desk",
+          "cover_scale": 0.9404388714733543,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.9780564263322885,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            18.433,
+            0.0,
+            826.566,
+            638.0
+          ],
+          "visible_crop_at_max_scale": [
+            33.974,
+            12.269,
+            811.025,
+            625.731
+          ]
+        },
+        {
+          "id": "ny-upper",
+          "slot": "upper",
+          "file": "stills/v12-offices/ny-upper.jpg",
+          "source": "qa/v11-ref/offices-native/p34-002.jpg",
+          "source_page": 34,
+          "source_sha256": "ea26b3b2ac88421b9428ca98a6cf289beb5aee0772c76cddf8856ac3300f3c9f",
+          "output_sha256": "ea26b3b2ac88421b9428ca98a6cf289beb5aee0772c76cddf8856ac3300f3c9f",
+          "source_pixels": [
+            1143,
+            857
+          ],
+          "crop": [
+            0,
+            0,
+            1143,
+            857
+          ],
+          "output_pixels": [
+            1143,
+            857
+          ],
+          "display_pixels": [
+            374,
+            292
+          ],
+          "object_position": "78% 50%",
+          "focus": "Trophy display wall",
+          "cover_scale": 0.34072345390898484,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.35435239206534425,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            35.362,
+            0.0,
+            1133.026,
+            857.0
+          ],
+          "visible_crop_at_max_scale": [
+            56.471,
+            16.481,
+            1111.917,
+            840.519
+          ]
+        },
+        {
+          "id": "ny-lower",
+          "slot": "lower",
+          "file": "stills/v12-offices/ny-lower.png",
+          "source": "qa/v11-ref/offices-native/p34-007.png",
+          "source_page": 34,
+          "source_sha256": "cab451d5db442a501f27b70cf8e3e4d281064ac4d3f98230ede693d46f375239",
+          "output_sha256": "cab451d5db442a501f27b70cf8e3e4d281064ac4d3f98230ede693d46f375239",
+          "source_pixels": [
+            1209,
+            683
+          ],
+          "crop": [
+            0,
+            0,
+            1209,
+            683
+          ],
+          "output_pixels": [
+            1209,
+            683
+          ],
+          "display_pixels": [
+            374,
+            292
+          ],
+          "object_position": "48% 50%",
+          "focus": "Corner office desk and window skyline",
+          "cover_scale": 0.42752562225475843,
+          "max_scale": 1.04,
+          "maximum_display_scale": 0.44462664714494876,
+          "native_no_upscale": true,
+          "visible_crop_at_rest": [
+            160.415,
+            0.0,
+            1035.217,
+            683.0
+          ],
+          "visible_crop_at_max_scale": [
+            177.238,
+            13.135,
+            1018.394,
+            669.865
+          ]
+        }
+      ]
+    }
+  ]
+}

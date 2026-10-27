@@ -1,0 +1,62 @@
+[
+  {
+    "city": "香港",
+    "file": "stills/v12-final/office-032.png",
+    "pdf_page": 36,
+    "pdf_native": "video/qa/v12/final/office-native/office-032.png",
+    "source_pixels": [
+      1613,
+      1210
+    ],
+    "display": [
+      748,
+      300,
+      650,
+      468
+    ],
+    "cover_scale": 0.402975821450713,
+    "start": 45.48,
+    "entry_seconds": 0.42,
+    "sha256": "94d4aefefb45aab30acea0a049792259d644e66d2f05caf58bab12db96775ec4"
+  },
+  {
+    "city": "深圳",
+    "file": "stills/v12-final/office-015.jpg",
+    "pdf_page": 35,
+    "pdf_native": "video/qa/v12/final/office-native/office-015.jpg",
+    "source_pixels": [
+      768,
+      512
+    ],
+    "display": [
+      1422,
+      300,
+      384,
+      216
+    ],
+    "cover_scale": 0.5,
+    "start": 46.1,
+    "entry_seconds": 0.42,
+    "sha256": "d5a6847c63ad1c7cad03f7f1bec50d0d9f4e70a28542312bb2733403a9c125c8"
+  },
+  {
+    "city": "紐約",
+    "file": "stills/v12-final/office-004.jpg",
+    "pdf_page": 34,
+    "pdf_native": "video/qa/v12/final/office-native/office-004.jpg",
+    "source_pixels": [
+      851,
+      638
+    ],
+    "display": [
+      1422,
+      552,
+      384,
+      216
+    ],
+    "cover_scale": 0.4512338425381904,
+    "start": 46.72,
+    "entry_seconds": 0.42,
+    "sha256": "3c6b9f45dd97ee8e9bedc6978142b2616c52038021d2c25311d9c07609fdf643"
+  }
+]

@@ -1,0 +1,185 @@
+{
+  "provider": "MiniMax website",
+  "model": "speech-2.8-hd",
+  "language": "en-US",
+  "languageControl": "English - detected",
+  "voiceDisplayName": "Magnetic-voiced Male - Deep,Resonant,Polished",
+  "voiceSelectionStatus": "user_selected_B_2026-10-24",
+  "speed": 1,
+  "pitch": 0,
+  "volume": 1,
+  "playbackRate": 1,
+  "auditionText": "I came from New York Life. Twenty years in this business. Here's what we actually do for new advisors.",
+  "subtitleChunks": [
+    "I came from New York Life.",
+    "Twenty years in this business.",
+    "Here's what we actually do for new advisors."
+  ],
+  "auditions": [
+    {
+      "id": "A",
+      "voiceDisplayName": "Deep Storyteller - Magnetic,Smooth,Sophisticated",
+      "nativeLanguageTag": "English / US (General)",
+      "sourceFile": "A-deep-storyteller.mp3",
+      "selectionRationale": "Candidate: library describes steady grounded long-form delivery; actual listening approval pending."
+    },
+    {
+      "id": "B",
+      "voiceDisplayName": "Magnetic-voiced Male - Deep,Resonant,Polished",
+      "nativeLanguageTag": "EN-US (General)",
+      "sourceFile": "B-magnetic-voiced-male.mp3",
+      "selectionRationale": "Candidate: library describes warm reflective delivery; actual listening approval pending."
+    },
+    {
+      "id": "C",
+      "voiceDisplayName": "Trustworthy Man - Warm,Resonant,Earthy",
+      "nativeLanguageTag": "English / EN-US (General) filter",
+      "sourceFile": "C-trustworthy-man.mp3",
+      "selectionRationale": "Candidate: library describes natural down-to-earth pace; actual listening approval pending."
+    }
+  ],
+  "creditsObserved": {
+    "initialDisplayed": 4311,
+    "afterA": 3219,
+    "afterB": 3117,
+    "afterC": 3015,
+    "caution": "Initial-to-A delta1092 exceeds102 characters; possible stale account display or unrelated usage, cause not verified. B and C observed102 each. Do not attribute1296 entirely to these3 auditions."
+  },
+  "scenes": {
+    "TEAM": {
+      "text": "Meet the people behind our US team. Their experience spans insurance, banking, and engineering.",
+      "synthesisText": "Meet the people behind our US team.<#0.4#> Their experience spans insurance, banking, and engineering.",
+      "subtitleChunks": [
+        "Meet the people behind our US team.",
+        "Their experience spans insurance, banking, and engineering."
+      ],
+      "scriptStatus": "Internal review wording based on the existing team page; final company wording review pending."
+    }
+  },
+  "visualStudy": "US-Team-v1-visual-study.mp4",
+  "productionNarration": {
+    "source": "vo/us-v1/team-b/VO-01.wav",
+    "provenance": "public/vo/us-v1/team-b/VOICE_PROVENANCE.json",
+    "duration": 6.819041666666666,
+    "startFrame": 24,
+    "playbackRate": 1
+  },
+  "music": {
+    "status": "not_selected_not_generated_or_mixed",
+    "direction": "voice_led_minimal_or_no_music",
+    "hkBgmReused": false
+  },
+  "userFeedback": "我更喜欢B一点，接下来继续做",
+  "productionCreditsObserved": {
+    "before": 3015,
+    "after": 2913,
+    "delta": 102
+  },
+  "fullFilmScenes": {
+    "S0": {
+      "text": "Most people never get a real shot at this business.",
+      "synthesisText": "Most people never get a real shot at this business.",
+      "subtitleChunks": [
+        "Most people never get a real shot at this business."
+      ],
+      "emotions": [
+        {
+          "text": "Most people never get a real shot at this business.",
+          "emotion": "Fluent",
+          "application": "Plain text; no forced expressive tag"
+        }
+      ]
+    },
+    "S1": {
+      "text": "We're Blue Oak International. A US practice built by people with experience across the industry.",
+      "synthesisText": "We're Blue Oak International.<#0.4#> A US practice built by people with experience across the industry.",
+      "subtitleChunks": [
+        "We're Blue Oak International.",
+        "A US practice built by people with experience across the industry."
+      ],
+      "emotions": [
+        {
+          "text": "We're Blue Oak International. A US practice built by people with experience across the industry.",
+          "emotion": "Fluent",
+          "application": "Plain text; no forced expressive tag"
+        }
+      ]
+    },
+    "S2": {
+      "text": "Meet the people behind our US team. Their experience spans insurance, banking, and engineering.",
+      "synthesisText": "Meet the people behind our US team.<#0.4#> Their experience spans insurance, banking, and engineering.",
+      "subtitleChunks": [
+        "Meet the people behind our US team.",
+        "Their experience spans insurance, banking, and engineering."
+      ],
+      "emotions": [
+        {
+          "text": "Meet the people behind our US team. Their experience spans insurance, banking, and engineering.",
+          "emotion": "Fluent",
+          "application": "Plain text; no forced expressive tag"
+        }
+      ]
+    },
+    "S3": {
+      "text": "Year one is structured. Licensing, products, and the fundamentals you actually need.",
+      "synthesisText": "Year one is structured.<#0.4#> Licensing, products, and the fundamentals you actually need.",
+      "subtitleChunks": [
+        "Year one is structured.",
+        "Licensing, products, and the fundamentals you actually need."
+      ],
+      "emotions": [
+        {
+          "text": "Year one is structured. Licensing, products, and the fundamentals you actually need.",
+          "emotion": "Fluent",
+          "application": "Plain text; no forced expressive tag"
+        }
+      ]
+    },
+    "S4": {
+      "text": "You're not handed a list and left alone. You work alongside partners who've done this before.",
+      "synthesisText": "You're not handed a list and left alone.<#0.4#> You work alongside partners who've done this before.",
+      "subtitleChunks": [
+        "You're not handed a list and left alone.",
+        "You work alongside partners who've done this before."
+      ],
+      "emotions": [
+        {
+          "text": "You're not handed a list and left alone. You work alongside partners who've done this before.",
+          "emotion": "Fluent",
+          "application": "Plain text; no forced expressive tag"
+        }
+      ]
+    },
+    "S5": {
+      "text": "It's not passive. The first year is the hardest one. We're direct about that.",
+      "synthesisText": "It's not passive.<#0.4#> The first year is the hardest one.<#0.4#> We're direct about that.",
+      "subtitleChunks": [
+        "It's not passive.",
+        "The first year is the hardest one.",
+        "We're direct about that."
+      ],
+      "emotions": [
+        {
+          "text": "It's not passive. The first year is the hardest one. We're direct about that.",
+          "emotion": "Fluent",
+          "application": "Plain text; no forced expressive tag"
+        }
+      ]
+    },
+    "S6": {
+      "text": "If you've been thinking about this for a while, this is the conversation to have. Blue Oak International.",
+      "synthesisText": "If you've been thinking about this for a while, this is the conversation to have.<#0.4#> Blue Oak International.",
+      "subtitleChunks": [
+        "If you've been thinking about this for a while, this is the conversation to have.",
+        "Blue Oak International."
+      ],
+      "emotions": [
+        {
+          "text": "If you've been thinking about this for a while, this is the conversation to have. Blue Oak International.",
+          "emotion": "Fluent",
+          "application": "Plain text; no forced expressive tag"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "provider": "MiniMax website in user-authorized Chrome tab",
+  "model": "speech-2.8-hd",
+  "voiceDisplayName": "Gentle Lady - Clear,Melodic,Gentle",
+  "language": "Cantonese",
+  "speed": 0.95,
+  "pitch": 0,
+  "volume": 1,
+  "userFeedback": "User approved S7 audition: 接近了，按这款继续",
+  "creditsObserved": {
+    "before": 6081,
+    "after": 5746,
+    "difference": 335
+  },
+  "scenes": {
+    "S1": {
+      "text": "香港，已成為全球最大的跨境財富管理中心。",
+      "subtitleChunks": [
+        "香港，",
+        "已成為全球最大的跨境財富管理中心。"
+      ],
+      "emotions": [
+        {
+          "text": "香港，已成為全球最大的跨境財富管理中心。",
+          "emotion": "Fluent"
+        }
+      ]
+    },
+    "S2": {
+      "text": "市場越大，客戶越需要一位，值得信任的人。",
+      "subtitleChunks": [
+        "市場越大，",
+        "客戶越需要一位，",
+        "值得信任的人。"
+      ],
+      "emotions": [
+        {
+          "text": "市場越大，客戶越需要一位，值得信任的人。",
+          "emotion": "Fluent"
+        }
+      ]
+    },
+    "S3": {
+      "text": "信任，不會一夜之間建立。它像橡樹的年輪，一圈一圈，慢慢長出來。",
+      "subtitleChunks": [
+        "信任，",
+        "不會一夜之間建立。",
+        "它像橡樹的年輪，",
+        "一圈一圈，",
+        "慢慢長出來。"
+      ],
+      "emotions": [
+        {
+          "text": "信任，不會一夜之間建立。它像橡樹的年輪，一圈一圈，慢慢長出來。",
+          "emotion": "Fluent"
+        }
+      ]
+    },
+    "S4": {
+      "text": "在宏泰國際，嚴謹的合規、資深的導師、專業的系統，陪你走好每一步。",
+      "subtitleChunks": [
+        "在宏泰國際，",
+        "嚴謹的合規、",
+        "資深的導師、",
+        "專業的系統，",
+        "陪你走好每一步。"
+      ],
+      "emotions": [
+        {
+          "text": "在宏泰國際，嚴謹的合規、資深的導師、專業的系統，陪你走好每一步。",
+          "emotion": "Fluent"
+        }
+      ]
+    },
+    "S5": {
+      "text": "立足香港，紮根這片土地。",
+      "subtitleChunks": [
+        "立足香港，",
+        "紮根這片土地。"
+      ],
+      "emotions": [
+        {
+          "text": "立足香港，紮根這片土地。",
+          "emotion": "Fluent"
+        }
+      ]
+    },
+    "S6": {
+      "text": "第一季，打好專業根基。第二季，建立你的客戶網絡。第三、四季，成為獨當一面的理財顧問。",
+      "subtitleChunks": [
+        "第一季，",
+        "打好專業根基。",
+        "第二季，",
+        "建立你的客戶網絡。",
+        "第三、四季，",
+        "成為獨當一面的理財顧問。"
+      ],
+      "emotions": [
+        {
+          "text": "第一季，打好專業根基。第二季，建立你的客戶網絡。第三、四季，成為獨當一面的理財顧問。",
+          "emotion": "Fluent"
+        }
+      ]
+    },
+    "S7": {
+      "text": "你的第一圈年輪，由今天開始。歡迎加入宏泰大家庭。",
+      "subtitleChunks": [
+        "你的第一圈年輪，",
+        "由今天開始。",
+        "歡迎加入宏泰大家庭。"
+      ],
+      "emotions": [
+        {
+          "text": "你的第一圈年輪，由今天開始。",
+          "emotion": "Fluent"
+        },
+        {
+          "text": "歡迎加入宏泰大家庭。",
+          "emotion": "Happy"
+        }
+      ]
+    }
+  }
+}

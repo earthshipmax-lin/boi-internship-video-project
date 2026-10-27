@@ -1,0 +1,107 @@
+[
+  {
+    "id": "fig01",
+    "scene": "S1",
+    "asset": "hk-main",
+    "figure": "FIG. 01 — Hong Kong",
+    "x": 1096,
+    "y": 244,
+    "width": 620,
+    "height": 465,
+    "position": [
+      0.5,
+      0.5
+    ],
+    "file": "stills/us-v4/hk-main.png",
+    "nativeSize": [
+      1613,
+      1210
+    ],
+    "sourcePage": 36,
+    "scale": 0.384376937383757
+  },
+  {
+    "id": "fig02",
+    "scene": "S3",
+    "asset": "hk-lower",
+    "figure": "FIG. 02 — Hong Kong",
+    "x": 1180,
+    "y": 172,
+    "width": 596,
+    "height": 196,
+    "position": [
+      0.5,
+      0.55
+    ],
+    "file": "stills/us-v4/hk-lower.png",
+    "nativeSize": [
+      796,
+      430
+    ],
+    "sourcePage": 36,
+    "scale": 0.7487437185929648
+  },
+  {
+    "id": "fig03",
+    "scene": "S3",
+    "asset": "sz-main",
+    "figure": "FIG. 03 — Shenzhen",
+    "x": 1180,
+    "y": 420,
+    "width": 596,
+    "height": 196,
+    "position": [
+      0.5,
+      0.56
+    ],
+    "file": "stills/us-v4/sz-main.png",
+    "nativeSize": [
+      2016,
+      1512
+    ],
+    "sourcePage": 35,
+    "scale": 0.29563492063492064
+  },
+  {
+    "id": "fig04",
+    "scene": "S3",
+    "asset": "ny-main",
+    "figure": "FIG. 04 — New York",
+    "x": 1180,
+    "y": 668,
+    "width": 596,
+    "height": 196,
+    "position": [
+      0.45,
+      0.31
+    ],
+    "file": "stills/us-v4/ny-main.png",
+    "nativeSize": [
+      851,
+      638
+    ],
+    "sourcePage": 34,
+    "scale": 0.700352526439483
+  },
+  {
+    "id": "fig05",
+    "scene": "S5",
+    "asset": "ny-main",
+    "figure": "FIG. 05 — Flushing, New York",
+    "x": 200,
+    "y": 300,
+    "width": 640,
+    "height": 280,
+    "position": [
+      0.45,
+      0.35
+    ],
+    "file": "stills/us-v4/ny-main.png",
+    "nativeSize": [
+      851,
+      638
+    ],
+    "sourcePage": 34,
+    "scale": 0.7520564042303173
+  }
+]

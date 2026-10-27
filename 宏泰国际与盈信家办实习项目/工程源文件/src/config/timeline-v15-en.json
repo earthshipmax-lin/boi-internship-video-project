@@ -1,0 +1,2303 @@
+{
+  "locale": "en",
+  "fps": 30,
+  "durationInFrames": 2968,
+  "durationSeconds": 98.93333333333334,
+  "map": [
+    {
+      "oldStart": 0,
+      "oldEnd": 72.0,
+      "newStart": 0,
+      "newEnd": 72.0
+    },
+    {
+      "oldStart": 72.0,
+      "oldEnd": 140.60000000000002,
+      "newStart": 72.0,
+      "newEnd": 128.0
+    },
+    {
+      "oldStart": 140.60000000000002,
+      "oldEnd": 194.6,
+      "newStart": 128.0,
+      "newEnd": 199.0
+    },
+    {
+      "oldStart": 194.6,
+      "oldEnd": 270.59999999999997,
+      "newStart": 199.0,
+      "newEnd": 294.0
+    },
+    {
+      "oldStart": 270.59999999999997,
+      "oldEnd": 387.4,
+      "newStart": 294.0,
+      "newEnd": 366.0
+    },
+    {
+      "oldStart": 387.4,
+      "oldEnd": 496.8,
+      "newStart": 366.0,
+      "newEnd": 449.0
+    },
+    {
+      "oldStart": 496.8,
+      "oldEnd": 625.2,
+      "newStart": 449.0,
+      "newEnd": 570.0
+    },
+    {
+      "oldStart": 625.2,
+      "oldEnd": 774.6,
+      "newStart": 570.0,
+      "newEnd": 706.0
+    },
+    {
+      "oldStart": 774.6,
+      "oldEnd": 889.6,
+      "newStart": 706.0,
+      "newEnd": 818.0
+    },
+    {
+      "oldStart": 889.6,
+      "oldEnd": 945.0,
+      "newStart": 818.0,
+      "newEnd": 880.0
+    },
+    {
+      "oldStart": 945.0,
+      "oldEnd": 1104.2,
+      "newStart": 880.0,
+      "newEnd": 976.0
+    },
+    {
+      "oldStart": 1104.2,
+      "oldEnd": 1186.0,
+      "newStart": 976.0,
+      "newEnd": 1049.0
+    },
+    {
+      "oldStart": 1186.0,
+      "oldEnd": 1306.0,
+      "newStart": 1049.0,
+      "newEnd": 1153.0
+    },
+    {
+      "oldStart": 1306.0,
+      "oldEnd": 1379.4,
+      "newStart": 1153.0,
+      "newEnd": 1226.0
+    },
+    {
+      "oldStart": 1379.4,
+      "oldEnd": 1479.0,
+      "newStart": 1226.0,
+      "newEnd": 1332.0
+    },
+    {
+      "oldStart": 1479.0,
+      "oldEnd": 1569.0,
+      "newStart": 1332.0,
+      "newEnd": 1420.0
+    },
+    {
+      "oldStart": 1569.0,
+      "oldEnd": 1678.3999999999999,
+      "newStart": 1420.0,
+      "newEnd": 1498.0
+    },
+    {
+      "oldStart": 1678.3999999999999,
+      "oldEnd": 1736.6,
+      "newStart": 1498.0,
+      "newEnd": 1552.0
+    },
+    {
+      "oldStart": 1736.6,
+      "oldEnd": 1842.2,
+      "newStart": 1552.0,
+      "newEnd": 1651.0
+    },
+    {
+      "oldStart": 1842.2,
+      "oldEnd": 1939.6,
+      "newStart": 1651.0,
+      "newEnd": 1753.0
+    },
+    {
+      "oldStart": 1939.6,
+      "oldEnd": 2037,
+      "newStart": 1753.0,
+      "newEnd": 1830.0
+    },
+    {
+      "oldStart": 2037,
+      "oldEnd": 2144,
+      "newStart": 1830.0,
+      "newEnd": 1904.0
+    },
+    {
+      "oldStart": 2144,
+      "oldEnd": 2306,
+      "newStart": 1904.0,
+      "newEnd": 2057.0
+    },
+    {
+      "oldStart": 2306,
+      "oldEnd": 2459,
+      "newStart": 2057.0,
+      "newEnd": 2186.0
+    },
+    {
+      "oldStart": 2459,
+      "oldEnd": 2614,
+      "newStart": 2186.0,
+      "newEnd": 2367.0
+    },
+    {
+      "oldStart": 2614,
+      "oldEnd": 2786,
+      "newStart": 2367.0,
+      "newEnd": 2513.0
+    },
+    {
+      "oldStart": 2786,
+      "oldEnd": 2940.0,
+      "newStart": 2513.0,
+      "newEnd": 2652.0
+    },
+    {
+      "oldStart": 2940.0,
+      "oldEnd": 3032.0,
+      "newStart": 2652.0,
+      "newEnd": 2724.0
+    },
+    {
+      "oldStart": 3032.0,
+      "oldEnd": 3136.0,
+      "newStart": 2724.0,
+      "newEnd": 2799.0
+    },
+    {
+      "oldStart": 3136.0,
+      "oldEnd": 3248.5,
+      "newStart": 2799.0,
+      "newEnd": 2889.0
+    },
+    {
+      "oldStart": 3248.5,
+      "oldEnd": 3426,
+      "newStart": 2889.0,
+      "newEnd": 2968.0
+    }
+  ],
+  "cues": [
+    {
+      "id": "caption-01",
+      "startFrame": 73,
+      "endFrame": 117,
+      "text": "A family's future",
+      "speechStart": 2.44,
+      "speechEnd": 3.82
+    },
+    {
+      "id": "caption-02",
+      "startFrame": 129,
+      "endFrame": 188,
+      "text": "deserves a long-term view.",
+      "speechStart": 4.306666666666667,
+      "speechEnd": 6.176666666666668
+    },
+    {
+      "id": "caption-03",
+      "startFrame": 200,
+      "endFrame": 283,
+      "text": "Our roots go back to nineteen ninety-seven.",
+      "speechStart": 6.673333333333334,
+      "speechEnd": 9.343333333333335
+    },
+    {
+      "id": "caption-04",
+      "startFrame": 295,
+      "endFrame": 355,
+      "text": "We've grown through expertise,",
+      "speechStart": 9.84,
+      "speechEnd": 11.760000000000002
+    },
+    {
+      "id": "caption-05",
+      "startFrame": 367,
+      "endFrame": 438,
+      "text": "and the trust families place in us.",
+      "speechStart": 12.239999999999997,
+      "speechEnd": 14.519999999999998
+    },
+    {
+      "id": "caption-06",
+      "startFrame": 450,
+      "endFrame": 559,
+      "text": "Over ten billion Hong Kong dollars in total premiums.",
+      "speechStart": 15.006666666666666,
+      "speechEnd": 18.566666666666663
+    },
+    {
+      "id": "caption-07",
+      "startFrame": 571,
+      "endFrame": 695,
+      "text": "Over one point five billion Hong Kong dollars in total commission.",
+      "speechStart": 19.039999999999996,
+      "speechEnd": 23.080000000000002
+    },
+    {
+      "id": "caption-08",
+      "startFrame": 707,
+      "endFrame": 807,
+      "text": "Serving over twenty thousand high-net-worth clients.",
+      "speechStart": 23.573333333333334,
+      "speechEnd": 26.823333333333334
+    },
+    {
+      "id": "caption-09",
+      "startFrame": 819,
+      "endFrame": 869,
+      "text": "Behind every number,",
+      "speechStart": 27.306666666666665,
+      "speechEnd": 28.89666666666667
+    },
+    {
+      "id": "caption-10",
+      "startFrame": 881,
+      "endFrame": 945,
+      "text": "is a family looking ahead.",
+      "speechStart": 29.37333333333333,
+      "speechEnd": 31.41333333333333
+    },
+    {
+      "id": "caption-11",
+      "startFrame": 977,
+      "endFrame": 1038,
+      "text": "That's why we keep moving forward.",
+      "speechStart": 32.57333333333333,
+      "speechEnd": 34.52333333333333
+    },
+    {
+      "id": "caption-12",
+      "startFrame": 1050,
+      "endFrame": 1142,
+      "text": "Connecting Hong Kong, Shenzhen, and New York.",
+      "speechStart": 35.006666666666675,
+      "speechEnd": 37.986666666666665
+    },
+    {
+      "id": "caption-13",
+      "startFrame": 1154,
+      "endFrame": 1215,
+      "text": "With plans underway in Singapore.",
+      "speechStart": 38.47333333333333,
+      "speechEnd": 40.42333333333333
+    },
+    {
+      "id": "caption-14",
+      "startFrame": 1227,
+      "endFrame": 1321,
+      "text": "From insurance and trusts to tax planning,",
+      "speechStart": 40.906666666666666,
+      "speechEnd": 43.95666666666666
+    },
+    {
+      "id": "caption-15",
+      "startFrame": 1333,
+      "endFrame": 1409,
+      "text": "education and residency planning,",
+      "speechStart": 44.44,
+      "speechEnd": 46.89
+    },
+    {
+      "id": "caption-16",
+      "startFrame": 1421,
+      "endFrame": 1488,
+      "text": "we bring our expertise together.",
+      "speechStart": 47.37333333333334,
+      "speechEnd": 49.50333333333334
+    },
+    {
+      "id": "caption-17",
+      "startFrame": 1499,
+      "endFrame": 1542,
+      "text": "For every family,",
+      "speechStart": 49.97333333333333,
+      "speechEnd": 51.30333333333333
+    },
+    {
+      "id": "caption-18",
+      "startFrame": 1553,
+      "endFrame": 1641,
+      "text": "a clearer picture, and a long-term plan.",
+      "speechStart": 51.77333333333334,
+      "speechEnd": 54.60333333333334
+    },
+    {
+      "id": "caption-19",
+      "startFrame": 1652,
+      "endFrame": 1742,
+      "text": "Our outlook reaches across borders.",
+      "speechStart": 55.07333333333333,
+      "speechEnd": 57.98333333333334
+    },
+    {
+      "id": "caption-20",
+      "startFrame": 1754,
+      "endFrame": 1819,
+      "text": "Trust grows over time.",
+      "speechStart": 58.47333333333333,
+      "speechEnd": 60.56333333333333
+    },
+    {
+      "id": "people-opening",
+      "startFrame": 1831,
+      "endFrame": 1893,
+      "text": "Our people make the difference.",
+      "speechStart": 61.040000000000006,
+      "speechEnd": 63.019999999999996
+    },
+    {
+      "id": "people-david-lau",
+      "startFrame": 1905,
+      "endFrame": 2047,
+      "text": "Thirty years of experience with global companies, helping our group look ahead.",
+      "speechStart": 63.50666666666666,
+      "speechEnd": 68.13666666666666
+    },
+    {
+      "id": "people-patrick-li",
+      "startFrame": 2058,
+      "endFrame": 2176,
+      "text": "Careful analysis helps build plans that stand the test of time.",
+      "speechStart": 68.60666666666665,
+      "speechEnd": 72.43666666666667
+    },
+    {
+      "id": "people-operations-compliance",
+      "startFrame": 2187,
+      "endFrame": 2356,
+      "text": "From daily operations to compliance, someone is looking after every detail.",
+      "speechStart": 72.90666666666667,
+      "speechEnd": 78.44666666666666
+    },
+    {
+      "id": "people-hong-kong-new-york",
+      "startFrame": 2368,
+      "endFrame": 2502,
+      "text": "From Hong Kong to New York, the same expertise and commitment.",
+      "speechStart": 78.94000000000003,
+      "speechEnd": 83.32000000000002
+    },
+    {
+      "id": "people-partner-wall",
+      "startFrame": 2514,
+      "endFrame": 2641,
+      "text": "One team. One purpose. Protecting each family's future.",
+      "speechStart": 83.80666666666667,
+      "speechEnd": 87.95666666666665
+    },
+    {
+      "id": "caption-21",
+      "startFrame": 2653,
+      "endFrame": 2714,
+      "text": "Strong roots help us grow.",
+      "speechStart": 88.44000000000001,
+      "speechEnd": 90.36999999999999
+    },
+    {
+      "id": "caption-22",
+      "startFrame": 2725,
+      "endFrame": 2788,
+      "text": "Steady steps take us further.",
+      "speechStart": 90.84000000000002,
+      "speechEnd": 92.85000000000001
+    },
+    {
+      "id": "caption-23",
+      "startFrame": 2800,
+      "endFrame": 2878,
+      "text": "Think big. Stand strong.",
+      "speechStart": 93.34,
+      "speechEnd": 95.85
+    },
+    {
+      "id": "caption-24",
+      "startFrame": 2890,
+      "endFrame": 2936,
+      "text": "Blue Oak International.",
+      "speechStart": 96.34,
+      "speechEnd": 97.76999999999998
+    }
+  ],
+  "oldTimeline": {
+    "fps": 30,
+    "durationInFrames": 3426,
+    "durationSeconds": 114.2,
+    "originalFrames": 2103,
+    "bodyExtraFrames": 482,
+    "peopleFrames": 911,
+    "peopleStartFrame": 2028,
+    "peopleSourceFrame": 1652,
+    "peoplePlan": {
+      "openingFrames": 107,
+      "personFrames": [
+        162,
+        153,
+        77,
+        78,
+        75,
+        76
+      ],
+      "returnFrames": 15,
+      "exitFrames": 6,
+      "wallFrames": 162
+    },
+    "holds": [
+      {
+        "sourceFrame": 113,
+        "frames": 11,
+        "cueId": "caption-01",
+        "startFrame": 113
+      },
+      {
+        "sourceFrame": 171,
+        "frames": 2,
+        "cueId": "caption-02",
+        "startFrame": 182
+      },
+      {
+        "sourceFrame": 229,
+        "frames": 16,
+        "cueId": "caption-03",
+        "startFrame": 242
+      },
+      {
+        "sourceFrame": 320,
+        "frames": 25,
+        "cueId": "caption-04",
+        "startFrame": 349
+      },
+      {
+        "sourceFrame": 413,
+        "frames": 19,
+        "cueId": "caption-05",
+        "startFrame": 467
+      },
+      {
+        "sourceFrame": 510,
+        "frames": 39,
+        "cueId": "caption-06",
+        "startFrame": 583
+      },
+      {
+        "sourceFrame": 599,
+        "frames": 66,
+        "cueId": "caption-07",
+        "startFrame": 711
+      },
+      {
+        "sourceFrame": 690,
+        "frames": 27,
+        "cueId": "caption-08",
+        "startFrame": 868
+      },
+      {
+        "sourceFrame": 748,
+        "frames": 9,
+        "cueId": "caption-09",
+        "startFrame": 953
+      },
+      {
+        "sourceFrame": 837,
+        "frames": 2,
+        "cueId": "caption-10",
+        "startFrame": 1051
+      },
+      {
+        "sourceFrame": 970,
+        "frames": 22,
+        "cueId": "caption-11",
+        "startFrame": 1186
+      },
+      {
+        "sourceFrame": 1069,
+        "frames": 48,
+        "cueId": "caption-12",
+        "startFrame": 1307
+      },
+      {
+        "sourceFrame": 1126,
+        "frames": 4,
+        "cueId": "caption-13",
+        "startFrame": 1412
+      },
+      {
+        "sourceFrame": 1212,
+        "frames": 27,
+        "cueId": "caption-14",
+        "startFrame": 1502
+      },
+      {
+        "sourceFrame": 1271,
+        "frames": 29,
+        "cueId": "caption-15",
+        "startFrame": 1588
+      },
+      {
+        "sourceFrame": 1315,
+        "frames": 38,
+        "cueId": "caption-16",
+        "startFrame": 1661
+      },
+      {
+        "sourceFrame": 1390,
+        "frames": 21,
+        "cueId": "caption-17",
+        "startFrame": 1774
+      },
+      {
+        "sourceFrame": 1467,
+        "frames": 12,
+        "cueId": "caption-18",
+        "startFrame": 1872
+      },
+      {
+        "sourceFrame": 1545,
+        "frames": 29,
+        "cueId": "caption-19",
+        "startFrame": 1962
+      },
+      {
+        "sourceFrame": 1720,
+        "frames": 11,
+        "cueId": "caption-21",
+        "startFrame": 2166
+      },
+      {
+        "sourceFrame": 1805,
+        "frames": 20,
+        "cueId": "caption-22",
+        "startFrame": 2262
+      },
+      {
+        "sourceFrame": 1980,
+        "frames": 5,
+        "cueId": "caption-24",
+        "startFrame": 2457
+      }
+    ],
+    "cues": [
+      {
+        "id": "caption-01",
+        "startFrame": 72.0,
+        "originalStart": 2.4,
+        "originalEnd": 3.9,
+        "text": {
+          "yue": "一個家族嘅未來",
+          "zh-CN": "一个家族的未来",
+          "en": "A family's future"
+        },
+        "duration": {
+          "yue": 1.5,
+          "en": 1.6138333333333332,
+          "zh-CN": 1.7415208333333334
+        }
+      },
+      {
+        "id": "caption-02",
+        "startFrame": 140.60000000000002,
+        "originalStart": 4.32,
+        "originalEnd": 5.9,
+        "text": {
+          "yue": "值得我哋睇得更遠",
+          "zh-CN": "值得看得更远",
+          "en": "Worth a longer view"
+        },
+        "duration": {
+          "yue": 1.58,
+          "en": 1.5209583333333334,
+          "zh-CN": 1.5209583333333334
+        }
+      },
+      {
+        "id": "caption-03",
+        "startFrame": 194.6,
+        "originalStart": 6.12,
+        "originalEnd": 7.78,
+        "text": {
+          "yue": "源自一九九七年",
+          "zh-CN": "源自一九九七年",
+          "en": "Since 1997"
+        },
+        "duration": {
+          "yue": 1.6600000000000001,
+          "en": 2.0666041666666666,
+          "zh-CN": 1.6950833333333333
+        }
+      },
+      {
+        "id": "caption-04",
+        "startFrame": 270.59999999999997,
+        "originalStart": 8.12,
+        "originalEnd": 10.78,
+        "text": {
+          "yue": "我哋一路走來，靠嘅係專業",
+          "zh-CN": "我们一路走来，靠的是专业",
+          "en": "Built on expertise, every step of the way"
+        },
+        "duration": {
+          "yue": 2.66,
+          "en": 3.3553333333333333,
+          "zh-CN": 2.404333333333333
+        }
+      },
+      {
+        "id": "caption-05",
+        "startFrame": 387.4,
+        "originalStart": 11.18,
+        "originalEnd": 13.88,
+        "text": {
+          "yue": "更加係每一份交到手上嘅信任",
+          "zh-CN": "更是每一份交到手上的信任",
+          "en": "And on every trust placed in our hands"
+        },
+        "duration": {
+          "yue": 2.700000000000001,
+          "en": 3.1927708333333333,
+          "zh-CN": 2.5658333333333334
+        }
+      },
+      {
+        "id": "caption-06",
+        "startFrame": 496.8,
+        "originalStart": 14.46,
+        "originalEnd": 17.34,
+        "text": {
+          "yue": "集團總保費超過一百億港元",
+          "zh-CN": "集团总保费超过一百亿港元",
+          "en": "Over HK$10 billion in total premiums"
+        },
+        "duration": {
+          "yue": 2.879999999999999,
+          "en": 4.0519375,
+          "zh-CN": 2.7178125
+        }
+      },
+      {
+        "id": "caption-07",
+        "startFrame": 625.2,
+        "originalStart": 17.64,
+        "originalEnd": 20.14,
+        "text": {
+          "yue": "總佣金超過十五億港元",
+          "zh-CN": "总佣金超过十五亿港元",
+          "en": "Over HK$1.5 billion in total commission"
+        },
+        "duration": {
+          "yue": 2.5,
+          "en": 4.551145833333333,
+          "zh-CN": 2.159479166666667
+        }
+      },
+      {
+        "id": "caption-08",
+        "startFrame": 774.6,
+        "originalStart": 20.42,
+        "originalEnd": 23.2,
+        "text": {
+          "yue": "服務超過兩萬位高淨值客戶",
+          "zh-CN": "服务超过两万位高净值客户",
+          "en": "Serving over 20,000 high-net-worth clients"
+        },
+        "duration": {
+          "yue": 2.7799999999999976,
+          "en": 3.553729166666667,
+          "zh-CN": 2.4381458333333335
+        }
+      },
+      {
+        "id": "caption-09",
+        "startFrame": 889.6,
+        "originalStart": 23.62,
+        "originalEnd": 25.06,
+        "text": {
+          "yue": "每一個數字背後",
+          "zh-CN": "每一个数字背后",
+          "en": "Behind every figure"
+        },
+        "duration": {
+          "yue": 1.4399999999999977,
+          "en": 1.6138333333333332,
+          "zh-CN": 1.3594375
+        }
+      },
+      {
+        "id": "caption-10",
+        "startFrame": 945.0,
+        "originalStart": 25.2,
+        "originalEnd": 27.96,
+        "text": {
+          "yue": "都有一個家庭，對未來嘅期望",
+          "zh-CN": "都有一个家庭，对未来的期望",
+          "en": "A family's hope for the future"
+        },
+        "duration": {
+          "yue": 2.7600000000000016,
+          "en": 2.310416666666667,
+          "zh-CN": 2.6819375
+        }
+      },
+      {
+        "id": "caption-11",
+        "startFrame": 1104.2,
+        "originalStart": 30.94,
+        "originalEnd": 32.54,
+        "text": {
+          "yue": "所以，我哋一直向前",
+          "zh-CN": "所以，我们一直向前",
+          "en": "So we keep moving forward"
+        },
+        "duration": {
+          "yue": 1.5999999999999979,
+          "en": 2.1953541666666667,
+          "zh-CN": 2.1130416666666667
+        }
+      },
+      {
+        "id": "caption-12",
+        "startFrame": 1186.0,
+        "originalStart": 33.2,
+        "originalEnd": 35.16,
+        "text": {
+          "yue": "連繫香港、深圳、紐約",
+          "zh-CN": "联系香港、深圳、纽约",
+          "en": "Connecting Hong Kong, Shenzhen, New York"
+        },
+        "duration": {
+          "yue": 3.4199999999999937,
+          "en": 3.4365625,
+          "zh-CN": 3.2243333333333335
+        }
+      },
+      {
+        "id": "caption-13",
+        "startFrame": 1306.0,
+        "originalStart": 35.6,
+        "originalEnd": 37.72,
+        "text": {
+          "yue": "新加坡亦正籌備中",
+          "zh-CN": "新加坡亦正筹备中",
+          "en": "Singapore in preparation"
+        },
+        "duration": {
+          "yue": 2.1199999999999974,
+          "en": 2.1130416666666667,
+          "zh-CN": 1.9505416666666666
+        }
+      },
+      {
+        "id": "caption-14",
+        "startFrame": 1379.4,
+        "originalStart": 38.18,
+        "originalEnd": 40.52,
+        "text": {
+          "yue": "從保險、信託，到稅務",
+          "zh-CN": "从保险、信托，到税务",
+          "en": "From insurance and trusts to tax"
+        },
+        "duration": {
+          "yue": 2.3400000000000034,
+          "en": 3.1115208333333335,
+          "zh-CN": 2.809645833333333
+        }
+      },
+      {
+        "id": "caption-15",
+        "startFrame": 1479.0,
+        "originalStart": 40.8,
+        "originalEnd": 42.54,
+        "text": {
+          "yue": "教育同身份規劃",
+          "zh-CN": "教育与身份规划",
+          "en": "Education and residency planning"
+        },
+        "duration": {
+          "yue": 1.740000000000002,
+          "en": 2.5658333333333334,
+          "zh-CN": 1.7773958333333333
+        }
+      },
+      {
+        "id": "caption-16",
+        "startFrame": 1569.0,
+        "originalStart": 43.1,
+        "originalEnd": 44.9,
+        "text": {
+          "yue": "將專業連成一個平台",
+          "zh-CN": "将专业连成一个平台",
+          "en": "One platform, built on expertise"
+        },
+        "duration": {
+          "yue": 1.7999999999999972,
+          "en": 2.9141458333333334,
+          "zh-CN": 2.0317708333333333
+        }
+      },
+      {
+        "id": "caption-17",
+        "startFrame": 1678.3999999999999,
+        "originalStart": 45.48,
+        "originalEnd": 46.48,
+        "text": {
+          "yue": "為每一個家族",
+          "zh-CN": "为每一个家族",
+          "en": "For every family"
+        },
+        "duration": {
+          "yue": 1.0,
+          "en": 1.5684166666666666,
+          "zh-CN": 1.5209583333333334
+        }
+      },
+      {
+        "id": "caption-18",
+        "startFrame": 1736.6,
+        "originalStart": 46.72,
+        "originalEnd": 49.16,
+        "text": {
+          "yue": "睇得更全面，行得更長遠",
+          "zh-CN": "看得更全面，行得更长远",
+          "en": "A fuller view. A longer road."
+        },
+        "duration": {
+          "yue": 2.4399999999999977,
+          "en": 2.7178125,
+          "zh-CN": 2.6819375
+        }
+      },
+      {
+        "id": "caption-19",
+        "startFrame": 1842.2,
+        "originalStart": 49.84,
+        "originalEnd": 51.68,
+        "text": {
+          "yue": "眼光，可以跨越地域",
+          "zh-CN": "眼光，可以跨越地域",
+          "en": "Vision crosses borders"
+        },
+        "duration": {
+          "yue": 1.8399999999999963,
+          "en": 1.9505416666666666,
+          "zh-CN": 2.6819375
+        }
+      },
+      {
+        "id": "caption-20",
+        "startFrame": 1939.6,
+        "originalStart": 52.12,
+        "originalEnd": 54.56,
+        "text": {
+          "yue": "信任，需要時間扎根",
+          "zh-CN": "信任，需要时间扎根",
+          "en": "Trust takes root in time"
+        },
+        "duration": {
+          "yue": 2.440000000000005,
+          "en": 2.1953541666666667,
+          "zh-CN": 2.2755833333333335
+        }
+      },
+      {
+        "id": "people-opening",
+        "startFrame": 2037,
+        "text": {
+          "yue": "平台嘅高度，由人嚟決定。",
+          "zh-CN": "平台的高度，由人来决定。",
+          "en": "A platform rises as high as its people."
+        },
+        "duration": {
+          "yue": 2.8560833333333333,
+          "en": 2.6819375,
+          "zh-CN": 2.1953541666666667
+        }
+      },
+      {
+        "id": "people-david-lau",
+        "startFrame": 2144,
+        "text": {
+          "yue": "三十年跨國企業經驗，帶領集團看得更遠。",
+          "zh-CN": "三十年跨国企业经验，带领集团看得更远。",
+          "en": "Thirty years with global firms, leading the group to see further."
+        },
+        "duration": {
+          "yue": 4.66725,
+          "en": 3.889375,
+          "zh-CN": 3.7268333333333334
+        }
+      },
+      {
+        "id": "people-patrick-li",
+        "startFrame": 2306,
+        "text": {
+          "yue": "精算嘅嚴謹，令每一份方案經得起時間。",
+          "zh-CN": "精算的严谨，让每一份方案经得起时间。",
+          "en": "Actuarial rigour that lets every plan stand the test of time."
+        },
+        "duration": {
+          "yue": 4.377,
+          "en": 4.353770833333333,
+          "zh-CN": 3.3553333333333333
+        }
+      },
+      {
+        "id": "people-operations-compliance",
+        "startFrame": 2459,
+        "text": {
+          "yue": "由營運到合規，每一個環節，都有人把關。",
+          "zh-CN": "从营运到合规，每一个环节，都有人把关。",
+          "en": "From operations to compliance, every step has a guardian."
+        },
+        "duration": {
+          "yue": 4.458270833333334,
+          "en": 4.191229166666667,
+          "zh-CN": 4.0519375
+        }
+      },
+      {
+        "id": "people-hong-kong-new-york",
+        "startFrame": 2614,
+        "text": {
+          "yue": "由香港到紐約，同一份專業，同一份承諾。",
+          "zh-CN": "从香港到纽约，同一份专业，同一份承诺。",
+          "en": "From Hong Kong to New York, one standard, one promise."
+        },
+        "duration": {
+          "yue": 4.3305625,
+          "en": 3.889375,
+          "zh-CN": 4.0519375
+        }
+      },
+      {
+        "id": "people-partner-wall",
+        "startFrame": 2786,
+        "text": {
+          "yue": "一群人，一個方向：守護每一個家族嘅未來。",
+          "zh-CN": "一群人，一个方向：守护每一个家族的未来。",
+          "en": "Many people, one purpose: safeguarding every family's future."
+        },
+        "duration": {
+          "yue": 4.504708333333333,
+          "en": 4.678875,
+          "zh-CN": 4.353770833333333
+        }
+      },
+      {
+        "id": "caption-21",
+        "startFrame": 2940.0,
+        "originalStart": 55.1,
+        "originalEnd": 57.46,
+        "text": {
+          "yue": "根扎得深，先可以長得更高",
+          "zh-CN": "根扎得深，才可以长得更高",
+          "en": "Deep roots reach higher"
+        },
+        "duration": {
+          "yue": 2.3599999999999994,
+          "en": 2.310416666666667,
+          "zh-CN": 2.6006666666666667
+        }
+      },
+      {
+        "id": "caption-22",
+        "startFrame": 3032.0,
+        "originalStart": 57.8,
+        "originalEnd": 60.36,
+        "text": {
+          "yue": "步伐夠穩，先可以走得更遠",
+          "zh-CN": "步伐够稳，才可以走得更远",
+          "en": "Steady steps go further"
+        },
+        "duration": {
+          "yue": 2.5600000000000023,
+          "en": 2.310416666666667,
+          "zh-CN": 3.0766666666666667
+        }
+      },
+      {
+        "id": "caption-23",
+        "startFrame": 3136.0,
+        "originalStart": 60.6,
+        "originalEnd": 63.67,
+        "text": {
+          "yue": "大展宏圖，穩如泰山",
+          "zh-CN": "大展宏图，稳如泰山",
+          "en": "Grand vision. Steady as a mountain."
+        },
+        "duration": {
+          "yue": 3.0700000000000003,
+          "en": 2.948958333333333,
+          "zh-CN": 2.6819375
+        }
+      },
+      {
+        "id": "caption-24",
+        "startFrame": 3248.5,
+        "originalStart": 64.35,
+        "originalEnd": 66.19,
+        "text": {
+          "yue": "宏泰國際",
+          "zh-CN": "宏泰国际",
+          "en": "Blue Oak International"
+        },
+        "duration": {
+          "yue": 1.8400000000000034,
+          "en": 1.8576458333333334,
+          "zh-CN": 1.2771458333333334
+        }
+      }
+    ],
+    "audioInsertions": [
+      {
+        "sample": 195480,
+        "frames": 11,
+        "samples": 17600,
+        "kind": "shared_body_hold",
+        "cueId": "caption-01",
+        "quiet20msPeak": 0.0007981061935424805
+      },
+      {
+        "sample": 287520,
+        "frames": 2,
+        "samples": 3200,
+        "kind": "shared_body_hold",
+        "cueId": "caption-02",
+        "quiet20msPeak": 0.0013769865036010742
+      },
+      {
+        "sample": 380640,
+        "frames": 16,
+        "samples": 25600,
+        "kind": "shared_body_hold",
+        "cueId": "caption-03",
+        "quiet20msPeak": 0.000786900520324707
+      },
+      {
+        "sample": 525960,
+        "frames": 25,
+        "samples": 40000,
+        "kind": "shared_body_hold",
+        "cueId": "caption-04",
+        "quiet20msPeak": 0.0015474557876586914
+      },
+      {
+        "sample": 679200,
+        "frames": 19,
+        "samples": 30400,
+        "kind": "shared_body_hold",
+        "cueId": "caption-05",
+        "quiet20msPeak": 0.0009061098098754883
+      },
+      {
+        "sample": 838560,
+        "frames": 39,
+        "samples": 62400,
+        "kind": "shared_body_hold",
+        "cueId": "caption-06",
+        "quiet20msPeak": 0.004712700843811035
+      },
+      {
+        "sample": 971640,
+        "frames": 66,
+        "samples": 105600,
+        "kind": "shared_body_hold",
+        "cueId": "caption-07",
+        "quiet20msPeak": 0.0035686492919921875
+      },
+      {
+        "sample": 1122720,
+        "frames": 27,
+        "samples": 43200,
+        "kind": "shared_body_hold",
+        "cueId": "caption-08",
+        "quiet20msPeak": 0.003373265266418457
+      },
+      {
+        "sample": 1205280,
+        "frames": 9,
+        "samples": 14400,
+        "kind": "shared_body_hold",
+        "cueId": "caption-09",
+        "quiet20msPeak": 0.005349993705749512
+      },
+      {
+        "sample": 1412640,
+        "frames": 2,
+        "samples": 3200,
+        "kind": "shared_body_hold",
+        "cueId": "caption-10",
+        "quiet20msPeak": 0.0
+      },
+      {
+        "sample": 1576440,
+        "frames": 22,
+        "samples": 35200,
+        "kind": "shared_body_hold",
+        "cueId": "caption-11",
+        "quiet20msPeak": 0.004357695579528809
+      },
+      {
+        "sample": 1580400,
+        "samples": 25920,
+        "quiet10msPeak": 0.0031642913818359375,
+        "kind": "city_word_alignment",
+        "beforeCity": "hk"
+      },
+      {
+        "sample": 1630080,
+        "samples": 15360,
+        "quiet10msPeak": 0.002307295799255371,
+        "kind": "city_word_alignment",
+        "beforeCity": "sz"
+      },
+      {
+        "sample": 1656660,
+        "samples": 28800,
+        "quiet10msPeak": 0.005282998085021973,
+        "kind": "city_word_alignment",
+        "beforeCity": "ny"
+      },
+      {
+        "sample": 1693800,
+        "frames": 48,
+        "samples": 6720,
+        "kind": "shared_body_hold",
+        "cueId": "caption-12",
+        "quiet20msPeak": 0.005586743354797363
+      },
+      {
+        "sample": 1819800,
+        "frames": 4,
+        "samples": 6400,
+        "kind": "shared_body_hold",
+        "cueId": "caption-13",
+        "quiet20msPeak": 0.0043441057205200195
+      },
+      {
+        "sample": 1950720,
+        "frames": 27,
+        "samples": 43200,
+        "kind": "shared_body_hold",
+        "cueId": "caption-14",
+        "quiet20msPeak": 0.0009682178497314453
+      },
+      {
+        "sample": 2054640,
+        "frames": 29,
+        "samples": 46400,
+        "kind": "shared_body_hold",
+        "cueId": "caption-15",
+        "quiet20msPeak": 0.005082368850708008
+      },
+      {
+        "sample": 2169000,
+        "frames": 38,
+        "samples": 60800,
+        "kind": "shared_body_hold",
+        "cueId": "caption-16",
+        "quiet20msPeak": 0.005370140075683594
+      },
+      {
+        "sample": 2234520,
+        "frames": 21,
+        "samples": 33600,
+        "kind": "shared_body_hold",
+        "cueId": "caption-17",
+        "quiet20msPeak": 0.003750324249267578
+      },
+      {
+        "sample": 2367120,
+        "frames": 12,
+        "samples": 19200,
+        "kind": "shared_body_hold",
+        "cueId": "caption-18",
+        "quiet20msPeak": 0.002435922622680664
+      },
+      {
+        "sample": 2490240,
+        "frames": 29,
+        "samples": 46400,
+        "kind": "shared_body_hold",
+        "cueId": "caption-19",
+        "quiet20msPeak": 0.00490260124206543
+      },
+      {
+        "sample": 2623680,
+        "frames": 911,
+        "kind": "people_insert",
+        "quiet20msPeak": 0.000876307487487793
+      },
+      {
+        "sample": 2765280,
+        "frames": 11,
+        "samples": 17600,
+        "kind": "shared_body_hold",
+        "cueId": "caption-21",
+        "quiet20msPeak": 0.0005611181259155273
+      },
+      {
+        "sample": 2902080,
+        "frames": 20,
+        "samples": 32000,
+        "kind": "shared_body_hold",
+        "cueId": "caption-22",
+        "quiet20msPeak": 0.0
+      },
+      {
+        "sample": 3219600,
+        "frames": 5,
+        "samples": 8000,
+        "kind": "shared_body_hold",
+        "cueId": "caption-24",
+        "quiet20msPeak": 0.0
+      }
+    ],
+    "approval": "qa/v13/people/shared-timing-extension-approval.json",
+    "mapTiming": {
+      "hongKong": 40.25333333333333,
+      "shenzhen": {
+        "start": 41.35333333333333,
+        "duration": 0.45
+      },
+      "routes": [
+        {
+          "name": "紐約",
+          "start": 42.31333333333334,
+          "duration": 0.8,
+          "main": true,
+          "amplitude": 0
+        },
+        {
+          "name": "新加坡",
+          "start": 43.53333333333333,
+          "duration": 0.8,
+          "main": false,
+          "amplitude": 0
+        }
+      ]
+    },
+    "mapSceneStartSeconds": 34.666666666666664,
+    "status": "prompt15_blue_gaps_shortened_shared_three_language",
+    "redesignCuts": [
+      {
+        "startFrame": 191,
+        "endFrame": 193,
+        "frames": 2,
+        "after": "caption-02",
+        "peak": {
+          "yue": 0.0010415315628051758,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 488,
+        "endFrame": 496,
+        "frames": 8,
+        "after": "caption-05",
+        "peak": {
+          "yue": 0.0,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 631,
+        "endFrame": 637,
+        "frames": 6,
+        "after": "caption-06",
+        "peak": {
+          "yue": 0.0011768341064453125,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 900,
+        "endFrame": 908,
+        "frames": 8,
+        "after": "caption-08",
+        "peak": {
+          "yue": 0.00431215763092041,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 965,
+        "endFrame": 966,
+        "frames": 1,
+        "after": "caption-09",
+        "peak": {
+          "yue": 0.0,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 1055,
+        "endFrame": 1070,
+        "frames": 15,
+        "after": "caption-10",
+        "peak": {
+          "yue": 0.0025252103805541992,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 1213,
+        "endFrame": 1221,
+        "frames": 8,
+        "after": "caption-11",
+        "peak": {
+          "yue": 0.0,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 1420,
+        "endFrame": 1428,
+        "frames": 8,
+        "after": "caption-13",
+        "peak": {
+          "yue": 0.007840991020202637,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 1531,
+        "endFrame": 1537,
+        "frames": 6,
+        "after": "caption-14",
+        "peak": {
+          "yue": 0.0008293390274047852,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      },
+      {
+        "startFrame": 1620,
+        "endFrame": 1628,
+        "frames": 8,
+        "after": "caption-15",
+        "peak": {
+          "yue": 0.0,
+          "en": 0.0,
+          "cn": 0.0
+        }
+      }
+    ],
+    "sourceTimeline": {
+      "fps": 30,
+      "durationInFrames": 3496,
+      "durationSeconds": 116.53333333333333,
+      "originalFrames": 2103,
+      "bodyExtraFrames": 482,
+      "peopleFrames": 911,
+      "peopleStartFrame": 2098,
+      "peopleSourceFrame": 1652,
+      "peoplePlan": {
+        "openingFrames": 107,
+        "personFrames": [
+          162,
+          153,
+          77,
+          78,
+          75,
+          76
+        ],
+        "returnFrames": 15,
+        "exitFrames": 6,
+        "wallFrames": 162
+      },
+      "holds": [
+        {
+          "sourceFrame": 113,
+          "frames": 11,
+          "cueId": "caption-01",
+          "startFrame": 113
+        },
+        {
+          "sourceFrame": 171,
+          "frames": 2,
+          "cueId": "caption-02",
+          "startFrame": 182
+        },
+        {
+          "sourceFrame": 229,
+          "frames": 16,
+          "cueId": "caption-03",
+          "startFrame": 242
+        },
+        {
+          "sourceFrame": 320,
+          "frames": 25,
+          "cueId": "caption-04",
+          "startFrame": 349
+        },
+        {
+          "sourceFrame": 413,
+          "frames": 19,
+          "cueId": "caption-05",
+          "startFrame": 467
+        },
+        {
+          "sourceFrame": 510,
+          "frames": 39,
+          "cueId": "caption-06",
+          "startFrame": 583
+        },
+        {
+          "sourceFrame": 599,
+          "frames": 66,
+          "cueId": "caption-07",
+          "startFrame": 711
+        },
+        {
+          "sourceFrame": 690,
+          "frames": 27,
+          "cueId": "caption-08",
+          "startFrame": 868
+        },
+        {
+          "sourceFrame": 748,
+          "frames": 9,
+          "cueId": "caption-09",
+          "startFrame": 953
+        },
+        {
+          "sourceFrame": 837,
+          "frames": 2,
+          "cueId": "caption-10",
+          "startFrame": 1051
+        },
+        {
+          "sourceFrame": 970,
+          "frames": 22,
+          "cueId": "caption-11",
+          "startFrame": 1186
+        },
+        {
+          "sourceFrame": 1069,
+          "frames": 48,
+          "cueId": "caption-12",
+          "startFrame": 1307
+        },
+        {
+          "sourceFrame": 1126,
+          "frames": 4,
+          "cueId": "caption-13",
+          "startFrame": 1412
+        },
+        {
+          "sourceFrame": 1212,
+          "frames": 27,
+          "cueId": "caption-14",
+          "startFrame": 1502
+        },
+        {
+          "sourceFrame": 1271,
+          "frames": 29,
+          "cueId": "caption-15",
+          "startFrame": 1588
+        },
+        {
+          "sourceFrame": 1315,
+          "frames": 38,
+          "cueId": "caption-16",
+          "startFrame": 1661
+        },
+        {
+          "sourceFrame": 1390,
+          "frames": 21,
+          "cueId": "caption-17",
+          "startFrame": 1774
+        },
+        {
+          "sourceFrame": 1467,
+          "frames": 12,
+          "cueId": "caption-18",
+          "startFrame": 1872
+        },
+        {
+          "sourceFrame": 1545,
+          "frames": 29,
+          "cueId": "caption-19",
+          "startFrame": 1962
+        },
+        {
+          "sourceFrame": 1720,
+          "frames": 11,
+          "cueId": "caption-21",
+          "startFrame": 2166
+        },
+        {
+          "sourceFrame": 1805,
+          "frames": 20,
+          "cueId": "caption-22",
+          "startFrame": 2262
+        },
+        {
+          "sourceFrame": 1980,
+          "frames": 5,
+          "cueId": "caption-24",
+          "startFrame": 2457
+        }
+      ],
+      "cues": [
+        {
+          "id": "caption-01",
+          "startFrame": 72.0,
+          "originalStart": 2.4,
+          "originalEnd": 3.9,
+          "text": {
+            "yue": "一個家族嘅未來",
+            "zh-CN": "一个家族的未来",
+            "en": "A family's future"
+          },
+          "duration": {
+            "yue": 1.5,
+            "en": 1.6138333333333332,
+            "zh-CN": 1.7415208333333334
+          }
+        },
+        {
+          "id": "caption-02",
+          "startFrame": 140.60000000000002,
+          "originalStart": 4.32,
+          "originalEnd": 5.9,
+          "text": {
+            "yue": "值得我哋睇得更遠",
+            "zh-CN": "值得看得更远",
+            "en": "Worth a longer view"
+          },
+          "duration": {
+            "yue": 1.58,
+            "en": 1.5209583333333334,
+            "zh-CN": 1.5209583333333334
+          }
+        },
+        {
+          "id": "caption-03",
+          "startFrame": 196.6,
+          "originalStart": 6.12,
+          "originalEnd": 7.78,
+          "text": {
+            "yue": "源自一九九七年",
+            "zh-CN": "源自一九九七年",
+            "en": "Since 1997"
+          },
+          "duration": {
+            "yue": 1.6600000000000001,
+            "en": 2.0666041666666666,
+            "zh-CN": 1.6950833333333333
+          }
+        },
+        {
+          "id": "caption-04",
+          "startFrame": 272.59999999999997,
+          "originalStart": 8.12,
+          "originalEnd": 10.78,
+          "text": {
+            "yue": "我哋一路走來，靠嘅係專業",
+            "zh-CN": "我们一路走来，靠的是专业",
+            "en": "Built on expertise, every step of the way"
+          },
+          "duration": {
+            "yue": 2.66,
+            "en": 3.3553333333333333,
+            "zh-CN": 2.404333333333333
+          }
+        },
+        {
+          "id": "caption-05",
+          "startFrame": 389.4,
+          "originalStart": 11.18,
+          "originalEnd": 13.88,
+          "text": {
+            "yue": "更加係每一份交到手上嘅信任",
+            "zh-CN": "更是每一份交到手上的信任",
+            "en": "And on every trust placed in our hands"
+          },
+          "duration": {
+            "yue": 2.700000000000001,
+            "en": 3.1927708333333333,
+            "zh-CN": 2.5658333333333334
+          }
+        },
+        {
+          "id": "caption-06",
+          "startFrame": 506.8,
+          "originalStart": 14.46,
+          "originalEnd": 17.34,
+          "text": {
+            "yue": "集團總保費超過一百億港元",
+            "zh-CN": "集团总保费超过一百亿港元",
+            "en": "Over HK$10 billion in total premiums"
+          },
+          "duration": {
+            "yue": 2.879999999999999,
+            "en": 4.0519375,
+            "zh-CN": 2.7178125
+          }
+        },
+        {
+          "id": "caption-07",
+          "startFrame": 641.2,
+          "originalStart": 17.64,
+          "originalEnd": 20.14,
+          "text": {
+            "yue": "總佣金超過十五億港元",
+            "zh-CN": "总佣金超过十五亿港元",
+            "en": "Over HK$1.5 billion in total commission"
+          },
+          "duration": {
+            "yue": 2.5,
+            "en": 4.551145833333333,
+            "zh-CN": 2.159479166666667
+          }
+        },
+        {
+          "id": "caption-08",
+          "startFrame": 790.6,
+          "originalStart": 20.42,
+          "originalEnd": 23.2,
+          "text": {
+            "yue": "服務超過兩萬位高淨值客戶",
+            "zh-CN": "服务超过两万位高净值客户",
+            "en": "Serving over 20,000 high-net-worth clients"
+          },
+          "duration": {
+            "yue": 2.7799999999999976,
+            "en": 3.553729166666667,
+            "zh-CN": 2.4381458333333335
+          }
+        },
+        {
+          "id": "caption-09",
+          "startFrame": 913.6,
+          "originalStart": 23.62,
+          "originalEnd": 25.06,
+          "text": {
+            "yue": "每一個數字背後",
+            "zh-CN": "每一个数字背后",
+            "en": "Behind every figure"
+          },
+          "duration": {
+            "yue": 1.4399999999999977,
+            "en": 1.6138333333333332,
+            "zh-CN": 1.3594375
+          }
+        },
+        {
+          "id": "caption-10",
+          "startFrame": 970.0,
+          "originalStart": 25.2,
+          "originalEnd": 27.96,
+          "text": {
+            "yue": "都有一個家庭，對未來嘅期望",
+            "zh-CN": "都有一个家庭，对未来的期望",
+            "en": "A family's hope for the future"
+          },
+          "duration": {
+            "yue": 2.7600000000000016,
+            "en": 2.310416666666667,
+            "zh-CN": 2.6819375
+          }
+        },
+        {
+          "id": "caption-11",
+          "startFrame": 1144.2,
+          "originalStart": 30.94,
+          "originalEnd": 32.54,
+          "text": {
+            "yue": "所以，我哋一直向前",
+            "zh-CN": "所以，我们一直向前",
+            "en": "So we keep moving forward"
+          },
+          "duration": {
+            "yue": 1.5999999999999979,
+            "en": 2.1953541666666667,
+            "zh-CN": 2.1130416666666667
+          }
+        },
+        {
+          "id": "caption-12",
+          "startFrame": 1234.0,
+          "originalStart": 33.2,
+          "originalEnd": 35.16,
+          "text": {
+            "yue": "連繫香港、深圳、紐約",
+            "zh-CN": "联系香港、深圳、纽约",
+            "en": "Connecting Hong Kong, Shenzhen, New York"
+          },
+          "duration": {
+            "yue": 3.4199999999999937,
+            "en": 3.4365625,
+            "zh-CN": 3.2243333333333335
+          }
+        },
+        {
+          "id": "caption-13",
+          "startFrame": 1354.0,
+          "originalStart": 35.6,
+          "originalEnd": 37.72,
+          "text": {
+            "yue": "新加坡亦正籌備中",
+            "zh-CN": "新加坡亦正筹备中",
+            "en": "Singapore in preparation"
+          },
+          "duration": {
+            "yue": 2.1199999999999974,
+            "en": 2.1130416666666667,
+            "zh-CN": 1.9505416666666666
+          }
+        },
+        {
+          "id": "caption-14",
+          "startFrame": 1435.4,
+          "originalStart": 38.18,
+          "originalEnd": 40.52,
+          "text": {
+            "yue": "從保險、信託，到稅務",
+            "zh-CN": "从保险、信托，到税务",
+            "en": "From insurance and trusts to tax"
+          },
+          "duration": {
+            "yue": 2.3400000000000034,
+            "en": 3.1115208333333335,
+            "zh-CN": 2.809645833333333
+          }
+        },
+        {
+          "id": "caption-15",
+          "startFrame": 1541.0,
+          "originalStart": 40.8,
+          "originalEnd": 42.54,
+          "text": {
+            "yue": "教育同身份規劃",
+            "zh-CN": "教育与身份规划",
+            "en": "Education and residency planning"
+          },
+          "duration": {
+            "yue": 1.740000000000002,
+            "en": 2.5658333333333334,
+            "zh-CN": 1.7773958333333333
+          }
+        },
+        {
+          "id": "caption-16",
+          "startFrame": 1639.0,
+          "originalStart": 43.1,
+          "originalEnd": 44.9,
+          "text": {
+            "yue": "將專業連成一個平台",
+            "zh-CN": "将专业连成一个平台",
+            "en": "One platform, built on expertise"
+          },
+          "duration": {
+            "yue": 1.7999999999999972,
+            "en": 2.9141458333333334,
+            "zh-CN": 2.0317708333333333
+          }
+        },
+        {
+          "id": "caption-17",
+          "startFrame": 1748.3999999999999,
+          "originalStart": 45.48,
+          "originalEnd": 46.48,
+          "text": {
+            "yue": "為每一個家族",
+            "zh-CN": "为每一个家族",
+            "en": "For every family"
+          },
+          "duration": {
+            "yue": 1.0,
+            "en": 1.5684166666666666,
+            "zh-CN": 1.5209583333333334
+          }
+        },
+        {
+          "id": "caption-18",
+          "startFrame": 1806.6,
+          "originalStart": 46.72,
+          "originalEnd": 49.16,
+          "text": {
+            "yue": "睇得更全面，行得更長遠",
+            "zh-CN": "看得更全面，行得更长远",
+            "en": "A fuller view. A longer road."
+          },
+          "duration": {
+            "yue": 2.4399999999999977,
+            "en": 2.7178125,
+            "zh-CN": 2.6819375
+          }
+        },
+        {
+          "id": "caption-19",
+          "startFrame": 1912.2,
+          "originalStart": 49.84,
+          "originalEnd": 51.68,
+          "text": {
+            "yue": "眼光，可以跨越地域",
+            "zh-CN": "眼光，可以跨越地域",
+            "en": "Vision crosses borders"
+          },
+          "duration": {
+            "yue": 1.8399999999999963,
+            "en": 1.9505416666666666,
+            "zh-CN": 2.6819375
+          }
+        },
+        {
+          "id": "caption-20",
+          "startFrame": 2009.6,
+          "originalStart": 52.12,
+          "originalEnd": 54.56,
+          "text": {
+            "yue": "信任，需要時間扎根",
+            "zh-CN": "信任，需要时间扎根",
+            "en": "Trust takes root in time"
+          },
+          "duration": {
+            "yue": 2.440000000000005,
+            "en": 2.1953541666666667,
+            "zh-CN": 2.2755833333333335
+          }
+        },
+        {
+          "id": "people-opening",
+          "startFrame": 2107,
+          "text": {
+            "yue": "平台嘅高度，由人嚟決定。",
+            "zh-CN": "平台的高度，由人来决定。",
+            "en": "A platform rises as high as its people."
+          },
+          "duration": {
+            "yue": 2.8560833333333333,
+            "en": 2.6819375,
+            "zh-CN": 2.1953541666666667
+          }
+        },
+        {
+          "id": "people-david-lau",
+          "startFrame": 2214,
+          "text": {
+            "yue": "三十年跨國企業經驗，帶領集團看得更遠。",
+            "zh-CN": "三十年跨国企业经验，带领集团看得更远。",
+            "en": "Thirty years with global firms, leading the group to see further."
+          },
+          "duration": {
+            "yue": 4.66725,
+            "en": 3.889375,
+            "zh-CN": 3.7268333333333334
+          }
+        },
+        {
+          "id": "people-patrick-li",
+          "startFrame": 2376,
+          "text": {
+            "yue": "精算嘅嚴謹，令每一份方案經得起時間。",
+            "zh-CN": "精算的严谨，让每一份方案经得起时间。",
+            "en": "Actuarial rigour that lets every plan stand the test of time."
+          },
+          "duration": {
+            "yue": 4.377,
+            "en": 4.353770833333333,
+            "zh-CN": 3.3553333333333333
+          }
+        },
+        {
+          "id": "people-operations-compliance",
+          "startFrame": 2529,
+          "text": {
+            "yue": "由營運到合規，每一個環節，都有人把關。",
+            "zh-CN": "从营运到合规，每一个环节，都有人把关。",
+            "en": "From operations to compliance, every step has a guardian."
+          },
+          "duration": {
+            "yue": 4.458270833333334,
+            "en": 4.191229166666667,
+            "zh-CN": 4.0519375
+          }
+        },
+        {
+          "id": "people-hong-kong-new-york",
+          "startFrame": 2684,
+          "text": {
+            "yue": "由香港到紐約，同一份專業，同一份承諾。",
+            "zh-CN": "从香港到纽约，同一份专业，同一份承诺。",
+            "en": "From Hong Kong to New York, one standard, one promise."
+          },
+          "duration": {
+            "yue": 4.3305625,
+            "en": 3.889375,
+            "zh-CN": 4.0519375
+          }
+        },
+        {
+          "id": "people-partner-wall",
+          "startFrame": 2856,
+          "text": {
+            "yue": "一群人，一個方向：守護每一個家族嘅未來。",
+            "zh-CN": "一群人，一个方向：守护每一个家族的未来。",
+            "en": "Many people, one purpose: safeguarding every family's future."
+          },
+          "duration": {
+            "yue": 4.504708333333333,
+            "en": 4.678875,
+            "zh-CN": 4.353770833333333
+          }
+        },
+        {
+          "id": "caption-21",
+          "startFrame": 3010.0,
+          "originalStart": 55.1,
+          "originalEnd": 57.46,
+          "text": {
+            "yue": "根扎得深，先可以長得更高",
+            "zh-CN": "根扎得深，才可以长得更高",
+            "en": "Deep roots reach higher"
+          },
+          "duration": {
+            "yue": 2.3599999999999994,
+            "en": 2.310416666666667,
+            "zh-CN": 2.6006666666666667
+          }
+        },
+        {
+          "id": "caption-22",
+          "startFrame": 3102.0,
+          "originalStart": 57.8,
+          "originalEnd": 60.36,
+          "text": {
+            "yue": "步伐夠穩，先可以走得更遠",
+            "zh-CN": "步伐够稳，才可以走得更远",
+            "en": "Steady steps go further"
+          },
+          "duration": {
+            "yue": 2.5600000000000023,
+            "en": 2.310416666666667,
+            "zh-CN": 3.0766666666666667
+          }
+        },
+        {
+          "id": "caption-23",
+          "startFrame": 3206.0,
+          "originalStart": 60.6,
+          "originalEnd": 63.67,
+          "text": {
+            "yue": "大展宏圖，穩如泰山",
+            "zh-CN": "大展宏图，稳如泰山",
+            "en": "Grand vision. Steady as a mountain."
+          },
+          "duration": {
+            "yue": 3.0700000000000003,
+            "en": 2.948958333333333,
+            "zh-CN": 2.6819375
+          }
+        },
+        {
+          "id": "caption-24",
+          "startFrame": 3318.5,
+          "originalStart": 64.35,
+          "originalEnd": 66.19,
+          "text": {
+            "yue": "宏泰國際",
+            "zh-CN": "宏泰国际",
+            "en": "Blue Oak International"
+          },
+          "duration": {
+            "yue": 1.8400000000000034,
+            "en": 1.8576458333333334,
+            "zh-CN": 1.2771458333333334
+          }
+        }
+      ],
+      "audioInsertions": [
+        {
+          "sample": 195480,
+          "frames": 11,
+          "samples": 17600,
+          "kind": "shared_body_hold",
+          "cueId": "caption-01",
+          "quiet20msPeak": 0.0007981061935424805
+        },
+        {
+          "sample": 287520,
+          "frames": 2,
+          "samples": 3200,
+          "kind": "shared_body_hold",
+          "cueId": "caption-02",
+          "quiet20msPeak": 0.0013769865036010742
+        },
+        {
+          "sample": 380640,
+          "frames": 16,
+          "samples": 25600,
+          "kind": "shared_body_hold",
+          "cueId": "caption-03",
+          "quiet20msPeak": 0.000786900520324707
+        },
+        {
+          "sample": 525960,
+          "frames": 25,
+          "samples": 40000,
+          "kind": "shared_body_hold",
+          "cueId": "caption-04",
+          "quiet20msPeak": 0.0015474557876586914
+        },
+        {
+          "sample": 679200,
+          "frames": 19,
+          "samples": 30400,
+          "kind": "shared_body_hold",
+          "cueId": "caption-05",
+          "quiet20msPeak": 0.0009061098098754883
+        },
+        {
+          "sample": 838560,
+          "frames": 39,
+          "samples": 62400,
+          "kind": "shared_body_hold",
+          "cueId": "caption-06",
+          "quiet20msPeak": 0.004712700843811035
+        },
+        {
+          "sample": 971640,
+          "frames": 66,
+          "samples": 105600,
+          "kind": "shared_body_hold",
+          "cueId": "caption-07",
+          "quiet20msPeak": 0.0035686492919921875
+        },
+        {
+          "sample": 1122720,
+          "frames": 27,
+          "samples": 43200,
+          "kind": "shared_body_hold",
+          "cueId": "caption-08",
+          "quiet20msPeak": 0.003373265266418457
+        },
+        {
+          "sample": 1205280,
+          "frames": 9,
+          "samples": 14400,
+          "kind": "shared_body_hold",
+          "cueId": "caption-09",
+          "quiet20msPeak": 0.005349993705749512
+        },
+        {
+          "sample": 1412640,
+          "frames": 2,
+          "samples": 3200,
+          "kind": "shared_body_hold",
+          "cueId": "caption-10",
+          "quiet20msPeak": 0.0
+        },
+        {
+          "sample": 1576440,
+          "frames": 22,
+          "samples": 35200,
+          "kind": "shared_body_hold",
+          "cueId": "caption-11",
+          "quiet20msPeak": 0.004357695579528809
+        },
+        {
+          "sample": 1580400,
+          "samples": 25920,
+          "quiet10msPeak": 0.0031642913818359375,
+          "kind": "city_word_alignment",
+          "beforeCity": "hk"
+        },
+        {
+          "sample": 1630080,
+          "samples": 15360,
+          "quiet10msPeak": 0.002307295799255371,
+          "kind": "city_word_alignment",
+          "beforeCity": "sz"
+        },
+        {
+          "sample": 1656660,
+          "samples": 28800,
+          "quiet10msPeak": 0.005282998085021973,
+          "kind": "city_word_alignment",
+          "beforeCity": "ny"
+        },
+        {
+          "sample": 1693800,
+          "frames": 48,
+          "samples": 6720,
+          "kind": "shared_body_hold",
+          "cueId": "caption-12",
+          "quiet20msPeak": 0.005586743354797363
+        },
+        {
+          "sample": 1819800,
+          "frames": 4,
+          "samples": 6400,
+          "kind": "shared_body_hold",
+          "cueId": "caption-13",
+          "quiet20msPeak": 0.0043441057205200195
+        },
+        {
+          "sample": 1950720,
+          "frames": 27,
+          "samples": 43200,
+          "kind": "shared_body_hold",
+          "cueId": "caption-14",
+          "quiet20msPeak": 0.0009682178497314453
+        },
+        {
+          "sample": 2054640,
+          "frames": 29,
+          "samples": 46400,
+          "kind": "shared_body_hold",
+          "cueId": "caption-15",
+          "quiet20msPeak": 0.005082368850708008
+        },
+        {
+          "sample": 2169000,
+          "frames": 38,
+          "samples": 60800,
+          "kind": "shared_body_hold",
+          "cueId": "caption-16",
+          "quiet20msPeak": 0.005370140075683594
+        },
+        {
+          "sample": 2234520,
+          "frames": 21,
+          "samples": 33600,
+          "kind": "shared_body_hold",
+          "cueId": "caption-17",
+          "quiet20msPeak": 0.003750324249267578
+        },
+        {
+          "sample": 2367120,
+          "frames": 12,
+          "samples": 19200,
+          "kind": "shared_body_hold",
+          "cueId": "caption-18",
+          "quiet20msPeak": 0.002435922622680664
+        },
+        {
+          "sample": 2490240,
+          "frames": 29,
+          "samples": 46400,
+          "kind": "shared_body_hold",
+          "cueId": "caption-19",
+          "quiet20msPeak": 0.00490260124206543
+        },
+        {
+          "sample": 2623680,
+          "frames": 911,
+          "kind": "people_insert",
+          "quiet20msPeak": 0.000876307487487793
+        },
+        {
+          "sample": 2765280,
+          "frames": 11,
+          "samples": 17600,
+          "kind": "shared_body_hold",
+          "cueId": "caption-21",
+          "quiet20msPeak": 0.0005611181259155273
+        },
+        {
+          "sample": 2902080,
+          "frames": 20,
+          "samples": 32000,
+          "kind": "shared_body_hold",
+          "cueId": "caption-22",
+          "quiet20msPeak": 0.0
+        },
+        {
+          "sample": 3219600,
+          "frames": 5,
+          "samples": 8000,
+          "kind": "shared_body_hold",
+          "cueId": "caption-24",
+          "quiet20msPeak": 0.0
+        }
+      ],
+      "approval": "qa/v13/people/shared-timing-extension-approval.json",
+      "mapTiming": {
+        "hongKong": 41.85333333333333,
+        "shenzhen": {
+          "start": 42.95333333333333,
+          "duration": 0.45
+        },
+        "routes": [
+          {
+            "name": "紐約",
+            "start": 43.913333333333334,
+            "duration": 1.05,
+            "main": true,
+            "amplitude": 9
+          },
+          {
+            "name": "新加坡",
+            "start": 45.13333333333333,
+            "duration": 0.85,
+            "main": false,
+            "amplitude": 5
+          }
+        ]
+      },
+      "mapSceneStartSeconds": 36.0,
+      "status": "three_language_measured_timeline"
+    },
+    "dataStartSeconds": 16.466666666666665
+  },
+  "sceneStarts": {
+    "data": 446.87568555758685,
+    "awards": 814.4939130434782,
+    "map": 937.286432160804,
+    "platform": 1221.6239782016348,
+    "paper": 1494.149908592322,
+    "people": 1822.8850102669405,
+    "roots": 2651.097402597403,
+    "closing": 2802.2,
+    "iris": 1469,
+    "irisEnd": 1495
+  },
+  "mapTiming": {
+    "hongKong": 35.47166666666668,
+    "shenzhen": {
+      "start": 36.55166666666666,
+      "duration": 0.45
+    },
+    "routes": [
+      {
+        "name": "紐約",
+        "start": 37.31166666666668,
+        "duration": 0.8,
+        "main": true,
+        "amplitude": 0
+      },
+      {
+        "name": "新加坡",
+        "start": 39.69833333333334,
+        "duration": 0.8,
+        "main": false,
+        "amplitude": 0
+      }
+    ]
+  },
+  "status": "v15_center_iris_clean_frame_voice_balance"
+}

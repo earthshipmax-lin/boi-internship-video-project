@@ -1,0 +1,175 @@
+{
+  "keep_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "light_schedule": [
+    {
+      "time": 14.4,
+      "frame": 432,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 14.5,
+      "frame": 435,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 14.56666667,
+      "frame": 437,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 14.66666667,
+      "frame": 440,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 14.73333333,
+      "frame": 442,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 14.83333333,
+      "frame": 445,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 14.93333333,
+      "frame": 448,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.0,
+      "frame": 450,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.1,
+      "frame": 453,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.16666667,
+      "frame": 455,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.26666667,
+      "frame": 458,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.33333333,
+      "frame": 460,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.43333333,
+      "frame": 463,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.53333333,
+      "frame": 466,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.6,
+      "frame": 468,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.7,
+      "frame": 471,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.76666667,
+      "frame": 473,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.86666667,
+      "frame": 476,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 15.93333333,
+      "frame": 478,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 16.03333333,
+      "frame": 481,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 16.13333333,
+      "frame": 484,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 16.2,
+      "frame": 486,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 16.3,
+      "frame": 489,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 16.36666667,
+      "frame": 491,
+      "kind": "accelerated scene-bounded timing"
+    },
+    {
+      "time": 16.46666667,
+      "frame": 494,
+      "kind": "accelerated scene-bounded timing"
+    }
+  ],
+  "rows": 5,
+  "cols": 5,
+  "grid_left": 1040,
+  "grid_top": 280,
+  "cell_w": 142,
+  "cell_h": 80,
+  "gap_x": 11,
+  "gap_y": 12,
+  "commission_shift": 120,
+  "commission_opacity": 0.45,
+  "lighting_revision": {
+    "id": "stage2-logo-r01",
+    "scene_start_frame": 431,
+    "next_scene_frame": 525,
+    "fade_seconds": 0.18,
+    "all_lit_frame": 500,
+    "full_hold_frames": 25,
+    "reason": "User requires every supplier lit before the next scene; latest instruction supersedes old interval constraint."
+  }
+}

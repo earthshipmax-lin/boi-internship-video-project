@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "david-wang",
+    "name": "David Wang",
+    "sourcePage": 19,
+    "sourceImage": "p19-002.png",
+    "smask": "p19-003.png",
+    "nativeSize": [
+      335,
+      382
+    ],
+    "cropBox": [
+      14.699999999999989,
+      0,
+      320.3,
+      382
+    ],
+    "cropSize": [
+      305.6,
+      382
+    ],
+    "outputSize": [
+      224,
+      280
+    ],
+    "scale": 0.7329842931937173,
+    "supportingLine": "Formerly at WFG",
+    "formerEmployerStatus": "PDF-sourced translation; company review pending",
+    "sourceSha256": "882f6e6fa77cdaac2180567878d3ba2d23941ff2585bbe3ae9bb407a1b27b496",
+    "preparedSha256": "6b7f1e8e092d187005d3ff73b828506264f6df8e6c19bdb48cef633188167d38"
+  },
+  {
+    "slug": "lily-ku",
+    "name": "Lily Ku",
+    "sourcePage": 19,
+    "sourceImage": "p19-006.png",
+    "smask": "p19-007.png",
+    "nativeSize": [
+      430,
+      425
+    ],
+    "cropBox": [
+      45.0,
+      0,
+      385.0,
+      425
+    ],
+    "cropSize": [
+      340.0,
+      425
+    ],
+    "outputSize": [
+      224,
+      280
+    ],
+    "scale": 0.6588235294117647,
+    "supportingLine": "Formerly at New York Life / MassMutual",
+    "formerEmployerStatus": "PDF-sourced translation; company review pending",
+    "sourceSha256": "ef2c871374fa33ee94590784bce7308d8f1f34241835f73167f8a94560419572",
+    "preparedSha256": "21be93c543e85bc0c777512e4c59bce1a86b46d007cfc0c928553bb18f253b29"
+  },
+  {
+    "slug": "noah-cheung",
+    "name": "Noah Cheung",
+    "sourcePage": 19,
+    "sourceImage": "p19-008.png",
+    "smask": "p19-009.png",
+    "nativeSize": [
+      297,
+      364
+    ],
+    "cropBox": [
+      2.9000000000000057,
+      0,
+      294.1,
+      364
+    ],
+    "cropSize": [
+      291.2,
+      364
+    ],
+    "outputSize": [
+      224,
+      280
+    ],
+    "scale": 0.7692307692307693,
+    "supportingLine": "Engineering background",
+    "formerEmployerStatus": "PDF-sourced translation; company review pending",
+    "sourceSha256": "49271ff0fb9ab66d920b80eb85ea8c58c77f697eadf0b211fb94f4d14a025481",
+    "preparedSha256": "ce9332dc4d2699a5f368916da008af226b0a9e38b09db4890bb427acdf3b4fdd"
+  },
+  {
+    "slug": "catherine-luo",
+    "name": "Catherine Luo",
+    "sourcePage": 19,
+    "sourceImage": "p19-004.png",
+    "smask": "p19-005.png",
+    "nativeSize": [
+      320,
+      398
+    ],
+    "cropBox": [
+      0.8000000000000114,
+      0,
+      319.2,
+      398
+    ],
+    "cropSize": [
+      318.4,
+      398
+    ],
+    "outputSize": [
+      224,
+      280
+    ],
+    "scale": 0.7035175879396985,
+    "supportingLine": "Formerly at Deutsche Bank / RBS",
+    "formerEmployerStatus": "PDF-sourced translation; company review pending",
+    "sourceSha256": "eed2a72ecd8ee54aa81575061c8dba378b351a57e24ca1446fbaa5b0a1c490aa",
+    "preparedSha256": "8c7ddfc18582a41eb92f1cff4d322749c10a7f76fa356e6e3a10c2a2eedfef84"
+  },
+  {
+    "slug": "vivian-mau",
+    "name": "Vivian Mau",
+    "sourcePage": 19,
+    "sourceImage": "p19-014.png",
+    "smask": "p19-015.png",
+    "nativeSize": [
+      282,
+      282
+    ],
+    "cropBox": [
+      28.200000000000003,
+      0,
+      253.8,
+      282
+    ],
+    "cropSize": [
+      225.6,
+      282
+    ],
+    "outputSize": [
+      224,
+      280
+    ],
+    "scale": 0.9929078014184397,
+    "supportingLine": "Formerly at WFG / PFA",
+    "formerEmployerStatus": "PDF-sourced translation; company review pending",
+    "sourceSha256": "8374d590dff1e1d0491e38fade1ae7b254b20370d41c20b2b8760a2e2206a6db",
+    "preparedSha256": "b5ae8683014f53fcbf6acf01dd62fb381185aa2c0e32fc4724a9b3fc5387e9dd"
+  },
+  {
+    "slug": "crystal-wan",
+    "name": "Crystal Wan",
+    "sourcePage": 19,
+    "sourceImage": "p19-012.png",
+    "smask": "p19-013.png",
+    "nativeSize": [
+      474,
+      571
+    ],
+    "cropBox": [
+      8.599999999999994,
+      0,
+      465.4,
+      571
+    ],
+    "cropSize": [
+      456.8,
+      571
+    ],
+    "outputSize": [
+      224,
+      280
+    ],
+    "scale": 0.4903677758318739,
+    "supportingLine": "Formerly at PFA",
+    "formerEmployerStatus": "PDF-sourced translation; company review pending",
+    "sourceSha256": "e2460ff4093b1389def80873a42d177a55bdea615560b6478ee15bae5a255960",
+    "preparedSha256": "6f92761d17440728c6f32ed272de2b8912428f1947630f337a2681b3bfeef7cb"
+  }
+]

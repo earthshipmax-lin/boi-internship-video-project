@@ -1,0 +1,15 @@
+{
+  "us": {
+    "baseStart": 0.6,
+    "baseDur": 0.65,
+    "trunkStart": 1.1,
+    "trunkDur": 0.9,
+    "leafStart": 1.7,
+    "ringGap": 0.38,
+    "leafStagger": 0.04,
+    "leafDur": 0.34,
+    "wordStart": 3.3,
+    "wordDur": 0.9,
+    "complete": 4.2
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "introFrames": 150,
+  "introExitStart": 4.6,
+  "introExitSeconds": 0.4,
+  "logoRate": 2.3333333333333335,
+  "logoCompleteSeconds": 3.6,
+  "introBrandHoldSeconds": 1.0,
+  "bodyFrames": 1048,
+  "outroFrames": 196,
+  "outroFrom": 1198,
+  "frames": 1394,
+  "sourceV6IntroFrames": 252,
+  "outroTiming": {
+    "id": "S7",
+    "from": 1300,
+    "frames": 196,
+    "segments": [
+      {
+        "sourceFrom": 1968,
+        "sourceTo": 1978,
+        "outputFrames": 5,
+        "rate": 2.0,
+        "role": "entry transition"
+      },
+      {
+        "sourceFrom": 1978,
+        "sourceTo": 2192,
+        "outputFrames": 191,
+        "rate": 1.1204188481675392,
+        "role": "speech and short hold"
+      }
+    ],
+    "speechRate": 1.1204188481675392,
+    "voiceFrom": 1305.0,
+    "voiceEnd": 1435.5655695093458
+  },
+  "bodyParts": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ],
+  "note": "Only replace intro/outro visuals; reuse six v6 body video streams and all v6 voice PCM. Original master and wordmark untouched."
+}
