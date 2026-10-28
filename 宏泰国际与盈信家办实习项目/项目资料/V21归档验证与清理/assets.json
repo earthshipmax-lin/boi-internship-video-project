@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BOI-v21-CN.mp4",
+    "bytes": 13841452,
+    "sha256": "fb0547c7dc3f9ab825efe798e8b92057408e186ceba1a1beffe38ca32280d2b0"
+  },
+  {
+    "name": "BOI-v21-EN.mp4",
+    "bytes": 14466271,
+    "sha256": "e5b326b7d46448ef3a7042064fc23be0b77fe1d33b9fdcb1de43c4e3a9b07bcf"
+  },
+  {
+    "name": "BOI-v20-v21-work-archive.zip",
+    "bytes": 519392288,
+    "sha256": "79e1374fbc66d099c99783c2a370f72d878bcf31032a2c8ada179db4914c2e06"
+  },
+  {
+    "name": "BOI-v21-three-language-delivery.zip",
+    "bytes": 42707058,
+    "sha256": "043cc9f2d3073f042c70bc857772565f5118ac640437a6d8d1cdcb5ea6c26c25"
+  },
+  {
+    "name": "BOI-v21-YUE.mp4",
+    "bytes": 14398005,
+    "sha256": "cd7659d3b9da0e4d5e22f7fb889ddd23bb1ca31ee4c7a0ea92d1510a3d301fc2"
+  }
+]

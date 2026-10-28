@@ -2,8 +2,8 @@ from pathlib import Path
 import subprocess,json,time,hashlib,zipfile
 R=Path(__file__).resolve().parents[2];A=R/'video/qa/archive-v21-20261028';repo='earthshipmax-lin/boi-internship-video-project';tag='v21-final-2026-10-28';expected=json.load(open(A/'assets.json'))
 while True:
- try:r=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/releases/tags/{tag}'],stderr=subprocess.DEVNULL))
- except subprocess.CalledProcessError:time.sleep(5);continue
+ try:r=next(x for x in json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/releases'],stderr=subprocess.DEVNULL)) if x['tag_name']==tag)
+ except (subprocess.CalledProcessError,StopIteration):time.sleep(5);continue
  assets={a['name']:a for a in r['assets']}
  if all(x['name'] in assets and assets[x['name']]['state']=='uploaded' for x in expected):break
  time.sleep(5)
@@ -12,7 +12,11 @@ for x in expected:
 (A/'remote-verification.json').write_text(json.dumps({'releaseId':r['id'],'assets':[{'name':x['name'],'bytes':x['bytes'],'sha256':x['sha256'],'assetId':assets[x['name']]['id']} for x in expected],'allServerDigestsMatch':True},indent=2))
 D=A/'download-check';D.mkdir(exist_ok=True)
 for x in expected:
- p=D/x['name'];subprocess.run(['gh','release','download',tag,'--repo',repo,'--pattern',x['name'],'--dir',str(D)],check=True);assert p.stat().st_size==x['bytes'];assert hashlib.file_digest(p.open('rb'),'sha256').hexdigest()==x['sha256']
+ p=D/x['name']
+ if not (p.exists() and p.stat().st_size==x['bytes'] and hashlib.file_digest(p.open('rb'),'sha256').hexdigest()==x['sha256']):
+  url=f'https://github.com/{repo}/releases/download/{tag}/'+x['name']
+  subprocess.run(['curl','--fail','--location','--continue-at','-','--retry','8','--retry-delay','2','--retry-all-errors','--connect-timeout','30','--output',str(p),url],check=True)
+ assert p.stat().st_size==x['bytes'];assert hashlib.file_digest(p.open('rb'),'sha256').hexdigest()==x['sha256']
  if p.suffix=='.zip':
   with zipfile.ZipFile(p) as z:
    assert z.testzip() is None

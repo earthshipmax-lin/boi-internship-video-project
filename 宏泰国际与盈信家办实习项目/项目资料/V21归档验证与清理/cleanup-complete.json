@@ -1,0 +1,715 @@
+{
+  "date": "2026-10-28",
+  "release": "https://github.com/earthshipmax-lin/boi-internship-video-project/releases/tag/v21-final-2026-10-28",
+  "deletedMediaFiles": [
+    {
+      "path": "BOI-v21-三语树生长统一版_20261028.zip",
+      "bytes": 42707058,
+      "sha256": "043cc9f2d3073f042c70bc857772565f5118ac640437a6d8d1cdcb5ea6c26c25"
+    },
+    {
+      "path": "video/out/BOI-HK_v20_普通話_接點20秒預覽.mp4",
+      "bytes": 3742801,
+      "sha256": "e6b57aeae481d4b88f7cfcb1879f924dddd5b56548d122efa45fa019c4908703"
+    },
+    {
+      "path": "video/out/BOI-HK_v20_粵語_接點20秒預覽.mp4",
+      "bytes": 3812905,
+      "sha256": "93b88a636bd7c30597b8faec12ebfbf8e12582f96ba57a548b6004a889b82acb"
+    },
+    {
+      "path": "video/out/BOI-HK_v20_英文_接點20秒預覽.mp4",
+      "bytes": 3431302,
+      "sha256": "a783e69a0594bb0c15a6ac7aa610685bbcb8192205c9853ed6e81a7a488bbf9f"
+    },
+    {
+      "path": "video/out/BOI-HK_v21_普通話_樹生成長9秒預覽.mp4",
+      "bytes": 954990,
+      "sha256": "81ff43a399ef939d9079c4da3dcfad35821188b779f7fa5566b24df528fbcb7d"
+    },
+    {
+      "path": "video/out/BOI-HK_v21_粵語_樹生成長9秒預覽.mp4",
+      "bytes": 995803,
+      "sha256": "6769f31f86c500645de0c9ca4cce2b25f4a0a035ca7b2e84e7a1b2e795af19fd"
+    },
+    {
+      "path": "video/out/BOI-HK_v21_英文_樹生成長9秒預覽.mp4",
+      "bytes": 900591,
+      "sha256": "75016eb529b459d6e5e4dd052ba3386a9eba31ac51d61c7a363967f8e6076a1e"
+    },
+    {
+      "path": "video/out/BOI-HK_史詩形象片_v20_普通話_無人物版.mp4",
+      "bytes": 13821450,
+      "sha256": "d84fd2d6b06ecec1c332ffcd7a99a42aff52a33d1db724485386ea5af2e3d3b3"
+    },
+    {
+      "path": "video/out/BOI-HK_史詩形象片_v20_粵語_無人物版.mp4",
+      "bytes": 14382188,
+      "sha256": "48360df2415af50d25d13c8f6b4e16c79f292c644e89383729babef4ab6d1344"
+    },
+    {
+      "path": "video/out/BOI-HK_史詩形象片_v20_英文_無人物版.mp4",
+      "bytes": 14467394,
+      "sha256": "fd34c81920b7d5cd492a9234b8f84a256e0f080a7decea5f0c2149c67b9087a0"
+    },
+    {
+      "path": "video/out/BOI-HK_史詩形象片_v21_普通話_統一樹生成長版.mp4",
+      "bytes": 13841452,
+      "sha256": "fb0547c7dc3f9ab825efe798e8b92057408e186ceba1a1beffe38ca32280d2b0"
+    },
+    {
+      "path": "video/out/BOI-HK_史詩形象片_v21_粵語_統一樹生成長版.mp4",
+      "bytes": 14398005,
+      "sha256": "cd7659d3b9da0e4d5e22f7fb889ddd23bb1ca31ee4c7a0ea92d1510a3d301fc2"
+    },
+    {
+      "path": "video/out/BOI-HK_史詩形象片_v21_英文_統一樹生成長版.mp4",
+      "bytes": 14466271,
+      "sha256": "e5b326b7d46448ef3a7042064fc23be0b77fe1d33b9fdcb1de43c4e3a9b07bcf"
+    },
+    {
+      "path": "video/public/music/hk-v20/cn-candidate-A.wav",
+      "bytes": 21091302,
+      "sha256": "3810554e6197672d6a53bec33b15414201bf2831506dd540b7d6eaa3dbc7f278"
+    },
+    {
+      "path": "video/public/music/hk-v20/cn-candidate-B.wav",
+      "bytes": 21091302,
+      "sha256": "ec62459bb3a5a1f2b80e33e143a740eed433037b190cc244ef0040bd0d83a3c5"
+    },
+    {
+      "path": "video/public/music/hk-v20/cn-master.wav",
+      "bytes": 21091302,
+      "sha256": "3810554e6197672d6a53bec33b15414201bf2831506dd540b7d6eaa3dbc7f278"
+    },
+    {
+      "path": "video/public/music/hk-v20/cn-voice.wav",
+      "bytes": 21091302,
+      "sha256": "84d746b4e73b04d15bd47d4f0c968d1514d667b958a77bab0b378424bf8e0634"
+    },
+    {
+      "path": "video/public/music/hk-v20/en-candidate-A.wav",
+      "bytes": 20755302,
+      "sha256": "f7a72e296467aaf23d2ae3731a23ceb5e49fa015066ac0cbdc8de0763a1f1b4e"
+    },
+    {
+      "path": "video/public/music/hk-v20/en-candidate-B.wav",
+      "bytes": 20755302,
+      "sha256": "14d75d5ab66383126b90efc174728580cac69382e28d92626283249d4c2131a8"
+    },
+    {
+      "path": "video/public/music/hk-v20/en-master.wav",
+      "bytes": 20755302,
+      "sha256": "f7a72e296467aaf23d2ae3731a23ceb5e49fa015066ac0cbdc8de0763a1f1b4e"
+    },
+    {
+      "path": "video/public/music/hk-v20/en-voice.wav",
+      "bytes": 20755302,
+      "sha256": "00ed06a9402cce723407d956d0d9b99af62b3564388a9f3b7ed8b95e66e64edd"
+    },
+    {
+      "path": "video/public/music/hk-v20/yue-candidate-A.wav",
+      "bytes": 21964902,
+      "sha256": "b61dc75ef95c0de72028d0cc1c00e1531be68672232b3914e8ec9fbeef513438"
+    },
+    {
+      "path": "video/public/music/hk-v20/yue-candidate-B.wav",
+      "bytes": 21964902,
+      "sha256": "dd802682f11288fa625feff597441f8b7c3600159e16f119585d0cbdba36deca"
+    },
+    {
+      "path": "video/public/music/hk-v20/yue-master.wav",
+      "bytes": 21964902,
+      "sha256": "b61dc75ef95c0de72028d0cc1c00e1531be68672232b3914e8ec9fbeef513438"
+    },
+    {
+      "path": "video/public/music/hk-v20/yue-voice.wav",
+      "bytes": 21964902,
+      "sha256": "72bdb1ea12661c341838856b6d390fd694a91b7a5a8a3a1ee3a811a08a0265a3"
+    },
+    {
+      "path": "video/qa/v20/cn-join-A-20s.wav",
+      "bytes": 5760102,
+      "sha256": "d5fc00105bd9f6696a1da6714dc9613827c41dbae36df8748a076d0f16abf066"
+    },
+    {
+      "path": "video/qa/v20/cn-join-A-analysis.png",
+      "bytes": 431113,
+      "sha256": "b751461a01f7a719faabee634916371c5bb6ae0e45ba4f947fe081712b241a99"
+    },
+    {
+      "path": "video/qa/v20/cn-join-B-20s.wav",
+      "bytes": 5760102,
+      "sha256": "a0bab678a82c79ab647fb3ea17531ff3b3527a0c5a27811f74071c687b6c40c8"
+    },
+    {
+      "path": "video/qa/v20/cn-join-B-analysis.png",
+      "bytes": 430566,
+      "sha256": "b1d9ae4e40d89abf3ec2dbf7daf434d1d0863d172be1074045aa296e745a7915"
+    },
+    {
+      "path": "video/qa/v20/cn-picture.mp4",
+      "bytes": 10979750,
+      "sha256": "61ddb3e5cb25ee643d0d33a2952fdc460c1c7771c07f56e8631ed7c903c6f3cf"
+    },
+    {
+      "path": "video/qa/v20/en-join-A-20s.wav",
+      "bytes": 5760102,
+      "sha256": "3e1d2fc23e043f751e15f43541c49d3a472ea9b89acf23f7b3f36986b4641ac3"
+    },
+    {
+      "path": "video/qa/v20/en-join-A-analysis.png",
+      "bytes": 418503,
+      "sha256": "0110cf62e55ab94bcd11f1699cced2e77ea158d4f584a97be026e1d55ca57b55"
+    },
+    {
+      "path": "video/qa/v20/en-join-B-20s.wav",
+      "bytes": 5760102,
+      "sha256": "66eebbc193f1518163db86ce6a160d2ca8b04c391bdd5374eb37d9758a21998c"
+    },
+    {
+      "path": "video/qa/v20/en-join-B-analysis.png",
+      "bytes": 418459,
+      "sha256": "a7a6c76d43b1eea57ab40051245479431e62a8236c16bafd57ab449c62d9517f"
+    },
+    {
+      "path": "video/qa/v20/en-picture.mp4",
+      "bytes": 11668801,
+      "sha256": "3add63e151cdb1b1714d7066915c1896ea22ef824d635f99e372ec8ac1a55f44"
+    },
+    {
+      "path": "video/qa/v20/frames/cn-1739.png",
+      "bytes": 67694,
+      "sha256": "f1397b449d87bc5831764d7bb34344e63068cdbc05f04b4e74959365cc6dbee4"
+    },
+    {
+      "path": "video/qa/v20/frames/cn-1744.png",
+      "bytes": 34429,
+      "sha256": "8ab947b3f3e7f95095064421d171fe2a0aa72f9ed1f1316caefb6e12663a6d36"
+    },
+    {
+      "path": "video/qa/v20/frames/cn-1752.png",
+      "bytes": 89045,
+      "sha256": "d8857da0bfeb91fe403a65aa16f4cc472430f891257453d9696f6b7385c8d285"
+    },
+    {
+      "path": "video/qa/v20/frames/cn-1768.png",
+      "bytes": 129750,
+      "sha256": "48a2c93f26023d0db5e09794cc8cb1dda3039664cc191bb06148e5fd6394a3c4"
+    },
+    {
+      "path": "video/qa/v20/frames/cn-1785.png",
+      "bytes": 132231,
+      "sha256": "6995465617d76d04ad20ca84ecc571d8b09fbdf78fe3a519b8f0549cdf1a9e9c"
+    },
+    {
+      "path": "video/qa/v20/frames/cn-2132.png",
+      "bytes": 94689,
+      "sha256": "ce377fa93a8ec0fa7c4852e8d327548401281088d81a82c477f32d3e6129b0d2"
+    },
+    {
+      "path": "video/qa/v20/frames/en-1839.png",
+      "bytes": 59599,
+      "sha256": "cada3a88ffd9011fb2c5361565463f803f956aae66d5fca19539cfbab1e7240a"
+    },
+    {
+      "path": "video/qa/v20/frames/en-1844.png",
+      "bytes": 34429,
+      "sha256": "8ab947b3f3e7f95095064421d171fe2a0aa72f9ed1f1316caefb6e12663a6d36"
+    },
+    {
+      "path": "video/qa/v20/frames/en-1852.png",
+      "bytes": 89539,
+      "sha256": "b47cc0975d6dca24656904fed42efc712e12a6231b7eb3107855cc6bc6e23e15"
+    },
+    {
+      "path": "video/qa/v20/frames/en-1868.png",
+      "bytes": 122443,
+      "sha256": "d87ece32fd6744c8d246079d0c36ae1d2422ccce2db1a308affa0e612f68ff14"
+    },
+    {
+      "path": "video/qa/v20/frames/en-1885.png",
+      "bytes": 124777,
+      "sha256": "292b854c0cce203622bd703f1d3c5e990487b6c6826b36c878e7b9fdd6febcf3"
+    },
+    {
+      "path": "video/qa/v20/frames/en-2097.png",
+      "bytes": 90089,
+      "sha256": "0099960bf6b8881bedfbe2ea6f259c6ff08edee5b02434098fa8400ee8a9811e"
+    },
+    {
+      "path": "video/qa/v20/frames/yue-1815.png",
+      "bytes": 68279,
+      "sha256": "146631cefbb3fa6d34777f4d27336c49a47d59702352049de05dac3d324168e5"
+    },
+    {
+      "path": "video/qa/v20/frames/yue-1820.png",
+      "bytes": 34429,
+      "sha256": "8ab947b3f3e7f95095064421d171fe2a0aa72f9ed1f1316caefb6e12663a6d36"
+    },
+    {
+      "path": "video/qa/v20/frames/yue-1828.png",
+      "bytes": 89251,
+      "sha256": "7c61e8077e320947cccce893822f94ed018c687ab0ab81b719e1e50c40582b7a"
+    },
+    {
+      "path": "video/qa/v20/frames/yue-1844.png",
+      "bytes": 129252,
+      "sha256": "bc811c470de1613621f24941a73052e5fc76661a8c844b5643be4acd25611454"
+    },
+    {
+      "path": "video/qa/v20/frames/yue-1861.png",
+      "bytes": 131677,
+      "sha256": "0c38400972db90361f6ff167e14fa7f62fd048103438b70fdd1ac68ef3b848a9"
+    },
+    {
+      "path": "video/qa/v20/frames/yue-2223.png",
+      "bytes": 97559,
+      "sha256": "186cf2eaeb07b3e89690dc6375cca656143ee070b64a8e4b0b18b6d4ab40c112"
+    },
+    {
+      "path": "video/qa/v20/parity/cn-1000-new.png",
+      "bytes": 1308125,
+      "sha256": "a76fde6fb95f3eeebca8b1e87764fae2092abf6d3674a70692eb23f3c23c3ef2"
+    },
+    {
+      "path": "video/qa/v20/parity/cn-1000-old.png",
+      "bytes": 1308125,
+      "sha256": "a76fde6fb95f3eeebca8b1e87764fae2092abf6d3674a70692eb23f3c23c3ef2"
+    },
+    {
+      "path": "video/qa/v20/parity/cn-1505-new.png",
+      "bytes": 1268648,
+      "sha256": "18a13caabcd4a6fda3b1b06ce8a3db5c692efe44100fe28724fe3046c91eabd5"
+    },
+    {
+      "path": "video/qa/v20/parity/cn-1505-old.png",
+      "bytes": 1268648,
+      "sha256": "18a13caabcd4a6fda3b1b06ce8a3db5c692efe44100fe28724fe3046c91eabd5"
+    },
+    {
+      "path": "video/qa/v20/parity/cn-2167-new.png",
+      "bytes": 94689,
+      "sha256": "ce377fa93a8ec0fa7c4852e8d327548401281088d81a82c477f32d3e6129b0d2"
+    },
+    {
+      "path": "video/qa/v20/parity/cn-2167-old.png",
+      "bytes": 94689,
+      "sha256": "ce377fa93a8ec0fa7c4852e8d327548401281088d81a82c477f32d3e6129b0d2"
+    },
+    {
+      "path": "video/qa/v20/parity/cn-300-new.png",
+      "bytes": 1246662,
+      "sha256": "b5fb2f29d9d9e4e73caa7214b8cdb08446ec3827b29f678caff7a3384c22ca08"
+    },
+    {
+      "path": "video/qa/v20/parity/cn-300-old.png",
+      "bytes": 1246662,
+      "sha256": "b5fb2f29d9d9e4e73caa7214b8cdb08446ec3827b29f678caff7a3384c22ca08"
+    },
+    {
+      "path": "video/qa/v20/parity/en-1000-new.png",
+      "bytes": 1315125,
+      "sha256": "b457645ca748040d13fa03a721ee145b4c373a75b02064de944f094a881817f7"
+    },
+    {
+      "path": "video/qa/v20/parity/en-1000-old.png",
+      "bytes": 1315125,
+      "sha256": "b457645ca748040d13fa03a721ee145b4c373a75b02064de944f094a881817f7"
+    },
+    {
+      "path": "video/qa/v20/parity/en-1574-new.png",
+      "bytes": 1284347,
+      "sha256": "b407b69d7a9ceabe1456158363d1af14ba2490a875b8348a3ca4cd26824996eb"
+    },
+    {
+      "path": "video/qa/v20/parity/en-1574-old.png",
+      "bytes": 1284347,
+      "sha256": "b407b69d7a9ceabe1456158363d1af14ba2490a875b8348a3ca4cd26824996eb"
+    },
+    {
+      "path": "video/qa/v20/parity/en-2132-new.png",
+      "bytes": 89646,
+      "sha256": "e13228bda70be11dec729a36d8ca218cafb017c9396748e1adde9e10ce3c8f7c"
+    },
+    {
+      "path": "video/qa/v20/parity/en-2132-old.png",
+      "bytes": 89646,
+      "sha256": "e13228bda70be11dec729a36d8ca218cafb017c9396748e1adde9e10ce3c8f7c"
+    },
+    {
+      "path": "video/qa/v20/parity/en-300-new.png",
+      "bytes": 1242836,
+      "sha256": "13669598e954005ef49cb36413e841368464059109485dc77cb96853522ee509"
+    },
+    {
+      "path": "video/qa/v20/parity/en-300-old.png",
+      "bytes": 1242836,
+      "sha256": "13669598e954005ef49cb36413e841368464059109485dc77cb96853522ee509"
+    },
+    {
+      "path": "video/qa/v20/parity/yue-1000-new.png",
+      "bytes": 1307846,
+      "sha256": "32fcd484af0fc91fb33abdee808b283dac6e76e016497ee0cba0b7bd5566c970"
+    },
+    {
+      "path": "video/qa/v20/parity/yue-1000-old.png",
+      "bytes": 1307846,
+      "sha256": "32fcd484af0fc91fb33abdee808b283dac6e76e016497ee0cba0b7bd5566c970"
+    },
+    {
+      "path": "video/qa/v20/parity/yue-1573-new.png",
+      "bytes": 1136893,
+      "sha256": "8226e6f74231c41bb88660cb3a5bc69494d0eb63ee9e637e99ddff1e8172b2ad"
+    },
+    {
+      "path": "video/qa/v20/parity/yue-1573-old.png",
+      "bytes": 1136893,
+      "sha256": "8226e6f74231c41bb88660cb3a5bc69494d0eb63ee9e637e99ddff1e8172b2ad"
+    },
+    {
+      "path": "video/qa/v20/parity/yue-2258-new.png",
+      "bytes": 97559,
+      "sha256": "186cf2eaeb07b3e89690dc6375cca656143ee070b64a8e4b0b18b6d4ab40c112"
+    },
+    {
+      "path": "video/qa/v20/parity/yue-2258-old.png",
+      "bytes": 97559,
+      "sha256": "186cf2eaeb07b3e89690dc6375cca656143ee070b64a8e4b0b18b6d4ab40c112"
+    },
+    {
+      "path": "video/qa/v20/parity/yue-300-new.png",
+      "bytes": 1248297,
+      "sha256": "1142ec52c7e16ed4e4137ded5e9c1c92d94f4855e9e3b401d0213fca2dff01fd"
+    },
+    {
+      "path": "video/qa/v20/parity/yue-300-old.png",
+      "bytes": 1248297,
+      "sha256": "1142ec52c7e16ed4e4137ded5e9c1c92d94f4855e9e3b401d0213fca2dff01fd"
+    },
+    {
+      "path": "video/qa/v20/scan-v20",
+      "bytes": 122120,
+      "sha256": "880f411da69b908a6d12ef6e4c0cfe06401c67c653f358bf6d9edf3c59c21e95"
+    },
+    {
+      "path": "video/qa/v20/yue-join-A-20s.wav",
+      "bytes": 5760102,
+      "sha256": "eeabe28d1f0c87ce8c08435db993fac10376bab5d23e3f83ea70b7d9743e5b00"
+    },
+    {
+      "path": "video/qa/v20/yue-join-A-analysis.png",
+      "bytes": 421165,
+      "sha256": "b5ac527e19cdd5212e3e88f74760875c034463306c349cf3bb41c79578e01380"
+    },
+    {
+      "path": "video/qa/v20/yue-join-B-20s.wav",
+      "bytes": 5760102,
+      "sha256": "8261205629d57788fffcbb8f41a8b1964c20d891aa5a364d012c3e0c64917d4e"
+    },
+    {
+      "path": "video/qa/v20/yue-join-B-analysis.png",
+      "bytes": 421033,
+      "sha256": "b37972a50fec1279dfd105c5656ab5ca0ea94b7f492ebea2563f20bed485267f"
+    },
+    {
+      "path": "video/qa/v20/yue-picture.mp4",
+      "bytes": 11394595,
+      "sha256": "e2b18525c36b2c629b7a42c7292179058854942dc07ba5bc0732cf0f6adbc4ae"
+    },
+    {
+      "path": "video/qa/v20/普通話_接點A_20秒預覽.mp4",
+      "bytes": 3744527,
+      "sha256": "4fa54fe45b8843f45291e79c32dc95cda658c8435f5cc90aa6032190facdcaf8"
+    },
+    {
+      "path": "video/qa/v20/普通話_接點B_20秒預覽.mp4",
+      "bytes": 3744341,
+      "sha256": "2e3b9dd6a875d0ebce7e37761b428cbc815f37e894fd4a9256b6d9066478c73b"
+    },
+    {
+      "path": "video/qa/v21/cn-patch.mp4",
+      "bytes": 582258,
+      "sha256": "5d2f3e4aad4e134eda7433bd496c425c707e3610f76b6f69e79f7a2f6e17cfc6"
+    },
+    {
+      "path": "video/qa/v21/cn-picture.mp4",
+      "bytes": 10999753,
+      "sha256": "20242783626389f7b26fcd6e6b5343bf9f38f39bfe028b7386035f0078957413"
+    },
+    {
+      "path": "video/qa/v21/cn-prefix.mp4",
+      "bytes": 10204933,
+      "sha256": "cb21170648a1758bde3c06be3c3a7c33e8e343b52ced6f58f127bf3825e402a4"
+    },
+    {
+      "path": "video/qa/v21/cn-suffix.mp4",
+      "bytes": 214959,
+      "sha256": "e69859e5865af1bc570a73173686f349b964079df690cb54bf643891f682d856"
+    },
+    {
+      "path": "video/qa/v21/en-patch.mp4",
+      "bytes": 527838,
+      "sha256": "7052bbf4e5326e82a8acdff7d571f59ad1c677a1eb7a89ffba0be4c6ce6553f0"
+    },
+    {
+      "path": "video/qa/v21/en-picture.mp4",
+      "bytes": 11667679,
+      "sha256": "f89cd0f465ffd1473b0fdc2f69ee71c55fba44f5b7d1ed75844906dcc5402578"
+    },
+    {
+      "path": "video/qa/v21/en-prefix.mp4",
+      "bytes": 11009935,
+      "sha256": "b30b3d75fb196d1f39eb0aa6b15c2dc0987c483d75373c40d37429e037a8be69"
+    },
+    {
+      "path": "video/qa/v21/en-suffix.mp4",
+      "bytes": 132295,
+      "sha256": "5207290c60714dd7e951cc4ba5c7277abee9596dc0a96896751d3c7dc5796d45"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1745-new.png",
+      "bytes": 49665,
+      "sha256": "e78562e1485bbc1cc2d5259b4b89c6ad91622428ca89a0bf661ba6d3bd90a164"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1757-new.png",
+      "bytes": 60845,
+      "sha256": "5dfda638915e098bacc0e9581431f1fe933f7d24d15840bcf5bda1a7393b6649"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1775-new.png",
+      "bytes": 98046,
+      "sha256": "29ef7d58892c71be6f02894e1596a4be5b4fabaae4e747db1d93077d374ac7f0"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1805-new.png",
+      "bytes": 120195,
+      "sha256": "9c3d7c81d97f51f31930f0653cc74d03b3c2e1a47bf825e5d8b3c19dcd6ff279"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1835-new.png",
+      "bytes": 136184,
+      "sha256": "8a137627942bd1dbb50d8bd18a2ba3174bd8cf44988efdb2d8bfd9a6b580ed97"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1865-new.png",
+      "bytes": 141832,
+      "sha256": "83d7d9040bc485fff000a479c1341c9897e9bec3e1fc08014cc5abeeb46ca510"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1865-old.png",
+      "bytes": 141903,
+      "sha256": "ed41c45a826b56619c22c958d7587243205bac5e2453f30e93bce8bf152eedd6"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1962-new.png",
+      "bytes": 70967,
+      "sha256": "455fbc62003172ef6eda3ee28b85b0d88f198275aa5908ec067ab628e66e9a6f"
+    },
+    {
+      "path": "video/qa/v21/frames/cn-1962-old.png",
+      "bytes": 70967,
+      "sha256": "455fbc62003172ef6eda3ee28b85b0d88f198275aa5908ec067ab628e66e9a6f"
+    },
+    {
+      "path": "video/qa/v21/frames/en-1845-new.png",
+      "bytes": 51436,
+      "sha256": "923ed4944ba82098248cf5e85876b1174d0116761f2143f2f7df1ad59e6c155a"
+    },
+    {
+      "path": "video/qa/v21/frames/en-1857-new.png",
+      "bytes": 61500,
+      "sha256": "e2fee777d9c88b8dfd817dca4192a6a9c12648faa9a75a5255c8696ef66f937b"
+    },
+    {
+      "path": "video/qa/v21/frames/en-1875-new.png",
+      "bytes": 91324,
+      "sha256": "1e9826ad20121b74211efc9afbb39368a1cff3fddfe286fe1d375f196357bbca"
+    },
+    {
+      "path": "video/qa/v21/frames/en-1905-new.png",
+      "bytes": 113612,
+      "sha256": "2b7af870b547a480d1ac899967cdb1a6e9040ece33fb4cdf47b78d2dd9b6f01c"
+    },
+    {
+      "path": "video/qa/v21/frames/en-1935-new.png",
+      "bytes": 130653,
+      "sha256": "dd7abf6188a7e1fa28fa7b030066cf331720dc61a5bd92859ad1af3e1b36b48b"
+    },
+    {
+      "path": "video/qa/v21/frames/en-1965-new.png",
+      "bytes": 130653,
+      "sha256": "dd7abf6188a7e1fa28fa7b030066cf331720dc61a5bd92859ad1af3e1b36b48b"
+    },
+    {
+      "path": "video/qa/v21/frames/en-1965-old.png",
+      "bytes": 130678,
+      "sha256": "7a6818c707ea7220f0a70556267c479d185d1138f026325244768d682471b1d9"
+    },
+    {
+      "path": "video/qa/v21/frames/en-2027-new.png",
+      "bytes": 64102,
+      "sha256": "dcba1f4bca4356079fbc3449f3e52ad8607e9e95418456f50039b174fd6b2d7c"
+    },
+    {
+      "path": "video/qa/v21/frames/en-2027-old.png",
+      "bytes": 64102,
+      "sha256": "dcba1f4bca4356079fbc3449f3e52ad8607e9e95418456f50039b174fd6b2d7c"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-1821-new.png",
+      "bytes": 49800,
+      "sha256": "6eead5cdc03d2feee00fd939a5c8a8f2e59947bf5830b6a2e56bfc68c7690220"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-1833-new.png",
+      "bytes": 61208,
+      "sha256": "a5645a04571365dcf43c8aa29cb52da3634eb8c891c13f058635bf127799ecb4"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-1851-new.png",
+      "bytes": 97596,
+      "sha256": "7f0f66b9a4692ec76f407703cd850933ec1a5ba814c8aa2291ba70591a37c865"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-1881-new.png",
+      "bytes": 119850,
+      "sha256": "e37b080cbfa1783ea573defdf54bdd2520af506729ff6d6e30e876ed07e4ba17"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-1911-new.png",
+      "bytes": 120753,
+      "sha256": "e2fc95c69b22d97ee9cf128386de3d05d61b18c0b1871d142024f9124242d036"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-1941-new.png",
+      "bytes": 145624,
+      "sha256": "43450a8a9049b1eddd379552ec69e568dd3b48c637c0488b6cd403a150c15a3b"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-1941-old.png",
+      "bytes": 145706,
+      "sha256": "544282bcc32cedc5fa10c01ccb42da62f59ce63bcb4e9ea59798091ea67f6cc8"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-2038-new.png",
+      "bytes": 74137,
+      "sha256": "23893520edbd12b9c946a62208e0a3d9c80ae5e1bae7483cb72e1b3d96295fd0"
+    },
+    {
+      "path": "video/qa/v21/frames/yue-2038-old.png",
+      "bytes": 74137,
+      "sha256": "23893520edbd12b9c946a62208e0a3d9c80ae5e1bae7483cb72e1b3d96295fd0"
+    },
+    {
+      "path": "video/qa/v21/yue-patch.mp4",
+      "bytes": 627757,
+      "sha256": "d2242a800c0b0a90d20992c0c7c8659bf5a7fecedddb8da48577bf11fd578c27"
+    },
+    {
+      "path": "video/qa/v21/yue-picture.mp4",
+      "bytes": 11410413,
+      "sha256": "74c7dbe3e5f12d13e927bb95bd8080395a12f3ce8ec27f7cb8a14eb5a6f82222"
+    },
+    {
+      "path": "video/qa/v21/yue-prefix.mp4",
+      "bytes": 10562259,
+      "sha256": "85110e4150a37757cc028d4a2cb5e4dbff51aa504ceebc3c0b882f8e6018cb2d"
+    },
+    {
+      "path": "video/qa/v21/yue-suffix.mp4",
+      "bytes": 222778,
+      "sha256": "4bb5e01853d36b2779c18ef51022846b845b0bc4d5fa49f919897d815739bc08"
+    },
+    {
+      "path": "video/public/music/hk-v15/cn-master.wav",
+      "bytes": 28435302,
+      "sha256": "07efd720742e4ec727db6cdbb8b1d0035600aaf4be784f940649d07568d2288c",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/cn-music.wav",
+      "bytes": 28435302,
+      "sha256": "80904453a6554da6443f7ca967b66d98c34bd32090f43d535c40ec6533540425",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/cn-pre-master.wav",
+      "bytes": 28435302,
+      "sha256": "e6411f0f1962f7e49c148bc9a27a19d318838827a8658d265d058e59ba24cba5",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/cn-voice.wav",
+      "bytes": 28435302,
+      "sha256": "1e0ac92466f2cbed567f25863bda2e801e064f3ba2b973b6144221453f158958",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/en-master.wav",
+      "bytes": 28492902,
+      "sha256": "db27e230b9a6f3339b45277a4640b8cd1d65915b831d679bff0aba27992bead3",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/en-music.wav",
+      "bytes": 28492902,
+      "sha256": "780daa1f92b6b4f13929b0b04618dd3750aef27c394914883d3e64ff0de573ba",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/en-pre-master.wav",
+      "bytes": 28492902,
+      "sha256": "690f2eea1ae508b7fe74dcaf9ab0e7920ee0c2a4eca9b3ce6bd9730b71853e87",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/en-voice.wav",
+      "bytes": 28492902,
+      "sha256": "980a90b1bda605aae3b696549223f58ec4814aa1b96b370b8cc262e913950d3d",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/yue-master.wav",
+      "bytes": 29539302,
+      "sha256": "f616249f2903829b0d6e71e0866c906dc9f1995932c9940d57aa0d4c46d4f043",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/yue-music.wav",
+      "bytes": 29539302,
+      "sha256": "f177e940fe76232e43a031e85458931363984e84dd94f9f78dc2c0b217d31019",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/yue-pre-master.wav",
+      "bytes": 29539302,
+      "sha256": "d7c9f128fabf177f4da42293a708c797fe770c54bef2a363721f68e17214b5b8",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v15/yue-voice.wav",
+      "bytes": 29539302,
+      "sha256": "fee5227ac62418312ec2851b8086fdc591a71a63c9df7f258222d7b6988ed642",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v19/cn-master.wav",
+      "bytes": 28435302,
+      "sha256": "2362636c0386748164f68a6593cb79bdd58e9bf9f80dfb7cb8e5701b23c0e3a5",
+      "backup": "project-archive-2026-10-27"
+    },
+    {
+      "path": "video/public/music/hk-v19/cn-voice.wav",
+      "bytes": 28435302,
+      "sha256": "5e30e0528fb9c80f83c86a8b994ba2371e08ade9b30f37041c6c92bb7de19d19",
+      "backup": "project-archive-2026-10-27"
+    }
+  ],
+  "deletedMediaBytes": 974345286,
+  "rebuildableDependenciesBytes": 1118232380,
+  "transferAndRedownloadBytes": 1209610148,
+  "publicRepoWorkingVideoCopiesRemoved": true,
+  "publicRepoWorkingVideoBytes": 42705728
+}
