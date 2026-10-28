@@ -1,0 +1,56 @@
+{
+  "cn": {
+    "file": "out/BOI-HK_史詩形象片_v21_普通話_統一樹生成長版.mp4",
+    "preview": "out/BOI-HK_v21_普通話_樹生成長9秒預覽.mp4",
+    "frames": 2197,
+    "seconds": 73.23333333333333,
+    "sha256": "fb0547c7dc3f9ab825efe798e8b92057408e186ceba1a1beffe38ca32280d2b0",
+    "audioPacketBytesAndTimestampsEqual": true,
+    "audioPCMEqual": true,
+    "audioSHA256": "SHA256=8d029fec197dad85c59f67221e67a0fc73c5b7e79851a4e118bb6cb76cf6da76",
+    "audioPCMSHA256": "SHA256=7e5c4aee2f7479e3b94d30cad7d7b1e89668c5c87eda8127c63149172b33e6af",
+    "videoFramesOutsidePatchEqual": true,
+    "unchangedFrames": 1947,
+    "patch": [
+      1745,
+      1994
+    ],
+    "fullDecodePassed": true
+  },
+  "yue": {
+    "file": "out/BOI-HK_史詩形象片_v21_粵語_統一樹生成長版.mp4",
+    "preview": "out/BOI-HK_v21_粵語_樹生成長9秒預覽.mp4",
+    "frames": 2288,
+    "seconds": 76.26666666666667,
+    "sha256": "cd7659d3b9da0e4d5e22f7fb889ddd23bb1ca31ee4c7a0ea92d1510a3d301fc2",
+    "audioPacketBytesAndTimestampsEqual": true,
+    "audioPCMEqual": true,
+    "audioSHA256": "SHA256=8e41afc59374a63f0ca14e212861f5db924d9a54f7c17cc48a6e0c5afe2ed0af",
+    "audioPCMSHA256": "SHA256=7b418e4bf14593ad041ba42a2aac3c73229fe04935468876cd3de7d7c1d589a7",
+    "videoFramesOutsidePatchEqual": true,
+    "unchangedFrames": 2038,
+    "patch": [
+      1821,
+      2070
+    ],
+    "fullDecodePassed": true
+  },
+  "en": {
+    "file": "out/BOI-HK_史詩形象片_v21_英文_統一樹生成長版.mp4",
+    "preview": "out/BOI-HK_v21_英文_樹生成長9秒預覽.mp4",
+    "frames": 2162,
+    "seconds": 72.06666666666666,
+    "sha256": "e5b326b7d46448ef3a7042064fc23be0b77fe1d33b9fdcb1de43c4e3a9b07bcf",
+    "audioPacketBytesAndTimestampsEqual": true,
+    "audioPCMEqual": true,
+    "audioSHA256": "SHA256=a01c025b305415d66cde6eaba7393d99575f22f98ae02410e92cf25d108f8b84",
+    "audioPCMSHA256": "SHA256=94311e8f8ebcea0038d9a2fde83fdecaf80d55767b7e0c0a4ed1ab05d882bff1",
+    "videoFramesOutsidePatchEqual": true,
+    "unchangedFrames": 1912,
+    "patch": [
+      1845,
+      2094
+    ],
+    "fullDecodePassed": true
+  }
+}

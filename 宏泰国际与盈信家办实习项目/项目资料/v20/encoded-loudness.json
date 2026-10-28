@@ -1,0 +1,14 @@
+{
+  "cn": {
+    "LUFS": "-14.05",
+    "truePeakDBTP": "-1.28"
+  },
+  "yue": {
+    "LUFS": "-13.93",
+    "truePeakDBTP": "-1.20"
+  },
+  "en": {
+    "LUFS": "-13.74",
+    "truePeakDBTP": "-1.24"
+  }
+}

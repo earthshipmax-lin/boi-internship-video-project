@@ -1,0 +1,50 @@
+{
+  "cn": {
+    "voicePrefixEqual": true,
+    "voiceSuffixEqual": true,
+    "variants": {
+      "A": {
+        "prefixEqual": true,
+        "suffixBeyondJoinEqual": true,
+        "maxAmplitude": 0.8618011474609375
+      },
+      "B": {
+        "prefixEqual": true,
+        "suffixBeyondJoinEqual": true,
+        "maxAmplitude": 0.8618011474609375
+      }
+    }
+  },
+  "yue": {
+    "voicePrefixEqual": true,
+    "voiceSuffixEqual": true,
+    "variants": {
+      "A": {
+        "prefixEqual": true,
+        "suffixBeyondJoinEqual": true,
+        "maxAmplitude": 0.8615481853485107
+      },
+      "B": {
+        "prefixEqual": true,
+        "suffixBeyondJoinEqual": true,
+        "maxAmplitude": 0.8615481853485107
+      }
+    }
+  },
+  "en": {
+    "voicePrefixEqual": true,
+    "voiceSuffixEqual": true,
+    "variants": {
+      "A": {
+        "prefixEqual": true,
+        "suffixBeyondJoinEqual": true,
+        "maxAmplitude": 0.8611522912979126
+      },
+      "B": {
+        "prefixEqual": true,
+        "suffixBeyondJoinEqual": true,
+        "maxAmplitude": 0.8611522912979126
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "protectedCount": 180,
+  "protectedChanged": [],
+  "nativePictureSamples": [
+    {
+      "old": "cn-1865-old.png",
+      "changedPixels": 19392,
+      "changedPixelsOutsideTree": 0
+    },
+    {
+      "old": "en-2027-old.png",
+      "changedPixels": 0,
+      "changedPixelsOutsideTree": 0
+    },
+    {
+      "old": "yue-2038-old.png",
+      "changedPixels": 0,
+      "changedPixelsOutsideTree": 0
+    },
+    {
+      "old": "en-1965-old.png",
+      "changedPixels": 19392,
+      "changedPixelsOutsideTree": 0
+    },
+    {
+      "old": "yue-1941-old.png",
+      "changedPixels": 19392,
+      "changedPixelsOutsideTree": 0
+    },
+    {
+      "old": "cn-1962-old.png",
+      "changedPixels": 0,
+      "changedPixelsOutsideTree": 0
+    }
+  ],
+  "typecheckPassed": true,
+  "sharedComponent": "OfficialBrandV10",
+  "sharedClock": "1.2 + elapsed * 2.05",
+  "allThreeAudioPacketAndPCMIdenticalToV20": true
+}

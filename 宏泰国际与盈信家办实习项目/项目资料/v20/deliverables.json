@@ -1,0 +1,29 @@
+{
+  "cn": {
+    "file": "out/BOI-HK_史詩形象片_v20_普通話_無人物版.mp4",
+    "preview": "out/BOI-HK_v20_普通話_接點20秒預覽.mp4",
+    "sha256": "d84fd2d6b06ecec1c332ffcd7a99a42aff52a33d1db724485386ea5af2e3d3b3",
+    "frames": 2197,
+    "seconds": 73.233333,
+    "decodePassed": true,
+    "hasAudio": true
+  },
+  "yue": {
+    "file": "out/BOI-HK_史詩形象片_v20_粵語_無人物版.mp4",
+    "preview": "out/BOI-HK_v20_粵語_接點20秒預覽.mp4",
+    "sha256": "48360df2415af50d25d13c8f6b4e16c79f292c644e89383729babef4ab6d1344",
+    "frames": 2288,
+    "seconds": 76.266667,
+    "decodePassed": true,
+    "hasAudio": true
+  },
+  "en": {
+    "file": "out/BOI-HK_史詩形象片_v20_英文_無人物版.mp4",
+    "preview": "out/BOI-HK_v20_英文_接點20秒預覽.mp4",
+    "sha256": "fd34c81920b7d5cd492a9234b8f84a256e0f080a7decea5f0c2149c67b9087a0",
+    "frames": 2162,
+    "seconds": 72.066667,
+    "decodePassed": true,
+    "hasAudio": true
+  }
+}
